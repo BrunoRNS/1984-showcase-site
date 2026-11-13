@@ -1,0 +1,271 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>The Commissar Vanishes</title>
+    <script id="nyt-capsule-data" type="text/json">
+        {
+            "lastTransform": "2018-04-08T05:57:52.472Z"
+        }
+    </script>
+    <script src="https://archive.nytimes.com/_capsule/nyt-capsule.js" type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="https://archive.nytimes.com/_capsule/nyt-capsule.css">
+</head>
+
+<body bgcolor="#ffffff" vlink="#444464" link="#000064">
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+            <tr>
+                <td align="left" valign="top" width="60"><br></td>
+                <td align="left" valign="top" width="480">
+                    <img src="https://static01.nyt.com/books/images_br/1banbookreview.gif" border="0" width="468" height="40" alt="banner">
+                    <br clear="all">
+                    <map name="maintoolbar2"> 
+<area shape="rect" coords="0,0,75,16" href="https://www.nytimes.com/yr/mo/day/" onmouseover="window.status=&apos;Click to go to the Home Page&apos;;return true">
+<area shape="rect" coords="76,0,154,16" href="https://www.nytimes.com/info/contents/siteindex.html" onmouseover="window.status=&apos;Click to see site contents&apos;;return true">
+<area shape="rect" coords="155,0,233,16" href="https://www.nytimes.com/search/daily/" onmouseover="window.status=&apos;Click to search the current site&apos;;return true">
+<area shape="rect" coords="234,0,312,16" href="https://www.nytimes.com/comment/" onmouseover="window.status=&apos;Click for discussion in the Forums&apos;;return true">
+<area shape="rect" coords="313,0,391,16" href="https://www.nytimes.com/archives/" onmouseover="window.status=&apos;Click to search the archives&apos;;return true">
+<area shape="rect" coords="392,0,468,16" href="https://www.nytimes.com/marketplace/" onmouseover="window.status=&apos;Click to visit the Marketplace&apos;;return true">
+</map>
+                    <a href="https://www.nytimes.com/images/maintoolbar2.map"> 
+<img src="https://static01.nyt.com/images/maintoolbar2.gif" border="0" alt="toolbar" ismap usemap="#maintoolbar2" width="468" height="16"></a>
+                    <br>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <blockquote>
+        <blockquote>
+            <font size="+1" color="990000"><b>
+CHAPTER ONE
+</b></font>
+            <p>
+                <font size="+2">
+                    The Commissar Vanishes<br>
+                </font>
+                <font size="+1">The Falsification of Photographs and Art in Stalin&apos;s Russia</font><br>
+            </p>
+            <hr>
+            <font size="+1">
+                By DAVID KING<br>
+            </font>
+            <font size="-1">
+                Metropolitan Books Henry Holt and Company</font>
+            <p> <img src="https://static01.nyt.com/books/images_br/firstdot.gif"> <a href="https://www.nytimes.com/books/97/11/09/reviews/971109.09louriet.html">Read the Review</a>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <center><b>                          INTRODUCTION
+<p>
+                            HEAVY SOVIET LOSSES</p></b></center>
+            <p>
+                Like their counterparts in Hollywood, photographic retouchers in Soviet Russia spent long hours smoothing out the blemishes of imperfect complexions, helping the camera to falsify reality. Joseph Stalin&apos;s pockmarked face, in particular, demanded
+                exceptional skills with the airbrush. But it was during the Great Purges, which raged in the late 1930s, that a new form of falsification emerged. The physical eradication of Stalin&apos;s political opponents at the hands of the secret
+                police was swiftly followed by their obliteration from all forms of pictorial existence.
+            </p>
+            <p>
+                Photographs for publication were retouched and restructured with airbrush and scalpel to make once famous personalities vanish. Paintings, too, were often withdrawn from museums and art galleries so that compromising faces could be blocked out of group
+                portraits. Entire editions of works by denounced politicians and writers were banished to the closed sections of the state libraries and archives or simply destroyed.
+            </p>
+            <p>
+                At the same time, a parallel industry came into full swing, glorifying Stalin as the &quot;great leader and teacher of the Soviet people&quot; through socialist realist paintings, monumental sculpture, and falsified photographs representing him as the
+                only true friend, comrade, and successor to Lenin, the leader of the Bolshevik Revolution and founder of the USSR. The whole country was subjected to this charade of Stalin-worship.
+            </p>
+            <p>
+                Soviet citizens, fearful of the consequences of being caught in possession of material considered &quot;anti-Soviet&quot; or &quot;counterrevolutionary,&quot; were forced to deface their own copies of books and photographs, often savagely attacking them
+                with scissors or disfiguring them with India ink. There is hardly a publication from the Stalinist period that does not bear the scars of this political vandalism, a haunting example of which can be seen on the opposite page. The grim
+                but not unusual story of the picture&apos;s unfortunate subject is worth studying in detail.
+            </p>
+            <p>
+                Isaak Abramovich Zelensky joined the Bolshevik Party in 1906 at the age of sixteen and took an active part in the October Revolution of 1917. In 1922 he was elected a full member of the Central Committee of the Communist Party. As secretary of the Moscow
+                Party organization, Zelensky served on the commission that arranged the burial of Lenin in 1924. In the fall of that year, however, Stalin attacked Zelensky for &quot;insufficient hostility to Kamenev and Zinoviev,&quot; who were at that
+                moment in opposition to the future dictator in the power struggle that followed Lenin&apos;s death. Zelensky was packed off to Tashkent for seven years to become secretary of the Central Asian Bureau but was recalled to Moscow in 1931
+                to run the state consumer distribution network. Zelensky was a conscientious, hardworking revolutionary turned party official, albeit one who, like many others, was deeply concerned about the advance of Stalinism.
+            </p>
+            <p>
+                In October 1937 Isaak Zelensky was arrested, on Stalin&apos;s orders, as an &quot;enemy of the people.&quot; The state prosecutor of the time was the universally loathed and feared Andrei Yanuarievich Vyshinsky. Vyshinsky plumbed new depths of cruelty
+                in the late 1930s, when he willingly acted as Stalin&apos;s mouthpiece in the three notorious Moscow show trials. At these trials he had many of the &quot;Old Bolsheviks&quot;--those who had created the Revolution that he never took part
+                in--put to death. False confessions to ridiculous charges were extracted from the defendants by sadistic interrogators. Independent defense counsel was unheard of. Confession was sufficient to convict.
+            </p>
+            <p>
+                Soon Vyshinsky and Zelensky were to meet face-to-face as prosecutor and victim. The third and last Moscow show trial took place in the House of Trade Unions in March 1938, where Zelensky appeared alongside twenty other defendants, the most prominent of
+                whom was Nikolai Bukharin. Vyshinsky accused Zelensky of having been a tsarist police agent since 1911. He was said to have used his position as head of the state distribution network to sabotage the distribution of food by &quot;spoiling&quot;
+                fifty truckloads of eggs, as well as &quot;throwing nails and broken glass into the masses&apos; butter with a view to undermining Soviet health.&quot; With most of his codefendants, Zelensky was sentenced to death and shot. For his endeavors
+                at the trials, Vyshinsky was rewarded by Stalin with a seat on the Central Committee.
+            </p>
+            <p>
+                The haunting image of Zelensy&apos;s defaced photograph (as seen on page 8) surfaced nearly half a century later. One night in 1984, I made my way up Kirov Street, which was ill-lit even by Moscow standards, to the studio of Alexander Rodchenko. An archway
+                led into a claustrophobic courtyard hemmed in by several tenement blocks. The studio was situated on the tenth story of one of these, and there was no elevator. I began the long climb up.
+            </p>
+            <p>
+                Rodchenko was one of the heroes of Russian art, design, and photography from the avant-garde period at the time of the Revolution until the late 1930s. He was married to the equally gifted artist and designer Varvara Stepanova. During the 1920s their
+                studio served as the editorial offices of Lef magazine, an arts journal under the editorship of the revolutionary poet Vladimir Mayakovsky.
+            </p>
+            <p>
+                Rodchenko died in 1956. Three generations of his family continue to reside in the apartment, and by 1984 very little had changed. Paintings by the master leaned against the walls as if he had just finished working on them. The dim light of naked bulbs
+                cast dense shadows from tall cupboards and bookcases. The same dust, Rodchenko&apos;s dust, occupied the same crevices and the tops of the same books. I was there to see the books--strangely, the first person to have asked to see them.
+            </p>
+            <p>
+                Rodchenko had divided his working life in the 1930s between photography and his remarkable output of book and magazine design. Huge photographic albums, with titles like First Cavalry and Red Army, lined the bookshelves of the Kirov Street studio, side
+                by side with pioneering photo-graphics for special issues of the famous magazine USSR in Construction. But one book stood out from the others. It was called Ten Years of Uzbekistan.
+            </p>
+            <p>
+                Looking inside Rodchenko&apos;s copy of Ten Years of Uzbekistan was like opening the door onto the scene of a terrible crime. A major purge of the Uzbek leadership by Stalin in 1937, three years after the book&apos;s publication, meant that many of the
+                official portraits of Party functionaries in the album had to be destroyed. The concept of &quot;personal responsibility&quot; had been forced on the whole country by the Stalinists during a vast campaign of vigilance against the regime&apos;s
+                enemies. The names of those who had been arrested or had &quot;disappeared&quot; could no longer be mentioned, nor could their pictures be kept without the greatest risk of arrest. Petty informers were everywhere. The walls really did
+                have ears.
+            </p>
+            <p>
+                Rodchenko&apos;s response in brush and ink came close to creating a new art form, a graphic reflection of the real fate of the victims. For example, the notorious secret-police torturer Yakov Peters (page 133) had suffered an ethereal, Rothko-like extinction.
+                The face of party functionary Akmal Ikramov, veiled in ink, had become a terrifying apparition (page 129). And there, suffering a second death, was Isaak Zelensky, his face wiped out in one great blob and his name obliterated in the caption
+                beneath.
+            </p>
+            <p>
+                This defacing, forced upon Rodchenko, is only one example among thousands of similar actions from the Great Terror and beyond. The libraries of the former Soviet Union still bear these scars of &quot;vigilant&quot; political vandalism. Many volumes--political,
+                cultural, or scientific--published in the first two decades of Soviet rule had whole chapters ripped out by the censors. Reproductions of photographs of future &quot;enemies of the people&quot; were attacked with disturbing violence. In
+                schools across the country, children were actively engaged by their teachers in the &quot;creative&quot; removal of the denounced from their textbooks. A collective paranoia stretched right through the period of Soviet rule.
+            </p>
+            <p>
+                Huge numbers of publications were banned from the bookshelves altogether. For example, one directive, issued by the Central Committee of the Communist Party on March 7, 1935, ordered the removal of Leon Trotsky&apos;s works from libraries throughout the
+                Soviet Union. This ban continued until the late 1980s, but sometime in between it was toughened up to include even some anti-Trotsky material. Publications with titles like Trotskyists: Enemies of the People and Trotskyist-Bukharinist
+                Bandits also became proscribed reading.
+            </p>
+            <p>
+                The censors published an extraordinary volume entitled Summary List of Books Not Available in Libraries and the Book Trade Network. It contained hundreds of pages in small print, &quot;for official use only,&quot; listing alphabetically the publications
+                that were banned. A friend of mine, the manager of an antiquarian bookshop in Leningrad in the 1960s, told me that he remembered well the twice-monthly visits of a matronly lady from the censorship bureau, who spent hours rifling through
+                the thousands of books on his shelves, checking them against her latest copy of the Summary List (which was always being updated). Those volumes found to be unacceptable were put in a special garbage can at the back of the store.
+            </p>
+            <p>
+                There were three possible destinations for this &quot;garbage.&quot; The happiest one was when rare and interesting volumes found their way quietly into the many fabulous private libraries assembled, sometimes at great personal risk, by bibliophiles or
+                lovers of history. The unhappiest destination was the shredder. So many beautifully produced books and rare manuscripts ended up there during the 1960s because of the boorish campaign of Makulatura (book pulping). Ostensibly due to a shortage
+                of newsprint, a system was introduced whereby old books and papers would be weighed and exchanged at a fixed rate for a few rubles or, say, a new copy of an officially approved novel. The heavier the book, the greater the value. This is
+                why many of the giant photographic and graphic albums published in Russia during the 1920s and 1930s are now so scarce.
+            </p>
+            <p>
+                The third route for material that was considered a threat to Soviet rule led to the official archives. These archives served a dual purpose for the state. The first was to preserve, the second to banish. Sound recordings, the printed word, movie footage,
+                photographs, paintings, drawings and posters, personal effects--any trace of the &quot;disappeared&quot;--vanished into the &quot;closed sections.&quot; Whatever the state considered undesirable was withdrawn from view. In Stalin&apos;s
+                time, this was a monumental task. Inquiries were met, after hours of waiting, with deflected answers, a shrug of the shoulders, or a harsh &quot;Not possible!&quot;
+            </p>
+            <p>
+                My first encounter with the open sections of the photographic archives in Moscow took place in the exceptionally bitter Russian winter of 1970, seventeen years after Stalin&apos;s death. When I inquired about photographs of Trotsky, the reply would invariably
+                be, &quot;Why do you ask for Trotsky? Trotsky not important in Revolution. Stalin important!&quot; In the dark green metal boxes containing mug shots of subjects starting with &quot;T&quot; were hundreds of photographs of famous Russians:
+                Tolstoy, Turgenev, etc.--but no Trotsky. They had completely wiped him out. It was at this moment that I determined to start my collection.
+            </p>
+            <p>
+                Nearly three decades later the collection has grown into a working library that documents visually every important aspect of Soviet history, with particular reference to alternatives to Stalinism. Where did all this material come from? Initially from
+                the Soviet Union itself. The worldwide dissemination of photographs and printed matter through the Communist International was a major objective of the Soviet propaganda machine in the 1920s and 1930s. Vast amounts of material reached
+                the West in those times and can still be found even today. With the relaxation by Gorbachev of foreign travel restrictions for Russians in the 1980s, large numbers of books, photographs, and other documents, hidden for many years, arrived
+                in the West. But it is worth pointing out that it is still an offense under Russian law to export almost anything without official permission, except recent publications.
+            </p>
+            <p>
+                So much falsification took place during the Stalin years that it is possible to tell the story of the Soviet era through retouched photographs. That is the purpose of this book. The photographs are displayed chronologically, at the time they were taken,
+                rather than when they were doctored. The altered versions are usually shown alongside the originals, or on the following pages. A number of key unfalsified photographs and documents are also included to explain important moments in the
+                story. Paintings, graphics, and other examples of Stalinist hero worship appear, as well. Only the most interesting and varied images from a political, cultural, and of course visual point of view are presented here. New examples of falsification
+                are always coming to light. A photograph might appear strange, as a result of heavy retouching. To find the original might take years--and often does. The search continues.
+            </p>
+            <p>
+                Photographic retouching for publication in books, magazines, and newspapers in Russia started as early as 1917 but did not reach a grand scale unit 1935, in the wake of the terror that followed the assassination of Leningrad Party chief Sergei Kirov.
+                No single skyscraper existed where legions of Stakhanovite airbrushers, montagists, and scissormen would labor through the darkest hours of the night, slavishly fulfilling their work norms for some glowering Ministry of Falsification.
+                Rather, photographic manipulation worked very much on an ad hoc basis. Orders were followed, quietly. A word in an editor&apos;s ear or a discreet telephone conversation from a &quot;higher authority&quot; was sufficient to eliminate all
+                further reference--visual or literal--to a victim, no matter how famous she or he had been.
+            </p>
+            <p>
+                Faking photographs was probably considered one of the more enjoyable tasks for the art department of publishing houses during those times. It was certainly much subtler than the &quot;slash-and-burn&quot; approach of the censors. For example, with a sharp
+                scalpel, an incision could be made along the leading edge of the image of the person or object adjacent to the one who had to be removed. With the help of some glue, the first could simply be stuck down on top of the second. A little paint
+                or ink was then carefully brushed around the cut edges and background of the picture to hide the joins. Likewise, two or more photographs could be cannibalized into one using the same method. Alternatively, an airbrush (an ink-jet gun
+                powered by a cylinder of compressed air) could be used to spray clouds of ink or paint onto the unfortunate victim in the picture. The hazy edges achieved by the spray made the elimination of the subject less noticeable than crude knife-work.
+            </p>
+            <p>
+                Many photographic deletions were not the result of retouching at all but of straightforward cropping. Art departments have always cropped photographs on aesthetic grounds, but in the Soviet Union cropping was also used with political objectives in mind.
+                The subtraction of Stalin&apos;s enemies, and even some of his friends, was one problems, but for the General Secretary, addition--the addition of himself--was another. From the time of his birth in 1879 until he was appointed General
+                Secretary in 1922, there probably exist fewer than a dozen photographs of him. For a man who claimed to be the standard-bearer of the Communist movement, this caused grave embarrassment, which could only be overcome by painting and sculpture.
+                Impressionism, expressionism, abstraction--for Stalin, none of these artistic movements was capable of showing his image properly. So he made realism--socialist realism--the central foundation of the Stalin cult. A whole art industry painted
+                Stalin into places and events where he had never been, glorifying him, mythologizing him. Sculpture worked well for him, too. The bronze Stalin, the marble Stalin, were invulnerable to the bullets of the &quot;Zinovievite bandits.&quot;
+                The flesh and blood Stalin could safely stay out of the public gaze. Sculpture became the real Stalin--heavy, ponderous, immortal.
+            </p>
+            <p>
+                Skillful photographic retouching for reproduction depended, like any craft before the advent of computer technology, on the skill of the person carrying out the task and the time she or he had to complete it. But why was the standard of retouching in
+                Soviet books and journals often so crude? Did the Stalinists want their readers to see that elimination had taken place, as a fearful and ominous warning? Or could the slightest trace of an almost vanished commissar, deliberately left
+                behind by the retoucher, become a ghostly reminder that the repressed might yet return?
+            </p>
+            <p>
+            </p>
+            <ul> David King, London, 1997</ul>
+            <p>
+                <font size="-1">
+                    (C) 1997 David King All rights reserved. ISBN: 0-8050-5294-1 </font>
+            </p>
+            <p>
+            </p>
+            <p>
+                <a href="https://www.nytimes.com/books/bn/author?sourceid=4773&amp;is_search=Y&amp;match=exact&amp;options=and&amp;anotherlevel=Y&amp;title=commissar+vanishes&amp;author_first=d&amp;author_last=king">
+<img src="https://www.nytimes.com/books/images_br/buy11.gif" width="118" height="47" border="0"></a>
+                <img src="http://barnesandnoble.bfast.com/booklink/serve?sourceid=4773&amp;categoryid=nytsearch" border="0" width="1" height="1">
+            </p>
+            <p>
+                <font size="1"><a href="https://www.nytimes.com/books">Return to the Books Home Page</a></font>
+            </p>
+        </blockquote>
+    </blockquote>
+    <br>
+    <table border="0" cellpadding="0" cellspacing="0">
+        <tbody>
+            <tr>
+                <td align="left" valign="top" width="60"><br></td>
+                <td align="center" valign="top" width="468">
+                    <hr size="1">
+                    <p>
+                        <font size="-1">
+                            <a href="https://www.nytimes.com/"><b>Home</b></a> |
+                            <nobr><a href="https://www.nytimes.com/info/contents/siteindex.html"><b>Site Index</b></a> |</nobr>
+                            <nobr><a href="https://www.nytimes.com/search/daily/"><b>Site Search</b></a> | </nobr>
+                            <a href="https://www.nytimes.com/comment/"><b>Forums</b></a> |
+                            <a href="https://www.nytimes.com/archives/"><b>Archives</b></a> |
+                            <a href="https://www.nytimes.com/marketplace/"><b>Marketplace</b></a>
+                        </font>
+                    </p>
+                    <p>
+                        <font size="-1">
+                            <nobr><a href="https://www.nytimes.com/yr/mo/day/late/">Quick News</a> | </nobr>
+                            <nobr><a href="https://www.nytimes.com/yr/mo/day/front/">Page One Plus</a> |</nobr>
+                            <a href="https://www.nytimes.com/yr/mo/day/world/">International</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/national/">National/N.Y.</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/business/">Business</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/tech/">Technology</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/science/">Science</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/sports/">Sports</a> |
+                            <a href="https://www.nytimes.com/weather/">Weather</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/editorial/">Editorial</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/oped/">Op-Ed</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/artleisure/">Arts</a> |
+                            <a href="https://www.nytimes.com/yr/mo/day/auto/">Automobiles</a> |
+                            <a href="https://www.nytimes.com/books/yr/mo/day/home/">Books</a> |
+                            <a href="https://www.nytimes.com/diversions/">Diversions</a> |
+                            <nobr><a href="https://www.nytimes.com/yr/mo/day/jobmarket/">Job Market</a> |</nobr>
+                            <nobr><a href="https://www.nytimes.com/yr/mo/day/realestate/">Real Estate</a> |</nobr>
+                            <a href="https://www.nytimes.com/yr/mo/day/travel/">Travel</a>
+                        </font>
+                    </p>
+                    <p>
+                        <font size="-1">
+                            <a href="https://www.nytimes.com/subscribe/help/">Help/Feedback</a> |
+                            <a href="https://www.nytimes.com/classified/">Classifieds</a> |
+                            <a href="https://www.nytimes.com/info/contents/services.html">Services</a> |
+                            <nobr><a href="http://www.nytoday.com/">New York Today</a></nobr>
+                        </font>
+                    </p>
+                    <p>
+                        <font size="-1">
+                            <a href="https://www.nytimes.com/info/help/copyright.html">Copyright 1997 The New York Times Company</a>
+                        </font>
+                    </p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>

@@ -1,0 +1,1230 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-thumbsize-clientpref-standard skin-underline-clientpref-browser" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Constitution of the Soviet Union (1942) - Wikisource, the free online library</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-not-available skin-thumbsize-clientpref-standard skin-underline-clientpref-browser";var cookie=document.cookie.match(/(?:^|; )enwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3a5276a8-bd36-4dcb-a597-fd8a005561f1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Constitution_of_the_Soviet_Union_(1942)","wgTitle":"Constitution of the Soviet Union (1942)","wgCurRevisionId":15155761,"wgRevisionId":15155761,"wgArticleId":2692938,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with override author","Headers applying DefaultSort key","Proofread texts","1942 works","Defunct Constitutions","PD-EdictGov","PD-1996"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Constitution_of_the_Soviet_Union_(1942)","wgRelevantArticleId":2692938,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Constitution_of_the_Soviet_Union_(1936)","wgNoticeProject":"wikisource","wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerDesktopVue":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","editCheckSuggestionsAvailable":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":800,"wgInternalRedirectTargetUrl":"/wiki/Constitution_of_the_Soviet_Union_(1942)","wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"prpProofreadPageBookNamespaces":[0,0,114],"prpSourceIndexPage":"Index:The Soviet Socialist Constitution of december 5, 1936.djvu","wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgULSContentLanguageSelectorEnabled":true,"wgULSLanguageSelectorV2Enabled":true,"wgWikibaseItemId":"Q31631","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgCheckUserClientHintsInEditRequest":true};
+RLSTATE={"ext.gadget.Site-styles":"ready","ext.gadget.MoreMenu-local-pagestyles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.wikisource.icons":"ready","ext.proofreadpage.base":"ready","ext.proofreadpage.article":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready","ext.wikimediaBadges.ulsV2":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.wikisource.download","site","mediawiki.page.ready","jquery.makeCollapsible","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.charinsert","ext.gadget.Easy_LST","ext.gadget.Fill_Index","ext.gadget.IndexFormTools","ext.gadget.Site","ext.gadget.PageNumbers","ext.gadget.MoreMenu-local","ext.gadget.PurgeTab","ext.gadget.interwiki-transclusion","ext.gadget.extra-toolbar-buttons","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.testKitchen","ext.wikimediaCustomizations.donorAccountCreation","mmv.bootstrap","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.proofreadpage.article%2Cbase%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediaBadges.ulsV2%7Cext.wikimediamessages.styles%7Cext.wikisource.icons%7Cjquery.makeCollapsible.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.MoreMenu-local-pagestyles%2CSite-styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.48.0-wmf.4">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Constitution of the Soviet Union (1942) - Wikisource, the free online library">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//thumb.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Edit" href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;action=edit">
+<link rel="icon" href="/static/favicon/wikisource.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikisource (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikisource.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikisource.org/wiki/Constitution_of_the_Soviet_Union_(1942)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikisource Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt action-view skin-vector-2022 ns-0 ns-subject mw-editable page-Constitution_of_the_Soviet_Union_1942 rootpage-Constitution_of_the_Soviet_Union_1942 skin--responsive skin-vector skin-vector-search-vue">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Main menu" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"   >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin" aria-label="Move Main menu to sidebar">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin" aria-label="Hide Main menu">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main Page</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikisource:Community_portal" title="About the project, what you can do, where to find things"><span>Community portal</span></a></li><li id="n-scriptorium" class="mw-list-item"><a href="/wiki/Wikisource:Scriptorium"><span>Central discussion</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-subjectindex" class="mw-list-item"><a href="/wiki/Portal:Portals"><span>Subject index</span></a></li><li id="n-categoryauthors" class="mw-list-item"><a href="/wiki/Category:Authors_by_alphabetical_order"><span>Authors</span></a></li><li id="n-randomwork" class="mw-list-item"><a href="/wiki/Special:RandomRootpage/Main"><span>Random work</span></a></li><li id="n-randomauthor" class="mw-list-item"><a href="/wiki/Special:RandomRootpage/Author"><span>Random author</span></a></li><li id="n-randomindex" class="mw-list-item"><a href="/wiki/Special:RandomRootpage/Index"><span>Random transcription</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="The place to find out"><span>Help</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-do" class="vector-menu mw-portlet mw-portlet-do emptyPortlet"  >
+	<div class="vector-menu-heading">
+		Display Options
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikisource.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikisource" src="/static/images/mobile/copyright/wikisource-wordmark.svg" style="width: 7.5em; height: 1.0625em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Search Wikisource [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search cdx-button__icon"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Search Wikisource" aria-label="Search Wikisource" autocapitalize="none" spellcheck="false" title="Search Wikisource [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Change the appearance of the page&#039;s font size, width, and color" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Appearance"   >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Appearance</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikisource.org&amp;uselang=en" data-mw-donate-attempt="top_link" class=""><span>Donate</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Constitution+of+the+Soviet+Union+%281942%29" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Constitution+of+the+Soviet+Union+%281942%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out vector-user-links-dropdown--collapsible"  title="More options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"   >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikisource.org&amp;uselang=en" data-mw-donate-attempt="top_link" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart cdx-button__icon"></span>
+
+<span>Donate</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Special:CreateAccount&amp;returnto=Constitution+of+the+Soviet+Union+%281942%29" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span>Create account</span></a>
+</li>
+<li id="pt-login" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Special:UserLogin&amp;returnto=Constitution+of+the+Soviet+Union+%281942%29" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn cdx-button__icon"></span>
+
+<span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="en" dir="ltr"><span class="mw-page-title-main">Constitution of the Soviet Union (1942)</span></span></h1>
+			
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector"  aria-label="4 languages" aria-description="Go to an article in another language. Available in 4 languages"  >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-4" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">4 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikisource.org/wiki/Constituci%C3%B3n_de_la_Uni%C3%B3n_Sovi%C3%A9tica_(1936)" title="Constitución de la Unión Soviética (1936) – Spanish" lang="es" hreflang="es" data-title="Constitución de la Unión Soviética (1936)" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr badge-Q20748091 badge-notproofread mw-list-item" title="not proofread"><a href="https://fr.wikisource.org/wiki/Constitution_sovi%C3%A9tique_1936" title="Constitution soviétique 1936 – French" lang="fr" hreflang="fr" data-title="Constitution soviétique 1936" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikisource.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D1%8F_%D0%A1%D0%A1%D0%A1%D0%A0_(1936)" title="Конституция СССР (1936) – Russian" lang="ru" hreflang="ru" data-title="Конституция СССР (1936)" data-language-autonym="Русский" data-language-local-name="Russian" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikisource.org/wiki/%E8%98%87%E7%B6%AD%E5%9F%83%E7%A4%BE%E6%9C%83%E4%B8%BB%E7%BE%A9%E5%85%B1%E5%92%8C%E5%9C%8B%E8%81%AF%E7%9B%9F%E6%86%B2%E6%B3%95_(1936%E5%B9%B4)" title="蘇維埃社會主義共和國聯盟憲法 (1936年) – Chinese" lang="zh" hreflang="zh" data-title="蘇維埃社會主義共和國聯盟憲法 (1936年)" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q31631#sitelinks-wikisource" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/Constitution_of_the_Soviet_Union_(1942)" title="View the content page [c]" accesskey="c" class=""><span>Page</span></a>
+</li>
+<li id="ca-proofread-source" class="mw-list-item vector-tab-noicon"><a data-mw-interface  title="Scanned edition used to establish this text" href="/wiki/Index:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu" class=""><span>Source</span></a>
+</li>
+<li id="ca-talk" class="mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/Talk:Constitution_of_the_Soviet_Union_(1942)" rel="discussion" title="Discussion about the content page [t]" accesskey="t" class=""><span>Discussion</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Change language variant"    >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+			    
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/wiki/Constitution_of_the_Soviet_Union_(1942)" class=""><span>Read</span></a>
+</li>
+<li id="ca-edit" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span>Edit</span></a>
+</li>
+<li id="ca-history" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span>View history</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+			</nav>
+
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"   >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-verticalEllipsis mw-ui-icon-wikimedia-verticalEllipsis cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin" aria-label="Move Tools to sidebar">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin" aria-label="Hide Tools">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view-more" class="selected mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/wiki/Constitution_of_the_Soviet_Union_(1942)" class=""><span class="vector-icon mw-ui-icon-eye mw-ui-icon-wikimedia-eye cdx-button__icon"></span>
+
+<span>Read</span></a>
+</li>
+<li id="ca-edit-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;action=edit" title="Edit this page [e]" accesskey="e" class=""><span class="vector-icon mw-ui-icon-edit mw-ui-icon-wikimedia-edit cdx-button__icon"></span>
+
+<span>Edit</span></a>
+</li>
+<li id="ca-history-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;action=history" title="Past revisions of this page [h]" accesskey="h" class=""><span class="vector-icon mw-ui-icon-history mw-ui-icon-wikimedia-history cdx-button__icon"></span>
+
+<span>View history</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Constitution_of_the_Soviet_Union_(1942)" title="A list of all wiki pages that link here [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Constitution_of_the_Soviet_Union_(1942)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;oldid=15155761" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Constitution_of_the_Soviet_Union_%281942%29&amp;id=15155761&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikisource.org%2Fwiki%2FConstitution_of_the_Soviet_Union_%281942%29"><span>Get shortened URL</span></a></li><li id="parsermigration-switch-to-legacy" class="mw-list-item"><a href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;useparsoid=0"><span>Switch to legacy parser</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-electronpdfservice-sidebar-portlet-heading" class="vector-menu mw-portlet mw-portlet-electronpdfservice-sidebar-portlet-heading"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="javascript:print();" rel="alternate" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li><li id="wikisource-download-epub" class="mw-list-item"><a title="Download an EPUB version of this work" href="https://ws-export.wmcloud.org/?format=epub&amp;lang=en&amp;page=Constitution_of_the_Soviet_Union_%281942%29"><span>Download EPUB</span></a></li><li id="wikisource-download-mobi" class="mw-list-item"><a title="Download a MOBI version of this work" href="https://ws-export.wmcloud.org/?format=mobi&amp;lang=en&amp;page=Constitution_of_the_Soviet_Union_%281942%29"><span>Download MOBI</span></a></li><li id="wikisource-download-pdf" class="mw-list-item"><a title="Download a PDF version of this work" href="https://ws-export.wmcloud.org/?format=pdf&amp;lang=en&amp;page=Constitution_of_the_Soviet_Union_%281942%29"><span>Download PDF</span></a></li><li id="wikisource-download-choose" class="mw-list-item"><a title="Open a form to choose other formats and fonts etc." href="https://ws-export.wmcloud.org/?lang=en&amp;title=Constitution_of_the_Soviet_Union_%281942%29"><span>Other formats</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-wikipedia mw-list-item"><a href="https://en.wikipedia.org/wiki/1936_Constitution_of_the_Soviet_Union" hreflang="en"><span>Wikipedia</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q31631" title="Link to connected data repository item [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Appearance</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin" aria-label="Move Appearance to sidebar">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin" aria-label="Hide Appearance">hide</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-wikisource-badge-proofread" class="mw-indicator"><div class="mw-parser-output"><span class="indicator-badge" id="mwAA"><span typeof="mw:File" data-mw='{"caption":"proofread"}' id="mwBBk"><a href="https://en.wikisource.org/wiki/Help:Text_status" title="proofread" id="mwBBo"><img resource="https://en.wikisource.org/wiki/File:Yellow_Checkmark_Circle.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Yellow_Checkmark_Circle.svg/20px-Yellow_Checkmark_Circle.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Yellow_Checkmark_Circle.svg/40px-Yellow_Checkmark_Circle.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="proofread" data-file-width="20" data-file-height="20" data-file-type="drawing" height="16" width="16" class="mw-file-element" id="mwBBs"/></a></span></span></div></div>
+		<div id="mw-indicator-~ext-wikisource-download" class="mw-indicator"><span id='ooui-php-1' class='ext-wikisource-download-button oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-framed oo-ui-buttonElement-size-medium oo-ui-labelElement oo-ui-flaggedElement-primary oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{"_":"OO.ui.ButtonWidget","href":"https:\/\/ws-export.wmcloud.org\/?format=epub&amp;lang=en&amp;page=Constitution_of_the_Soviet_Union_%281942%29","rel":["nofollow"],"label":"Download","title":"Download an EPUB version of this work","flags":["primary","progressive"],"data":{"wsExportUrl":"https:\/\/ws-export.wmcloud.org"},"classes":["ext-wikisource-download-button"]}'><a role='button' title='Download an EPUB version of this work' tabindex='0' href='https://ws-export.wmcloud.org/?format=epub&amp;lang=en&amp;page=Constitution_of_the_Soviet_Union_%281942%29' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-iconElement-noIcon oo-ui-image-invert'></span><span class='oo-ui-labelElement-label'>Download</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-invert'></span></a></span></div>
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikisource</div>
+						<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Constitution_of_the_Soviet_Union_(1936)&amp;redirect=no" class="mw-redirect" title="Constitution of the Soviet Union (1936)">Constitution of the Soviet Union (1936)</a>)</span><table class="pr_quality" title="0 validated pages, 28 only proofread pages and 0 not proofread pages"><tr><td class="quality4" style="width: 0%;"></td><td class="quality3" style="width: 100%;"></td><td class="quality2" style="width: 0%;"></td><td class="quality1" style="width: 0%;"></td><td class="quality0" style="width: 0%;"></td><td class="qualitye" style="width: 0%;"></td></tr></table></div></div>
+						
+					</div>
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr" data-mw-parsoid-version="0.25.0.0-alpha1" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><div class="similar ws-noexport" style="font-size:0.90em; line-height:1.2; margin:0.25em 2.00em 0.25em 2.00em; font-style:italic;" about="#mwt1" typeof="mw:Transclusion" id="mwAg" data-mw='{"parts":[{"template":{"target":{"wt":"similar","href":"./Template:Similar"},"params":{"1":{"wt":"Constitution of the Soviet Union"}},"i":0}}]}'>For works with similar titles, see <a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Constitution_of_the_Soviet_Union" title="Constitution of the Soviet Union" class="mw-disambig">Constitution of the Soviet Union</a>.</div>
+<div class="ws-noexport" about="#mwt2" typeof="mw:Transclusion" id="mwAw" data-mw='{"parts":[{"template":{"target":{"wt":"header\n ","href":"./Template:Header"},"params":{"title":{"wt":"Constitution of the Soviet Union"},"year":{"wt":"1942"},"author":{"wt":""},"override_author":{"wt":"[[w:Eighth All-Union Congress of Soviets|Eighth All-Union Congress of Soviets]]"},"translator":{"wt":""},"section":{"wt":""},"previous":{"wt":"[[Constitution of the Soviet Union (1924)]]"},"next":{"wt":"[[Constitution of the Soviet Union (1977, Unamended)|Constitution of the Soviet Union (1977)]]"},"notes":{"wt":"1942 edition of the 1936 Soviet Constitution"},"portal":{"wt":"Soviet Union/Constitutional documents"}},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r15431460" typeof="mw:Extension/templatestyles" about="#mwt3" data-mw='{"name":"templatestyles","attrs":{"src":"Header/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .wst-header .wst-header-mainblock{border:1px solid var(--border-color-success,#ACA);background-color:var(--background-color-success-subtle,#E6F2E6);color:var(--color-base,#202122)}.mw-parser-output .wst-header .wst-header-notes{border-bottom:1px solid var(--border-color-notice,#A0A0A0);background-color:var(--background-color-neutral,#FAFAFF);color:var(--color-base,#202122)}.mw-parser-output .wst-header .contributor-text{font-style:italic}.mw-parser-output .wst-header #header-title-text,.mw-parser-output .wst-header .wst-header-title-text{font-weight:bold}.mw-parser-output .wst-header #ws-data{display:none}.mw-parser-output .wst-header #ws-data.ws-data-show{display:block}</style></div><style data-mw-deduplicate="TemplateStyles:r15675465" typeof="mw:Extension/templatestyles" about="#mwt2" data-mw='{"name":"templatestyles","attrs":{"src":"Header structure/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .wst-header-mainblock{margin:4px auto 4px auto;padding:0 3px;display:flex;align-items:center}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{display:flex;flex:1 4 100%;min-width:min-content;align-items:center;font-size:.9em}.mw-parser-output .wst-header-nav-empty{visibility:hidden}.mw-parser-output .wst-header-back{justify-content:flex-start;text-align:left}.mw-parser-output .wst-header-central-cell{flex:4 1 100%;max-width:max-content;text-align:center}.mw-parser-output .wst-header-forward{justify-content:flex-end;text-align:right}@media(max-width:768px){.mw-parser-output .wst-header-mainblock{flex-wrap:wrap}.mw-parser-output .wst-header-central-cell{flex:0 0 100%;order:-2;width:auto}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{width:auto}}.mw-parser-output .wst-header-notes{display:inline-block;border-collapse:collapse;border-spacing:0;empty-cells:hide;font-size:.9em;line-height:1.4;margin:0 auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}</style><meta typeof="mw:Extension/indicator" about="#mwt2" id="mwBA" data-mw='{"name":"indicator","attrs":{"name":"wikisource-badge-proofread"},"body":{"extsrc":"&lt;span class=\"indicator-badge\">[[File:Yellow Checkmark Circle.svg|16px|link=Help:Text status|proofread]]&lt;/span>"}}'/><link rel="mw:PageProp/Category" href="./Category:Proofread_texts" about="#mwt2"/><div class="ws-header wst-header-structure wst-unknown wst-header ws-header ws-noexport noprint dynlayout-exempt " about="#mwt2" id="mwBQ"><div class="wst-header-mainblock wst-unknown-mainblock headertemplate"><div class="wst-header-back searchaux wst-unknown-back"><div class="wst-header-back-arrow">←</div><div class="wst-header-back-link"><a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Constitution_of_the_Soviet_Union_(1924)" title="Constitution of the Soviet Union (1924)">Constitution of the Soviet Union (1924)</a></div></div><div class="wst-header-central-cell wst-unknown-central-cell"><span class="wst-header-title wst-unknown-title"><span class="wst-header-title-text">Constitution of the Soviet Union</span> (<span class="wst-header-year-text">1942</span>)<link rel="mw:PageProp/Category" href="./Category:1942_works"/><br class="wst-header-title-break"/><span class="contributor-text"><span class="fn"><a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Eighth%20All-Union%20Congress%20of%20Soviets" title="w:Eighth All-Union Congress of Soviets" class="extiw">Eighth All-Union Congress of Soviets</a></span></span></span></div><div class="wst-header-forward searchaux wst-unknown-forward"><div class="wst-header-forward-link"><a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Constitution_of_the_Soviet_Union_(1977,_Unamended)?action=edit&amp;redlink=1" title="Constitution of the Soviet Union (1977, Unamended) (page does not exist)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["Constitution of the Soviet Union (1977, Unamended)"]}}'>Constitution of the Soviet Union (1977)</a></div><div class="wst-header-forward-arrow">→</div></div></div><div class="wst-header-notes header_notes searchaux wst-unknown-notes"><style data-mw-deduplicate="TemplateStyles:r14791120" typeof="mw:Extension/templatestyles" about="#mwt6" data-mw='{"name":"templatestyles","attrs":{"src":"Plain sister/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .plainSister{display:block;font-size:93%;line-height:normal;list-style-type:none;list-style-image:none;list-style-position:outside;border:1px solid var(--border-color-interactive--hover,#AAA);float:right;clear:right;margin:0.5ex 0 0.5ex 0.5ex;padding:0;background:var(--background-color-base,#FFFFFF);color:var(--color-base,#202122)}.mw-parser-output .sisicon,.mw-parser-output .dabicon{padding-right:1ex}</style><ul class="plainSister"><li class="sisitem"><span class="sisicon"><span typeof="mw:File/Frameless"><a href="https://en.wikisource.org/wiki/Portal:Portals" title="Portal:Portals"><img resource="https://en.wikisource.org/wiki/File:Wikisource-logo.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/20px-Wikisource-logo.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="Related Portals" data-file-width="410" data-file-height="430" data-file-type="drawing" height="19" width="18" class="mw-file-element"/></a></span></span><a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Portal:Portals" title="Portal:Portals">related portals</a>: <a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Portal:Soviet_Union" title="Portal:Soviet Union">Soviet Union</a>, <a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Portal:Constitutional_documents" title="Portal:Constitutional documents">Constitutional documents</a></li><li class="sisitem"><span class="sisicon"><span typeof="mw:File/Frameless"><a href="https://en.wikisource.org/wiki/Special:SiteMatrix" title="Special:SiteMatrix"><img resource="https://en.wikisource.org/wiki/File:Wikimedia-logo.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/20px-Wikimedia-logo.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Wikimedia-logo.svg/40px-Wikimedia-logo.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="Sister Projects" data-file-width="1024" data-file-height="1024" data-file-type="drawing" height="18" width="18" class="mw-file-element"/></a></span></span><a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Special:SiteMatrix" title="Special:SiteMatrix">sister projects</a>: <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/1936%20Constitution%20of%20the%20Soviet%20Union" title="w:1936 Constitution of the Soviet Union" class="extiw">Wikipedia article</a>, <a rel="mw:WikiLink/Interwiki" href="https://www.wikidata.org/wiki/Q31631" title="d:Q31631" class="extiw">Wikidata item</a></li></ul><div class="wst-header-content header_notes_content wst-header-notes-content wst-unknown-notes-content">
+<p>1942 edition of the 1936 Soviet Constitution</p>
+</div></div><div class="ws-noexport" id="ws-data" style="speak:none"><span id="ws-article-id">2692938</span><span id="ws-title">Constitution of the Soviet Union</span><span id="ws-year">1942</span><span id="ws-author"><a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Eighth%20All-Union%20Congress%20of%20Soviets" title="w:Eighth All-Union Congress of Soviets" class="extiw">Eighth All-Union Congress of Soviets</a></span></div><link rel="mw:PageProp/Category" href="./Category:Pages_with_override_author"/><link rel="mw:PageProp/Category" href="./Category:Headers_applying_DefaultSort_key"/></div>
+
+<link rel="mw:PageProp/Category" href="./Category:Defunct_Constitutions" id="mwBg"/>
+
+<div class="prp-pages-output" lang="en" typeof="mw:Extension/pages" about="#mwt113" id="mwBw" data-mw='{"name":"pages","attrs":{"index":"The Soviet Socialist Constitution of december 5, 1936.djvu","from":"7","to":"34"}}'><p id="mwCA"><span id="mwCQ"><span class="pagenum ws-pagenum" id="3" data-page-number="3" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/7" data-page-index="7" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/7" about="#mwt7" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/7"},"num":{"wt":"3"},"formatted":{"wt":"3"},"quality":{"wt":"3"}},"i":0}}]}'><span id="pageindex_7" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwCg">​</span></span></span></span></p><span class="mw-empty-elt" about="#mwt8" typeof="mw:Transclusion" id="mwCw" data-mw='{"parts":[{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/7","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/7"},"params":{},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r15620827" typeof="mw:Extension/templatestyles" about="#mwt9" id="mwDA" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'>.mw-parser-output .wst-center{text-align:center;margin:0 auto}.mw-parser-output .wst-center.wst-center-nomargin>p{margin-top:0;margin-bottom:0}</style></span><div class="wst-center tiInherit  " about="#mwt8" id="mwDQ">
+<p id="mwDg"><span style="font-size:120%;" id="mwDw"><span class="smallcaps" style="font-variant:small-caps;" id="mwEA">Chapter I</span><br id="mwEQ"/>
+THE ORGANISATION OF SOCIETY</span></p>
+</div><span about="#mwt8" id="mwEg">
+</span><p about="#mwt8" id="mwEw">ARTICLE 1</p><span about="#mwt8" id="mwFA">
+</span><dl about="#mwt8" id="mwFQ"><dd id="mwFg">The Union of Soviet Socialist Republics is a socialist state of workers and peasants.</dd></dl><span about="#mwt8" id="mwFw">
+</span><p about="#mwt8" id="mwGA">ARTICLE 2</p><span about="#mwt8" id="mwGQ">
+</span><dl about="#mwt8" id="mwGg"><dd id="mwGw">The political foundation of the U.S.S.R. is the Soviets of Toilers' Deputies, which developed and grew strong as a result of the overthrow of the power of the landlords and capitalists and the achievement of the dictatorship of the proletariat.</dd></dl><span about="#mwt8" id="mwHA">
+</span><p about="#mwt8" id="mwHQ">ARTICLE 3</p><span about="#mwt8" id="mwHg">
+</span><dl about="#mwt8" id="mwHw"><dd id="mwIA">All power in the U.S.S.R. belongs to the toilers of town and country as represented by the Soviets of Toilers' Deputies.</dd></dl><span about="#mwt8" id="mwIQ">
+</span><p about="#mwt8" id="mwIg">ARTICLE 4</p><span about="#mwt8" id="mwIw">
+</span><dl about="#mwt8" id="mwJA"><dd id="mwJQ">The economic foundation of the U.S.S.R. is the socialist system of economy and the socialist ownership of the implements and means of production firmly established as a result of the liquidation of the capitalist system of economy, the abolition of private property in the implements and means of production and the abolition of exploitation of man by man.</dd></dl><span about="#mwt8" id="mwJg">
+</span><p about="#mwt8" id="mwJw">ARTICLE 5</p><span about="#mwt8" id="mwKA">
+</span><dl about="#mwt8" id="mwKQ"><dd id="mwKg">Socialist property in the U.S.S.R. bears either the form of state property (the possession of the whole people) or the form of co-operative and collective farm property (property of separate collective farms and property of co-operative associations).</dd></dl><span about="#mwt8" id="mwKw">
+</span><p about="#mwt8" id="mwLA">ARTICLE 6</p><span about="#mwt8" id="mwLQ">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt8" id="mwLg">
+<p id="mwLw">The land, mineral deposits, waters, forests, mills, factories, mines, railways, water and air transport systems, banks, means of communication, large state-organised agricultural enterprises (state farms, machine and tractor stations and the like) as well as municipal enterprises and the principal dwelling house properties in the cities and industrial localities, are state property, that is, the possession of the whole people.</p>
+</div><p about="#mwt11" typeof="mw:Transclusion" id="mwMA" data-mw='{"parts":["&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/8"},"num":{"wt":"4"},"formatted":{"wt":"4"},"quality":{"wt":"3"}},"i":0}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/8","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/8"},"params":{},"i":1}}]}'> <span id="mwMQ"><span class="pagenum ws-pagenum" id="4" data-page-number="4" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/8" data-page-index="8" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/8"><span id="pageindex_8" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwMg">​</span></span></span></span>ARTICLE 7</p><span about="#mwt11" id="mwMw">
+</span><dl about="#mwt11" id="mwNA"><dd id="mwNQ">Public enterprises of collective farms and co-operative organisations, with their livestock and implements, products raised and manufactured by the collective farms and co-operative organisations, as well as their public structures, constitute the public, socialist property of the collective farms and co-operative organisations.<br id="mwNg"/> Every collective farm household, in addition to its basic income from the public collective farm enterprise, has in personal use a plot of land attached to the house and, in personal ownership, an auxiliary establishment on the plot, the house, produce, animals and poultry, and minor agricultural implements—in accordance with the statutes of the agricultural artel.</dd></dl><span about="#mwt11" id="mwNw">
+</span><p about="#mwt11" id="mwOA">ARTICLE 8</p><span about="#mwt11" id="mwOQ">
+</span><dl about="#mwt11" id="mwOg"><dd id="mwOw">The land occupied by collective farms is secured to them for their free use for an unlimited time, that is, for ever.</dd></dl><span about="#mwt11" id="mwPA">
+</span><p about="#mwt11" id="mwPQ">ARTICLE 9</p><span about="#mwt11" id="mwPg">
+</span><dl about="#mwt11" id="mwPw"><dd id="mwQA">Alongside the socialist system of economy, which is the predominant form of economy in the U.S.S.R., the law permits small private economy of individual peasants and handicrafts-men based on their personal labour and precluding the exploitation of the labour of others.</dd></dl><span about="#mwt11" id="mwQQ">
+</span><p about="#mwt11" id="mwQg">ARTICLE 10</p><span about="#mwt11" id="mwQw">
+</span><dl about="#mwt11" id="mwRA"><dd id="mwRQ">The right of citizens to personal property in their income from work and in their savings, in their dwelling houses and auxiliary household economy, their domestic furniture and utensils and objects of personal use and comfort, as well as the right of inheritance of personal property of citizens, are protected by law.</dd></dl><span about="#mwt11" id="mwRg">
+</span><p about="#mwt11" id="mwRw">ARTICLE 11</p><span about="#mwt11" id="mwSA">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt11" id="mwSQ">
+<p id="mwSg">The economic life of the U.S.S.R. is determined and directed by the state plan of national economy for the purpose of increasing the public wealth, of steadily raising the material and cultural level of the toilers, and of strengthening the independence of the U.S.S.R. and its power of defence.</p>
+</div><p about="#mwt13" typeof="mw:Transclusion" id="mwSw" data-mw='{"parts":["&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/9"},"num":{"wt":"5"},"formatted":{"wt":"5"},"quality":{"wt":"3"}},"i":0}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/9","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/9"},"params":{},"i":1}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/10"},"num":{"wt":"6"},"formatted":{"wt":"6"},"quality":{"wt":"3"}},"i":2}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/10","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/10"},"params":{},"i":3}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/11"},"num":{"wt":"7"},"formatted":{"wt":"7"},"quality":{"wt":"3"}},"i":4}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/11","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/11"},"params":{},"i":5}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/12"},"num":{"wt":"8"},"formatted":{"wt":"8"},"quality":{"wt":"3"}},"i":6}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/12","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/12"},"params":{},"i":7}}]}'> <span id="mwTA"><span class="pagenum ws-pagenum" id="5" data-page-number="5" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/9" data-page-index="9" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/9"><span id="pageindex_9" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwTQ">​</span></span></span></span>ARTICLE 12</p><span about="#mwt13" id="mwTg">
+</span><dl about="#mwt13" id="mwTw"><dd id="mwUA">In the U.S.S.R. work is the obligation and a matter of honour of every able-bodied citizen, in accordance with the principle: "He who does not work, neither shall he eat."</dd>
+<dd id="mwUQ">In the U.S.S.R. the principle of socialism is realised: "From each according to his ability, to each according to the work performed."</dd></dl><span about="#mwt13" id="mwUg">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt13" typeof="mw:Extension/templatestyles" id="mwUw" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt13" id="mwVA">
+<p id="mwVQ"><span style="font-size:120%;" id="mwVg"><span class="smallcaps" style="font-variant:small-caps;" id="mwVw">Chapter II</span><br id="mwWA"/>
+THE ORGANISATION OF THE STATE</span></p>
+</div><span about="#mwt13" id="mwWQ">
+</span><p about="#mwt13" id="mwWg">ARTICLE 13</p><span about="#mwt13" id="mwWw">
+</span><dl about="#mwt13" id="mwXA"><dd id="mwXQ">The Union of Soviet Socialist Republics is a federated state, formed on the basis of the voluntary association of Soviet Socialist Republics possessing equal rights, namely:—</dd></dl><span about="#mwt13" id="mwXg">
+</span><style data-mw-deduplicate="TemplateStyles:r15431457" typeof="mw:Extension/templatestyles" about="#mwt13" id="mwXw" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'>.mw-parser-output .plainlist ul,.mw-parser-output .wst-plainlist ul{line-height:inherit;list-style:none}.mw-parser-output .plainlist>ul,.mw-parser-output .wst-plainlist>ul{margin-left:0}.mw-parser-output .plainlist ul ul,.mw-parser-output .wst-plainlist ul ul{margin-top:0;margin-bottom:0}.mw-parser-output .plainlist ul li,.mw-parser-output .wst-plainlist ul li{margin-bottom:0}.mw-parser-output .wst-plainlist_hi1 li{margin-left:1em;text-indent:-1em}.mw-parser-output .wst-plainlist_hi2 li{margin-left:2em;text-indent:-2em}.mw-parser-output .wst-plainlist_hi4 li{margin-left:4em;text-indent:-4em}.mw-parser-output .wst-plainlist_m ul:first-child li:first-child{text-indent:0}.mw-parser-output .wst-plainlist_m.wst-plainlist_hi1 ul:nth-of-type(1) li:nth-of-type(1){margin-left:1em;text-indent:0}.mw-parser-output .wst-plainlist_m.wst-plainlist_hi2 ul:nth-of-type(1) li:nth-of-type(1){margin-left:2em;text-indent:0}.mw-parser-output .wst-plainlist_m.wst-plainlist_hi4 ul:nth-of-type(1) li:nth-of-type(1){margin-left:4em;text-indent:0}</style><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt13" id="mwYA">
+<ul id="mwYQ"><li id="mwYg">The Russian Soviet Federative Socialist Republic.</li>
+<li id="mwYw">The Ukrainian Soviet Socialist Republic.</li>
+<li id="mwZA">The Byelorussian Soviet Socialist Republic.</li>
+<li id="mwZQ">The Azerbaidjan Soviet Socialist Republic.</li>
+<li id="mwZg">The Georgian Soviet Socialist Republic.</li>
+<li id="mwZw">The Armenian Soviet Socialist Republic.</li>
+<li id="mwaA">The Turkmen Soviet Socialist Republic.</li>
+<li id="mwaQ">The Uzbek Soviet Socialist Republic.</li>
+<li id="mwag">The Tadjik Soviet Socialist Republic.</li>
+<li id="mwaw">The Kazakh Soviet Socialist Republic.</li>
+<li id="mwbA">The Kirghiz Soviet Socialist Republic.</li></ul>
+</div><span about="#mwt13" id="mwbQ">
+</span><p about="#mwt13" id="mwbg">ARTICLE 14</p><span about="#mwt13" id="mwbw">
+</span><dl about="#mwt13" id="mwcA"><dd id="mwcQ">The jurisdiction of the Union of Soviet Socialist Republics, as represented by its highest organs of power and organs of state administration, covers:—</dd></dl><span about="#mwt13" id="mwcg">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt13" typeof="mw:Extension/templatestyles" id="mwcw" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt13" id="mwdA">
+<ul id="mwdQ"><li id="mwdg">(a) Representation of the Union in international relations, conclusions and ratification of treaties with other states;</li>
+<li id="mwdw">(b) Questions of war and peace;</li>
+<li id="mweA">(c) Admission of new republics into the U.S.S.R.;</li>
+<li id="mweQ">(d) Supervision over the observance of the Constitution of the U.S.S.R. and ensuring that the Constitution of the Union Republics conform with the Constitution of the U.S.S.R.; <span id="mweg"><span class="pagenum ws-pagenum" id="6" data-page-number="6" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/10" data-page-index="10" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/10"><span id="pageindex_10" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwew">​</span></span></span></span></li><li id="mwfA">(e) Ratification of alterations of boundaries between Union Republics;</li>
+<li id="mwfQ">(f) Ratification of the formation of new Territories and Regions and also of new Autonomous Republics within the Union Republics;</li>
+<li id="mwfg">(g) Organisation of the defence of the U.S.S.R. and the direction of all the armed forces of the U.S.S.R.;</li>
+<li id="mwfw">(h) Foreign trade on the basis of state monopoly;</li>
+<li id="mwgA">(i) Safeguarding the security of the state;</li>
+<li id="mwgQ">(j) Determining the plans of national economy of the U.S.S.R.;</li>
+<li id="mwgg">(k) Approval of the unified state budget of the U.S.S.R. as well as of the taxes and revenues which go to form the Union, Republican and local budgets;</li>
+<li id="mwgw">(l) Administration of the banks, industrial and agricultural establishments and enterprises, and trading enterprises of all-Union importance;</li>
+<li id="mwhA">(m) Administration of transport and communications;</li>
+<li id="mwhQ">(n) Direction of the monetary and credit system;</li>
+<li id="mwhg">(o) Organisation of state insurance;</li>
+<li id="mwhw">(p) Contracting and granting loans;</li>
+<li id="mwiA">(q) Establishment of the basic principles of land tenure as well as of the use of mineral deposits, forests and waters;</li>
+<li id="mwiQ">(r) Establishment of the basic principles in the spheres of educational and public health;</li>
+<li id="mwig">(s) Organisation of a uniform system of national economic accounting;</li>
+<li id="mwiw">(t) Establishment of the principles of labour legislation;</li>
+<li id="mwjA">(u) Legislation governing the judicial system and judicial procedure; criminal and civil codes;</li>
+<li id="mwjQ">(v) Laws governing citizenship of the Union; laws governing the rights of foreigners;</li>
+<li id="mwjg">(w) Issuance of all-Union acts of amnesty.</li></ul>
+</div><span about="#mwt13" id="mwjw">
+</span><p about="#mwt13" id="mwkA">ARTICLE 15</p><span about="#mwt13" id="mwkQ">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt13" id="mwkg">
+<p id="mwkw">The sovereignty of the Union Republics is restricted only within the limits set forth in Article 14 of the  <span id="mwlA"><span class="pagenum ws-pagenum" id="7" data-page-number="7" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/11" data-page-index="11" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/11"><span id="pageindex_11" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwlQ">​</span></span></span></span>Constitution of the U.S.S.R. Outside of these limits, each Union Republic exercises state power independently. The U.S.S.R. protects the sovereign rights of the Union Republics.</p>
+</div><span about="#mwt13" id="mwlg">
+
+</span><p about="#mwt13" id="mwlw">ARTICLE 16</p><span about="#mwt13" id="mwmA">
+</span><dl about="#mwt13" id="mwmQ"><dd id="mwmg">Each Union Republic has its own Constitution, which takes into account the specific features of the Republic and is drawn up in full conformity with the Constitution of the U.S.S.R.</dd></dl><span about="#mwt13" id="mwmw">
+</span><p about="#mwt13" id="mwnA">ARTICLE 17</p><span about="#mwt13" id="mwnQ">
+</span><dl about="#mwt13" id="mwng"><dd id="mwnw">To every Union Republic is reserved the right free to secede from the U.S.S.R.</dd></dl><span about="#mwt13" id="mwoA">
+</span><p about="#mwt13" id="mwoQ">ARTICLE 18</p><span about="#mwt13" id="mwog">
+</span><dl about="#mwt13" id="mwow"><dd id="mwpA">The territory of the Union Republics may not be altered without their consent.</dd></dl><span about="#mwt13" id="mwpQ">
+</span><p about="#mwt13" id="mwpg">ARTICLE 19</p><span about="#mwt13" id="mwpw">
+</span><dl about="#mwt13" id="mwqA"><dd id="mwqQ">The laws of the U.S.S.R. have equal force in the territory of all Union Republics.</dd></dl><span about="#mwt13" id="mwqg">
+</span><p about="#mwt13" id="mwqw">ARTICLE 20</p><span about="#mwt13" id="mwrA">
+</span><dl about="#mwt13" id="mwrQ"><dd id="mwrg">In the event of a discrepancy between a law of a Union Republic and the law of the Union, the all-Union law prevails.</dd></dl><span about="#mwt13" id="mwrw">
+</span><p about="#mwt13" id="mwsA">ARTICLE 21</p><span about="#mwt13" id="mwsQ">
+</span><dl about="#mwt13" id="mwsg"><dd id="mwsw">One Union citizenship is established for all citizens of the U.S.S.R.<br id="mwtA"/>Every citizen of a Union Republic is a citizen of the U.S.S.R.</dd></dl><span about="#mwt13" id="mwtQ">
+</span><p about="#mwt13" id="mwtg">ARTICLE 22</p><span about="#mwt13" id="mwtw">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt13" id="mwuA">
+<p id="mwuQ">The Russian Soviet Federative Socialist Republic consists of the Azov-Black Sea, Far-Eastern, West Siberian, Krassnoyarsk and North Caucasian Territories; the Voronezh, East Siberian, Gorky, Western, Ivanovo, Kalinin, Kirov, Kuibyshev, Kursk, Leningrad, Moscow, Omsk, Orenburg, Saratov, Sverdlovsk, Northern, Stalingrad, Chelyabinsk and Yaroslavl Regions; the Tartar, Bashkir, Daghestan, Buryat-Mongolian, Kabardino-Balkarian, Kalmyk, Karelian, Komi, <span id="mwug"><span class="pagenum ws-pagenum" id="8" data-page-number="8" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/12" data-page-index="12" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/12"><span id="pageindex_12" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwuw">​</span></span></span></span>Crimean, Mari, Mordovian, Volga German, North Ossetian, Udmurt, Chechen-Ingush, Chuvash and Yakut Autonomous Soviet Socialist Republics; the Adygei, Jewish, Karachai, Oirot, Khakass and Cherkess Autonomous Regions.</p>
+</div><span about="#mwt13" id="mwvA">
+</span><p about="#mwt13" id="mwvQ">ARTICLE 23</p><span about="#mwt13" id="mwvg">
+</span><dl about="#mwt13" id="mwvw"><dd id="mwwA">The Ukrainian Soviet Socialist Republic consists of the Vinnitsa Dnepropetrovsk, Donetz, Kiev, Odessa, Kharkov and Chernigov Regions and the Moldavian Autonomous Soviet Socialist Republic.</dd></dl><span about="#mwt13" id="mwwQ">
+</span><p about="#mwt13" id="mwwg">ARTICLE 24</p><span about="#mwt13" id="mwww">
+</span><dl about="#mwt13" id="mwxA"><dd id="mwxQ">The Azerbaidjan Soviet Socialist Republic includes the Nakhichevan Autonomous Soviet Socialist Republic and the Nagorno-Karabakh Autonomous Region.</dd></dl><span about="#mwt13" id="mwxg">
+</span><p about="#mwt13" id="mwxw">ARTICLE 25</p><span about="#mwt13" id="mwyA">
+</span><dl about="#mwt13" id="mwyQ"><dd id="mwyg">The Georgian Soviet Socialist Republic includes the Abkhazian Autonomous Soviet Socialist Republic, the Adjar Autonomous Soviet Socialist Republic and the South Ossetian Autonomous Region.</dd></dl><span about="#mwt13" id="mwyw">
+</span><p about="#mwt13" id="mwzA">ARTICLE 26</p><span about="#mwt13" id="mwzQ">
+</span><dl about="#mwt13" id="mwzg"><dd id="mwzw">The Uzbek Soviet Socialist Republic includes the Kara-Kalpak Autonomous Soviet Socialist Republic.</dd></dl><span about="#mwt13" id="mw0A">
+</span><p about="#mwt13" id="mw0Q">ARTICLE 27</p><span about="#mwt13" id="mw0g">
+</span><dl about="#mwt13" id="mw0w"><dd id="mw1A">The Tadjik Soviet Socialist Republic includes the Gorno-Badakhshan Autonomous Region.</dd></dl><span about="#mwt13" id="mw1Q">
+</span><p about="#mwt13" id="mw1g">ARTICLE 28</p><span about="#mwt13" id="mw1w">
+</span><dl about="#mwt13" id="mw2A"><dd id="mw2Q">The Kazakh Soviet Socialist Republic consists of the Aktyubinsk, Alma-Ata, East Kazakhstan, West Kazakhstan, Karaganda, Kustanai, North Kazakhstan and South Kazakhstan Regions.</dd></dl><span about="#mwt13" id="mw2g">
+</span><p about="#mwt13" id="mw2w">ARTICLE 29</p><span about="#mwt13" id="mw3A">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt13" id="mw3Q">
+<p id="mw3g">The Armenian Soviet Socialist Republic, the Byelorussian Soviet Socialist Republic, the Turkmen Soviet Socialist Republic and the Kirghiz Soviet Socalist Republic contain no Autonomous Republics or Territories and Regions.</p>
+</div><p id="mw3w"> <span id="mw4A"><span class="pagenum ws-pagenum" id="9" data-page-number="9" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/13" data-page-index="13" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/13" about="#mwt23" typeof="mw:Transclusion" data-mw='{"parts":[{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/13"},"num":{"wt":"9"},"formatted":{"wt":"9"},"quality":{"wt":"3"}},"i":0}}]}'><span id="pageindex_13" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mw4Q">​</span></span></span></span></p><span class="mw-empty-elt" about="#mwt24" typeof="mw:Transclusion" id="mw4g" data-mw='{"parts":[{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/13","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/13"},"params":{},"i":0}}]}'><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt25" typeof="mw:Extension/templatestyles" id="mw4w" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/></span><div class="wst-center tiInherit  " about="#mwt24" id="mw5A">
+<p id="mw5Q"><span style="font-size:120%;" id="mw5g"><span class="smallcaps" style="font-variant:small-caps;" id="mw5w">Chapter III</span><br id="mw6A"/>
+THE HIGHEST ORGANS OF STATE POWER OF THE UNION OF SOVIET SOCIALIST REPUBLICS</span></p>
+</div><span about="#mwt24" id="mw6Q">
+
+</span><p about="#mwt24" id="mw6g">ARTICLE 30</p><span about="#mwt24" id="mw6w">
+</span><dl about="#mwt24" id="mw7A"><dd id="mw7Q">The highest organ of state power of the U.S.S.R. is the Supreme Soviet of the U.S.S.R.</dd></dl><span about="#mwt24" id="mw7g">
+</span><p about="#mwt24" id="mw7w">ARTICLE 31</p><span about="#mwt24" id="mw8A">
+</span><dl about="#mwt24" id="mw8Q"><dd id="mw8g">The supreme Soviet of the U.S.S.R. exercises all rights vested in the Union of Soviet Socialist Republics in accordance with Article 14 of the Constitution, in so far as, by virtue of the Constitution, they do not come within the jurisdiction of organs of the U.S.S.R. which are accountable to the Supreme Soviet of the U.S.S.R., i.e., the Presidium of the Supreme Soviet of the U.S.S.R., the Council of People's Commissars of the U.S.S.R. and the People's Commissariats of the U.S.S.R.</dd></dl><span about="#mwt24" id="mw8w">
+</span><p about="#mwt24" id="mw9A">ARTICLE 32</p><span about="#mwt24" id="mw9Q">
+</span><dl about="#mwt24" id="mw9g"><dd id="mw9w">The legislative power of the U.S.S.R. is exercised exclusively by the Supreme Soviet of the U.S.S.R.</dd></dl><span about="#mwt24" id="mw-A">
+</span><p about="#mwt24" id="mw-Q">ARTICLE 33</p><span about="#mwt24" id="mw-g">
+</span><dl about="#mwt24" id="mw-w"><dd id="mw_A">The Supreme Soviet of the U.S.S.R. consists of two Chambers: the Soviet of the Union and the Soviet of Nationalities.</dd></dl><span about="#mwt24" id="mw_Q">
+</span><p about="#mwt24" id="mw_g">ARTICLE 34</p><span about="#mwt24" id="mw_w">
+</span><dl about="#mwt24" id="mwAQA"><dd id="mwAQE">The Soviet of the Union is elected by the citizens of the U.S.S.R. according to electoral areas on the basis of one deputy for every 300,000 of the population.</dd></dl><span about="#mwt24" id="mwAQI">
+</span><p about="#mwt24" id="mwAQM">ARTICLE 35</p><span about="#mwt24" id="mwAQQ">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt24" id="mwAQU">
+<p id="mwAQY">The Soviet of Nationalities is elected by the citizens of the U.S.S.R. according to Union and Autonomous Republics, Autonomous Regions and national areas on the basis of twenty-five deputies from each Union Republic, eleven deputies from each Autonomous Republic, five deputies from each Autonomous Region and one deputy from each national area.</p>
+</div><p about="#mwt27" typeof="mw:Transclusion" id="mwAQc" data-mw='{"parts":["&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/14"},"num":{"wt":"10"},"formatted":{"wt":"10"},"quality":{"wt":"3"}},"i":0}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/14","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/14"},"params":{},"i":1}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/15"},"num":{"wt":"11"},"formatted":{"wt":"11"},"quality":{"wt":"3"}},"i":2}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/15","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/15"},"params":{},"i":3}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/16"},"num":{"wt":"12"},"formatted":{"wt":"12"},"quality":{"wt":"3"}},"i":4}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/16","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/16"},"params":{},"i":5}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/17"},"num":{"wt":"13"},"formatted":{"wt":"13"},"quality":{"wt":"3"}},"i":6}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/17","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/17"},"params":{},"i":7}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/18"},"num":{"wt":"14"},"formatted":{"wt":"14"},"quality":{"wt":"3"}},"i":8}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/18","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/18"},"params":{},"i":9}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/19"},"num":{"wt":"15"},"formatted":{"wt":"15"},"quality":{"wt":"3"}},"i":10}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/19","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/19"},"params":{},"i":11}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/20"},"num":{"wt":"16"},"formatted":{"wt":"16"},"quality":{"wt":"3"}},"i":12}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/20","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/20"},"params":{},"i":13}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/21"},"num":{"wt":"17"},"formatted":{"wt":"17"},"quality":{"wt":"3"}},"i":14}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/21","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/21"},"params":{},"i":15}}]}'> <span id="mwAQg"><span class="pagenum ws-pagenum" id="10" data-page-number="10" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/14" data-page-index="14" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/14"><span id="pageindex_14" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAQk">​</span></span></span></span>ARTICLE 36</p><span about="#mwt27" id="mwAQo">
+</span><dl about="#mwt27" id="mwAQs"><dd id="mwAQw">The Supreme Soviet of the U.S.S.R. is elected for a term of four years.</dd></dl><span about="#mwt27" id="mwAQ0">
+</span><p about="#mwt27" id="mwAQ4">ARTICLE 37</p><span about="#mwt27" id="mwAQ8">
+</span><dl about="#mwt27" id="mwARA"><dd id="mwARE">The two Chambers of the Supreme Soviet of the U.S.S.R., the Soviet of the Union and the Soviet of Nationalities, have equal rights.</dd></dl><span about="#mwt27" id="mwARI">
+</span><p about="#mwt27" id="mwARM">ARTICLE 38</p><span about="#mwt27" id="mwARQ">
+</span><dl about="#mwt27" id="mwARU"><dd id="mwARY">The Soviet of the Union and the Soviet of Nationalities enjoy equal right to initiate legislation.</dd></dl><span about="#mwt27" id="mwARc">
+</span><p about="#mwt27" id="mwARg">ARTICLE 39</p><span about="#mwt27" id="mwARk">
+</span><dl about="#mwt27" id="mwARo"><dd id="mwARs">A law is deemed to be adopted if passed by both Chambers of the Supreme Soviet of the U.S.S.R. by a simple majority in each.</dd></dl><span about="#mwt27" id="mwARw">
+</span><p about="#mwt27" id="mwAR0">ARTICLE 40</p><span about="#mwt27" id="mwAR4">
+</span><dl about="#mwt27" id="mwAR8"><dd id="mwASA">Laws adopted by the Supreme Soviet of the U.S.S.R. are published in the languages of the Union Republics over the signatures of the Chairman and Secretary of the Presidium of the Supreme Soviet of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwASE">
+</span><p about="#mwt27" id="mwASI">ARTICLE 41</p><span about="#mwt27" id="mwASM">
+</span><dl about="#mwt27" id="mwASQ"><dd id="mwASU">Sessions of the Soviet of the Union and the Soviet of Nationalities begin and terminate simultaneously.</dd></dl><span about="#mwt27" id="mwASY">
+</span><p about="#mwt27" id="mwASc">ARTICLE 42</p><span about="#mwt27" id="mwASg">
+</span><dl about="#mwt27" id="mwASk"><dd id="mwASo">The Soviet of the Union elects a Chairman of the Soviet of the Union and two Vice-Chairmen.</dd></dl><span about="#mwt27" id="mwASs">
+</span><p about="#mwt27" id="mwASw">ARTICLE 43</p><span about="#mwt27" id="mwAS0">
+</span><dl about="#mwt27" id="mwAS4"><dd id="mwAS8">The Soviet of Nationalities elects a Chairman of the Soviet of Nationalities and two Vice-Chairmen.</dd></dl><span about="#mwt27" id="mwATA">
+</span><p about="#mwt27" id="mwATE">ARTICLE 44</p><span about="#mwt27" id="mwATI">
+</span><dl about="#mwt27" id="mwATM"><dd id="mwATQ">The Chairmen of the Soviet of the Union and of the Soviet of Nationalities preside over the meetings of the respective Chambers and are in charge of the procedure of these bodies.</dd></dl><span about="#mwt27" id="mwATU">
+</span><p about="#mwt27" id="mwATY">ARTICLE 45</p><span about="#mwt27" id="mwATc">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt27" id="mwATg">
+<p id="mwATk">Joint sittings of both Chambers of the Supreme Soviet of the U.S.S.R. are presided over alternately by <span id="mwATo"><span class="pagenum ws-pagenum" id="11" data-page-number="11" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/15" data-page-index="15" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/15"><span id="pageindex_15" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwATs">​</span></span></span></span>the Chairman of the Soviet of the Union and the Chairman of the Soviet of Nationalities.</p>
+</div><span about="#mwt27" id="mwATw">
+</span><p about="#mwt27" id="mwAT0">ARTICLE 46</p><span about="#mwt27" id="mwAT4">
+</span><dl about="#mwt27" id="mwAT8"><dd id="mwAUA">Sessions of the Supreme Soviet of the U.S.S.R. are convened by the Presidium of the Supreme Soviet of the U.S.S.R. twice a year.<br id="mwAUE"/>Extraordinary sessions are convened by the Presidium of the Supreme Soviet of the U.S.S.R. at its discretion or on the demand of one of the Union Republics.</dd></dl><span about="#mwt27" id="mwAUI">
+</span><p about="#mwt27" id="mwAUM">ARTICLE 47</p><span about="#mwt27" id="mwAUQ">
+</span><dl about="#mwt27" id="mwAUU"><dd id="mwAUY">In the event of disagreement between the Soviet of the Union and the Soviet of Nationalities the question is referred for settlement to a conciliation commission formed on a parity basis. If the conciliation commission fails to arrive at an agreed decision, or if its decision fails to satisfy one of the Chambers, the question is considered for a second time by the Chambers. Failing an agreed decision of the two Chambers, the Presidium of the Supreme Soviet of the U.S.S.R. dissolves the Supreme Soviet of the U.S.S.R. and appoints new elections.</dd></dl><span about="#mwt27" id="mwAUc">
+</span><p about="#mwt27" id="mwAUg">ARTICLE 48</p><span about="#mwt27" id="mwAUk">
+</span><dl about="#mwt27" id="mwAUo"><dd id="mwAUs">The Supreme Soviet of the U.S.S.R. at a joint sitting of both Chambers elects the Presidium of the Supreme Soviet of the U.S.S.R., consisting of the Chairman of the Presidium of the Supreme Soviet of the U.S.S.R., eleven Vice-Chairmen, the Secretary of the Presidium and twenty-four members of the Presidium.<br id="mwAUw"/>The Presidium of the Supreme Soviet of the U.S.S.R. is accountable to the Supreme Soviet of the U.S.S.R. for all its activities.</dd></dl><span about="#mwt27" id="mwAU0">
+</span><p about="#mwt27" id="mwAU4">ARTICLE 49</p><span about="#mwt27" id="mwAU8">
+</span><dl about="#mwt27" id="mwAVA"><dd id="mwAVE">The Presidium of the Supreme Soviet of the U.S.S.R.:—</dd></dl><span about="#mwt27" id="mwAVI">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt27" typeof="mw:Extension/templatestyles" id="mwAVM" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt27" id="mwAVQ">
+<ul id="mwAVU"><li id="mwAVY">(a) Convenes the sessions of the Supreme Soviet of the U.S.S.R.;</li>
+<li id="mwAVc">(b) Interprets existing laws of the U.S.S.R., promulgates decrees; <span id="mwAVg"><span class="pagenum ws-pagenum" id="12" data-page-number="12" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/16" data-page-index="16" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/16"><span id="pageindex_16" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAVk">​</span></span></span></span></li><li id="mwAVo">(c) Dissolves the Supreme Soviet of the U.S.S.R. in conformity with Article 47 of the Constitution of the U.S.S.R. and appoints new elections;</li>
+<li id="mwAVs">(d) Conducts a popular canvass (referendum) on its own initiative or on the demand of one of the Union Republics;</li>
+<li id="mwAVw">(e) Annuls such decisions and orders of the Council of People's Commissars of the U.S.S.R. and the Councils of People's Commissars of the Union Republics as do not conform to law;</li>
+<li id="mwAV0">(f) In the intervals between sessions of the Supreme Soviet of the U.S.S.R., dismisses and appoints People's Commissars of the U.S.S.R. on the recommendation of the Chairman of the Council of People's Commissars of the U.S.S.R. subject to subsequent confirmation by the Supreme Soviet of the U.S.S.R.;</li>
+<li id="mwAV4">(g) Awards decorations and titles of honour of the U.S.S.R.;</li>
+<li id="mwAV8">(h) Exercises the right of pardon;</li>
+<li id="mwAWA">(i) Appoints and dismisses the High Command of the armed forces of the U.S.S.R.;</li>
+<li id="mwAWE">(j) In the intervals between sessions of the Supreme Soviet of the U.S.S.R., proclaims a state of war in the event of armed attack on the U.S.S.R., or whenever required to fulfil international treaty obligations concerning mutual defence against aggression;</li>
+<li id="mwAWI">(k) Proclaims general or partial mobilisation;</li>
+<li id="mwAWM">(l) Ratifies international treaties;</li>
+<li id="mwAWQ">(m) Appoints and recalls plenipotentiary representatives of the U.S.S.R. to foreign states;</li>
+<li id="mwAWU">(n) Receives the credentials and letters of recall of diplomatic representatives of foreign states accredited to it.</li></ul>
+</div><span about="#mwt27" id="mwAWY">
+</span><p about="#mwt27" id="mwAWc">ARTICLE 50</p><span about="#mwt27" id="mwAWg">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt27" id="mwAWk">
+<p id="mwAWo">The Soviet of the Union and the Soviet of Nationalities elect Credentials Commissions which examine the credentials of the members of the respective Chambers. On the recommendations of the Credentials Commissions the Chambers decide either to endorse the <span id="mwAWs"><span class="pagenum ws-pagenum" id="13" data-page-number="13" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/17" data-page-index="17" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/17"><span id="pageindex_17" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAWw">​</span></span></span></span>credentials or to annul the election of the deputies concerned.</p>
+</div><span about="#mwt27" id="mwAW0">
+</span><p about="#mwt27" id="mwAW4">ARTICLE 51</p><span about="#mwt27" id="mwAW8">
+</span><dl about="#mwt27" id="mwAXA"><dd id="mwAXE">The Supreme Soviet of the U.S.S.R., when it deems necessary, appoints commissions of enquiry and investigation on any matter.<br id="mwAXI"/>It is the duty of all institutions and officials to comply with the demands of these commissions and to submit to them the necessary materials and documents.</dd></dl><span about="#mwt27" id="mwAXM">
+</span><p about="#mwt27" id="mwAXQ">ARTICLE 52</p><span about="#mwt27" id="mwAXU">
+</span><dl about="#mwt27" id="mwAXY"><dd id="mwAXc">A member of the Supreme Soviet of the U.S.S.R. may not be prosecuted or arrested without the consent of the Supreme Soviet of the U.S.S.R., and in the period when the Supreme Soviet of the U.S.S.R. is not in session, without the consent of the Presidium of the Supreme Soviet of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAXg">
+</span><p about="#mwt27" id="mwAXk">ARTICLE 53</p><span about="#mwt27" id="mwAXo">
+</span><dl about="#mwt27" id="mwAXs"><dd id="mwAXw">On the expiration of the term of office of the Supreme Soviet of the U.S.S.R., or after the Supreme Soviet has been dissolved prior to the expiration of its term of office, the Presidium of the Supreme Soviet of the U.S.S.R. retains its powers until the formation of a new Presidium of the Supreme Soviet of the U.S.S.R. by the newly-elected Supreme Soviet of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAX0">
+</span><p about="#mwt27" id="mwAX4">ARTICLE 54</p><span about="#mwt27" id="mwAX8">
+</span><dl about="#mwt27" id="mwAYA"><dd id="mwAYE">On the expiration of the term of office of the Supreme Soviet of the U.S.S.R., or in the event of its dissolution prior to the expiration of its term of office, the Presidium of the Supreme Soviet of the U.S.S.R. appoints new elections to be held within a period not exceeding two months from the date of expiration of the term of office or the dissolution of the Supreme Soviet of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAYI">
+</span><p about="#mwt27" id="mwAYM">ARTICLE 55</p><span about="#mwt27" id="mwAYQ">
+</span><dl about="#mwt27" id="mwAYU"><dd id="mwAYY">The newly-elected Supreme Soviet of the U.S.S.R. is convened by the outgoing Presidium of the Supreme Soviet of the U.S.S.R. not later than one month after the elections.</dd></dl><span about="#mwt27" id="mwAYc">
+</span><p about="#mwt27" id="mwAYg">ARTICLE 56</p><span about="#mwt27" id="mwAYk">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt27" id="mwAYo">
+<p id="mwAYs">The Supreme Soviet of the U.S.S.R., at a joint <span id="mwAYw"><span class="pagenum ws-pagenum" id="14" data-page-number="14" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/18" data-page-index="18" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/18"><span id="pageindex_18" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAY0">​</span></span></span></span>sitting of both Chambers, forms the Government of the U.S.S.R.—the Council of People's Commissars of the U.S.S.R.</p>
+</div><span class="mw-empty-elt" about="#mwt27" id="mwAY4"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt37" typeof="mw:Extension/templatestyles" id="mwAY8" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/></span><div class="wst-center tiInherit  " about="#mwt27" id="mwAZA">
+<p id="mwAZE"><span style="font-size:120%;" id="mwAZI"><span class="smallcaps" style="font-variant:small-caps;" id="mwAZM">Chapter IV</span><br id="mwAZQ"/>
+THE HIGHEST ORGANS OF STATE POWER OF THE UNION REPUBLICS</span></p>
+</div><span about="#mwt27" id="mwAZU">
+</span><p about="#mwt27" id="mwAZY">ARTICLE 57</p><span about="#mwt27" id="mwAZc">
+</span><dl about="#mwt27" id="mwAZg"><dd id="mwAZk">The highest organ of state power of a Union Republic is the Supreme Soviet of the Union Republic.</dd></dl><span about="#mwt27" id="mwAZo">
+</span><p about="#mwt27" id="mwAZs">ARTICLE 58</p><span about="#mwt27" id="mwAZw">
+</span><dl about="#mwt27" id="mwAZ0"><dd id="mwAZ4">The Supreme Soviet of a Union Republic is elected by the citizens of the Republic for a term of four years.<br id="mwAZ8"/>The rates of representation are determined by the Constitutions of the Union Republics.</dd></dl><span about="#mwt27" id="mwAaA">
+</span><p about="#mwt27" id="mwAaE">ARTICLE 59</p><span about="#mwt27" id="mwAaI">
+</span><dl about="#mwt27" id="mwAaM"><dd id="mwAaQ">The Supreme Soviet of a Union Republic is the sole legislative organ of the Republic.</dd></dl><span about="#mwt27" id="mwAaU">
+</span><p about="#mwt27" id="mwAaY">ARTICLE 60</p><span about="#mwt27" id="mwAac">
+</span><dl about="#mwt27" id="mwAag"><dd id="mwAak">The Supreme Soviet of a Union Republic:—</dd></dl><span about="#mwt27" id="mwAao">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt27" typeof="mw:Extension/templatestyles" id="mwAas" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt27" id="mwAaw">
+<ul id="mwAa0"><li id="mwAa4">(a) Adopts the Constitution of the Republic and amends it in conformity with Article 16 of the Constitution of the U.S.S.R.;</li>
+<li id="mwAa8">(b) Ratifies the Constitution of the Autonomous Republics belonging to it and defines the boundaries of their territories;</li>
+<li id="mwAbA">(c) Approves the plan of national economy and the budget of the Republic;</li>
+<li id="mwAbE">(d) Exercises the right to amnesty and pardon citizens sentenced by the judicial organs of the Union Republic.</li></ul>
+</div><span about="#mwt27" id="mwAbI">
+</span><p about="#mwt27" id="mwAbM">ARTICLE 61</p><span about="#mwt27" id="mwAbQ">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt27" id="mwAbU">
+<p id="mwAbY">The Supreme Soviet of a Union Republic elects the Presidium of the Supreme Soviet of the Union Republic consisting of the Chairman of the Presidium of the Supreme Soviet of the Union Republic, Vice-Chairmen, the Secretary of the Presidium and members of the Presidium of the Supreme Soviet of the Union Republic.<br id="mwAbc"/>The powers of the Presidium of the Supreme Soviet <span id="mwAbg"><span class="pagenum ws-pagenum" id="15" data-page-number="15" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/19" data-page-index="19" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/19"><span id="pageindex_19" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAbk">​</span></span></span></span>of a Union Republic are defined by the Constitution of the Union Republic.</p>
+</div><span about="#mwt27" id="mwAbo">
+</span><p about="#mwt27" id="mwAbs">ARTICLE 62</p><span about="#mwt27" id="mwAbw">
+</span><dl about="#mwt27" id="mwAb0"><dd id="mwAb4">The Supreme Soviet of a Union Republic elects a Chairman and Vice-Chairmen to conduct its meetings.</dd></dl><span about="#mwt27" id="mwAb8">
+</span><p about="#mwt27" id="mwAcA">ARTICLE 63</p><span about="#mwt27" id="mwAcE">
+</span><dl about="#mwt27" id="mwAcI"><dd id="mwAcM">The Supreme Soviet of a Union Republic forms the Government of the Union Republic—the Council of People's Commissars of the Union Republic.</dd></dl><span about="#mwt27" id="mwAcQ">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt27" typeof="mw:Extension/templatestyles" id="mwAcU" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt27" id="mwAcY">
+<p id="mwAcc"><span style="font-size:120%;" id="mwAcg"><span class="smallcaps" style="font-variant:small-caps;" id="mwAck">Chapter V</span><br id="mwAco"/>
+THE ORGANS OF STATE ADMINISTRATION OF THE UNION OF SOVIET SOCIALIST REPUBLICS</span></p>
+</div><span about="#mwt27" id="mwAcs">
+</span><p about="#mwt27" id="mwAcw">ARTICLE 64</p><span about="#mwt27" id="mwAc0">
+</span><dl about="#mwt27" id="mwAc4"><dd id="mwAc8">The highest executive and administrative organ of state power of the Union of Soviet Socialist Republics is the Council of People's Commissars of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAdA">
+</span><p about="#mwt27" id="mwAdE">ARTICLE 65</p><span about="#mwt27" id="mwAdI">
+</span><dl about="#mwt27" id="mwAdM"><dd id="mwAdQ">The Council of People's Commissars of the U.S.S.R. is responsible to the Supreme Soviet of the U.S.S.R. and accountable to it; and in the intervals between sessions of the Supreme Soviet it is responsible and accountable to the Presidium of the Supreme Soviet of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAdU">
+</span><p about="#mwt27" id="mwAdY">ARTICLE 66</p><span about="#mwt27" id="mwAdc">
+</span><dl about="#mwt27" id="mwAdg"><dd id="mwAdk">The Council of People's Commissars of the U.S.S.R. issues decisions and orders on the basis and in pursuance of the laws in operation and supervises their execution.</dd></dl><span about="#mwt27" id="mwAdo">
+</span><p about="#mwt27" id="mwAds">ARTICLE 67</p><span about="#mwt27" id="mwAdw">
+</span><dl about="#mwt27" id="mwAd0"><dd id="mwAd4">Decisions and orders of the Council of People's Commissars of the U.S.S.R. are binding throughout the entire territory of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAd8">
+</span><p about="#mwt27" id="mwAeA">ARTICLE 68</p><span about="#mwt27" id="mwAeE">
+</span><dl about="#mwt27" id="mwAeI"><dd id="mwAeM">The Council of People's Commissars of the U.S.S.R.:—</dd></dl><span about="#mwt27" id="mwAeQ">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt27" typeof="mw:Extension/templatestyles" id="mwAeU" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt27" id="mwAeY">
+<ul id="mwAec"><li id="mwAeg">(a) Co-ordinates and directs the work of the All-Union and Union-Republican People's Commissariats of <span id="mwAek"><span class="pagenum ws-pagenum" id="16" data-page-number="16" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/20" data-page-index="20" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/20"><span id="pageindex_20" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAeo">​</span></span></span></span>the U.S.S.R. and of other institutions, economic and cultural, under its jurisdiction;</li>
+<li id="mwAes">(b) Adopts measures to carry out the plan of national economy and the state budget and to strengthen the credit and monetary system;</li>
+<li id="mwAew">(c) Adopts measures for the maintenance of public order, for the protection of the interests of the state, and for the safeguarding of the rights of citizens;</li>
+<li id="mwAe0">(d) Exercises general control in the sphere of relations with foreign states;</li>
+<li id="mwAe4">(e) Determines the annual contingent of citizens to be called up for military service and directs the general organisation and development of the armed forces of the country;</li>
+<li id="mwAe8">(f) Sets up, whenever necessary, special committees and Central Boards under the Council of People's Commissars of the U.S.S.R. for matters concerning the development of economy, culture and defence.</li></ul>
+</div><span about="#mwt27" id="mwAfA">
+</span><p about="#mwt27" id="mwAfE">ARTICLE 69</p><span about="#mwt27" id="mwAfI">
+</span><dl about="#mwt27" id="mwAfM"><dd id="mwAfQ">The Council of People's Commissars of the U.S.S.R. has the right, in respect of those branches of administration and economy which come within the jurisdiction of the U.S.S.R., to suspend decisions and orders of the Councils of People's Commissars of the Union Republics and to annul orders and instructions of People's Commissars of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAfU">
+</span><p about="#mwt27" id="mwAfY">ARTICLE 70</p><span about="#mwt27" id="mwAfc">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt27" id="mwAfg">
+<p id="mwAfk">The Council of People's Commissars of the U.S.S.R. is formed by the Supreme Soviet of the U.S.S.R. and consists of:—<br id="mwAfo"/>The Chairman of the Council of People's Commissars of the U.S.S.R.<br id="mwAfs"/>The Vice-Chairmen of the Council of People's Commissars of the U.S.S.R.<br id="mwAfw"/>The Chairman of the State Planning Commission of the U.S.S.R.<br id="mwAf0"/>The Chairman of the Commission of Soviet Control.<br id="mwAf4"/>The People's Commissar of the U.S.S.R.<br id="mwAf8"/>The Chairman of the Committee of Agricultural Stocks. <span id="mwAgA"><span class="pagenum ws-pagenum" id="17" data-page-number="17" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/21" data-page-index="21" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/21"><span id="pageindex_21" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAgE">​</span></span></span></span><br id="mwAgI"/>The Chairman of the Committee of Arts.<br id="mwAgM"/> The Chairman of the Committee of Higher Education.</p>
+</div><span about="#mwt27" id="mwAgQ">
+</span><p about="#mwt27" id="mwAgU">ARTICLE 71</p><span about="#mwt27" id="mwAgY">
+</span><dl about="#mwt27" id="mwAgc"><dd id="mwAgg">The Government of the U.S.S.R. or a People's Commissar of the U.S.S.R. to whom a question of a member of the Supreme Soviet of the U.S.S.R. is addressed must give a verbal or written reply in the respective Chamber within a period not exceeding three days.</dd></dl><span about="#mwt27" id="mwAgk">
+</span><p about="#mwt27" id="mwAgo">ARTICLE 72</p><span about="#mwt27" id="mwAgs">
+</span><dl about="#mwt27" id="mwAgw"><dd id="mwAg0">The People's Commissars of the U.S.S.R. direct the branches of state administration which come within the jurisdiction of the U.S.S.R.</dd></dl><span about="#mwt27" id="mwAg4">
+</span><p about="#mwt27" id="mwAg8">ARTICLE 73</p><span about="#mwt27" id="mwAhA">
+</span><dl about="#mwt27" id="mwAhE"><dd id="mwAhI">The People's Commissars of the U.S.S.R. issue, within the limits of the jurisdiction of the respective People's Commissariats, orders and instructions on the basis and in pursuance of the laws in operation and also of decisions and orders of the Council of People's Commissars of the U.S.S.R., and supervise their execution.</dd></dl><span about="#mwt27" id="mwAhM">
+</span><p about="#mwt27" id="mwAhQ">ARTICLE 74</p><span about="#mwt27" id="mwAhU">
+</span><dl about="#mwt27" id="mwAhY"><dd id="mwAhc">The People's Commissariats of the U.S.S.R. are either All-Union or Union-Republican Commissariats.</dd></dl><span about="#mwt27" id="mwAhg">
+</span><p about="#mwt27" id="mwAhk">ARTICLE 75</p><span about="#mwt27" id="mwAho">
+</span><dl about="#mwt27" id="mwAhs"><dd id="mwAhw">The All-Union People's Commissariat direct the branches of state administration entrusted to them throughout the territory of the U.S.S.R. either directly or through bodies appointed by them.</dd></dl><span about="#mwt27" id="mwAh0">
+</span><p about="#mwt27" id="mwAh4">ARTICLE 76</p><span about="#mwt27" id="mwAh8">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt27" id="mwAiA">
+<p id="mwAiE">The Union-Republican People's Commissariats direct the branches of state administration entrusted to them as a rule through the medium of identically named People's Commissariats of the Union Republics; they administer directly only a definite and limited number of enterprises according to a list confirmed by the Presidium of the Supreme Soviet of the U.S.S.R.</p>
+</div><p about="#mwt48" typeof="mw:Transclusion" id="mwAiI" data-mw='{"parts":["&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/22"},"num":{"wt":"18"},"formatted":{"wt":"18"},"quality":{"wt":"3"}},"i":0}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/22","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/22"},"params":{},"i":1}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/23"},"num":{"wt":"19"},"formatted":{"wt":"19"},"quality":{"wt":"3"}},"i":2}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/23","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/23"},"params":{},"i":3}}]}'> <span id="mwAiM"><span class="pagenum ws-pagenum" id="18" data-page-number="18" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/22" data-page-index="22" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/22"><span id="pageindex_22" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAiQ">​</span></span></span></span>ARTICLE 77</p><span about="#mwt48" id="mwAiU">
+</span><dl about="#mwt48" id="mwAiY"><dd id="mwAic">The following People's Commissariats are All-Union People's Commissariats:—</dd></dl><span about="#mwt48" id="mwAig">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt48" typeof="mw:Extension/templatestyles" id="mwAik" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt48" id="mwAio">
+<ul id="mwAis"><li id="mwAiw">Defence.</li>
+<li id="mwAi0">Foreign Affairs.</li>
+<li id="mwAi4">Foreign Trade.</li>
+<li id="mwAi8">Railways.</li>
+<li id="mwAjA">Communications.</li>
+<li id="mwAjE">Water Transport.</li>
+<li id="mwAjI">Heavy Industry.</li>
+<li id="mwAjM">Defence Industry.</li></ul>
+</div><span about="#mwt48" id="mwAjQ">
+</span><p about="#mwt48" id="mwAjU">ARTICLE 78</p><span about="#mwt48" id="mwAjY">
+</span><dl about="#mwt48" id="mwAjc"><dd id="mwAjg">The following People's Commissariats are Union Republican People's Commissariats:—</dd></dl><span about="#mwt48" id="mwAjk">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt48" typeof="mw:Extension/templatestyles" id="mwAjo" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt48" id="mwAjs">
+<ul id="mwAjw"><li id="mwAj0">Food Industry.</li>
+<li id="mwAj4">Light Industry.</li>
+<li id="mwAj8">Timber Industry.</li>
+<li id="mwAkA">Agriculture.</li>
+<li id="mwAkE">State Grain and Livestock Farms.</li>
+<li id="mwAkI">Finance.</li>
+<li id="mwAkM">Internal Trade.</li>
+<li id="mwAkQ">Internal Affairs.</li>
+<li id="mwAkU">Justice.</li>
+<li id="mwAkY">Public Health.</li></ul>
+</div><span class="mw-empty-elt" about="#mwt48" id="mwAkc"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt51" typeof="mw:Extension/templatestyles" id="mwAkg" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/></span><div class="wst-center tiInherit  " about="#mwt48" id="mwAkk">
+<p id="mwAko"><span style="font-size:120%;" id="mwAks"><span class="smallcaps" style="font-variant:small-caps;" id="mwAkw">Chapter VI</span><br id="mwAk0"/>
+THE ORGANS OF STATE ADMINISTRATION OF THE UNION REPUBLICS</span></p>
+</div><span about="#mwt48" id="mwAk4">
+</span><p about="#mwt48" id="mwAk8">ARTICLE 79</p><span about="#mwt48" id="mwAlA">
+</span><dl about="#mwt48" id="mwAlE"><dd id="mwAlI">The highest executive and administrative organ of state power of a Union Republic is the Council of People's Commissars of the Union Republic.</dd></dl><span about="#mwt48" id="mwAlM">
+</span><p about="#mwt48" id="mwAlQ">ARTICLE 80</p><span about="#mwt48" id="mwAlU">
+</span><dl about="#mwt48" id="mwAlY"><dd id="mwAlc">The Council of People's Commissars of a Union Republic is responsible to the Supreme Soviet of the Union Republic and accountable to it; and in the intervals between sessions of the Supreme Soviet of the Union Republic it is responsible and accountable to the Presidium of the Supreme Soviet of the respective Union Republic.</dd></dl><span about="#mwt48" id="mwAlg">
+</span><p about="#mwt48" id="mwAlk">ARTICLE 81</p><span about="#mwt48" id="mwAlo">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt48" id="mwAls">
+<p id="mwAlw">The Council of People's Commissars of a Union <span id="mwAl0"><span class="pagenum ws-pagenum" id="19" data-page-number="19" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/23" data-page-index="23" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/23"><span id="pageindex_23" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAl4">​</span></span></span></span>Republic issues decisions and orders on the basis and in pursuance of the laws in operation in the U.S.S.R. and the Union Republic and of decisions and orders of the Council of People's Commissars of the U.S.S.R., and supervises their execution.</p>
+</div><span about="#mwt48" id="mwAl8">
+</span><p about="#mwt48" id="mwAmA">ARTICLE 82</p><span about="#mwt48" id="mwAmE">
+</span><dl about="#mwt48" id="mwAmI"><dd id="mwAmM">The Council of People's Commissars of a Union Republic has the right to suspend decisions and orders of Councils of People's Commissars of Autonomous Republics and to annul decisions and orders of Executive Committees of Soviets of Toilers' Deputies of Territories, Regions and Autonomous Regions.</dd></dl><span about="#mwt48" id="mwAmQ">
+</span><p about="#mwt48" id="mwAmU">ARTICLE 83</p><span about="#mwt48" id="mwAmY">
+</span><dl about="#mwt48" id="mwAmc"><dd id="mwAmg">The Council of People's Commissars of a Union Republic is formed by the Supreme Soviet of the Union Republic and consists of:—</dd></dl><span about="#mwt48" id="mwAmk">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt48" typeof="mw:Extension/templatestyles" id="mwAmo" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt48" id="mwAms">
+<ul id="mwAmw"><li id="mwAm0">The Chairman of the Council of People's Commissars of the Union Republic.</li>
+<li id="mwAm4">The Vice-Chairmen.</li>
+<li id="mwAm8">The Chairman of the State Planning Commission.</li>
+<li id="mwAnA">The People's Commissars of:—</li>
+<li id="mwAnE">Food Industry.</li>
+<li id="mwAnI">Light Industry.</li>
+<li id="mwAnM">Timber Industry.</li>
+<li id="mwAnQ">Agriculture.</li>
+<li id="mwAnU">State Grain and Livestock Farms.</li>
+<li id="mwAnY">Finance.</li>
+<li id="mwAnc">Internal Trade.</li>
+<li id="mwAng">Internal Affairs.</li>
+<li id="mwAnk">Justice.</li>
+<li id="mwAno">Public Health.</li>
+<li id="mwAns">Education.</li>
+<li id="mwAnw">Local Industry.</li>
+<li id="mwAn0">Municipal Economy.</li>
+<li id="mwAn4">Social Maintenance.</li>
+<li id="mwAn8">The Representative of the Committee of Agricultural Stocks.</li>
+<li id="mwAoA">Chief of the Board of Arts.</li>
+<li id="mwAoE">The Representatives of the All-Union People's Commissariats.</li></ul>
+</div><p about="#mwt56" typeof="mw:Transclusion" id="mwAoI" data-mw='{"parts":["&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/24"},"num":{"wt":"20"},"formatted":{"wt":"20"},"quality":{"wt":"3"}},"i":0}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/24","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/24"},"params":{},"i":1}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/25"},"num":{"wt":"21"},"formatted":{"wt":"21"},"quality":{"wt":"3"}},"i":2}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/25","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/25"},"params":{},"i":3}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/26"},"num":{"wt":"22"},"formatted":{"wt":"22"},"quality":{"wt":"3"}},"i":4}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/26","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/26"},"params":{},"i":5}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/27"},"num":{"wt":"23"},"formatted":{"wt":"23"},"quality":{"wt":"3"}},"i":6}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/27","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/27"},"params":{},"i":7}}]}'> <span id="mwAoM"><span class="pagenum ws-pagenum" id="20" data-page-number="20" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/24" data-page-index="24" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/24"><span id="pageindex_24" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAoQ">​</span></span></span></span>ARTICLE 84</p><span about="#mwt56" id="mwAoU">
+</span><dl about="#mwt56" id="mwAoY"><dd id="mwAoc">The People's Commissars of a Union Republic direct the branches of the state administration which come within the jurisdiction of the Union Republic.</dd></dl><span about="#mwt56" id="mwAog">
+</span><p about="#mwt56" id="mwAok">ARTICLE 85</p><span about="#mwt56" id="mwAoo">
+</span><dl about="#mwt56" id="mwAos"><dd id="mwAow">The People's Commissars of a Union Republic issue, within the limits of the jurisdiction of their respective People's Commissariats, orders and instructions on the basis and in pursuance of the laws of the U.S.S.R. and the Union Republic, of decisions and orders of the Council of People's Commissars of the U.S.S.R. and that of the Union Republic, and of orders and instructions of the Union-Republican People's Commissariats of the U.S.S.R.</dd></dl><span about="#mwt56" id="mwAo0">
+</span><p about="#mwt56" id="mwAo4">ARTICLE 86</p><span about="#mwt56" id="mwAo8">
+</span><dl about="#mwt56" id="mwApA"><dd id="mwApE">The People's Commissariats of a Union Republic are either Union Republican or Republican Commissariats.</dd></dl><span about="#mwt56" id="mwApI">
+</span><p about="#mwt56" id="mwApM">ARTICLE 87</p><span about="#mwt56" id="mwApQ">
+</span><dl about="#mwt56" id="mwApU"><dd id="mwApY">The Union-Republican People's Commissariats direct the branches of state administration entrusted to them and are subordinate both to the Council of People's Commissars of the Union Republic and to the corresponding Union-Republican People's Commissariats of the U.S.S.R.</dd></dl><span about="#mwt56" id="mwApc">
+</span><p about="#mwt56" id="mwApg">ARTICLE 88</p><span about="#mwt56" id="mwApk">
+</span><dl about="#mwt56" id="mwApo"><dd id="mwAps">The Republican People's Commissariats direct the branches of state administration entrusted to them and are directly subordinate to the Council of People's Commissars of the Union Republic.</dd></dl><span about="#mwt56" id="mwApw">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt56" typeof="mw:Extension/templatestyles" id="mwAp0" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt56" id="mwAp4">
+<p id="mwAp8"><span style="font-size:120%;" id="mwAqA"><span class="smallcaps" style="font-variant:small-caps;" id="mwAqE">Chapter VII</span><br id="mwAqI"/>
+THE HIGHEST ORGANS OF STATE POWER OF THE AUTONOMOUS SOVIET SOCIALIST REPUBLICS</span></p>
+</div><span about="#mwt56" id="mwAqM">
+</span><p about="#mwt56" id="mwAqQ">ARTICLE 89</p><span about="#mwt56" id="mwAqU">
+</span><dl about="#mwt56" id="mwAqY"><dd id="mwAqc">The highest organ of state power of an Autonomous Republic is the Supreme Soviet of the Autonomous Soviet Socialist Republic.</dd></dl><span about="#mwt56" id="mwAqg">
+</span><p about="#mwt56" id="mwAqk">ARTICLE 90</p><span about="#mwt56" id="mwAqo">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt56" id="mwAqs">
+<p id="mwAqw">The Supreme Soviet of an Autonomous Republic is <span id="mwAq0"><span class="pagenum ws-pagenum" id="21" data-page-number="21" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/25" data-page-index="25" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/25"><span id="pageindex_25" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAq4">​</span></span></span></span>elected by the citizens of the Republic for a term of four years at the rate of representation determined by the Constitution of the Autonomous Republic.</p>
+</div><span about="#mwt56" id="mwAq8">
+
+</span><p about="#mwt56" id="mwArA">ARTICLE 91</p><span about="#mwt56" id="mwArE">
+</span><dl about="#mwt56" id="mwArI"><dd id="mwArM">The Supreme Soviet of an Autonomous Republic is the sole legislative organ of the Autonomous Soviet Socialist Republic.</dd></dl><span about="#mwt56" id="mwArQ">
+</span><p about="#mwt56" id="mwArU">ARTICLE 92</p><span about="#mwt56" id="mwArY">
+</span><dl about="#mwt56" id="mwArc"><dd id="mwArg">Each Autonomous Republic has its own Constitution, which takes into account the specific features of the Autonomous Republic and is drawn up in full conformity with the Constitution of the Union Republic.</dd></dl><span about="#mwt56" id="mwArk">
+</span><p about="#mwt56" id="mwAro">ARTICLE 93</p><span about="#mwt56" id="mwArs">
+</span><dl about="#mwt56" id="mwArw"><dd id="mwAr0">The Supreme Soviet of an Autonomous Republic elects a Presidium of the Supreme Soviet of the Autonomous Republic and forms a Council of People's Commissars of the Autonomous Republic, in accordance with its Constitution.</dd></dl><span about="#mwt56" id="mwAr4">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt56" typeof="mw:Extension/templatestyles" id="mwAr8" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt56" id="mwAsA">
+<p id="mwAsE"><span style="font-size:120%;" id="mwAsI"><span class="smallcaps" style="font-variant:small-caps;" id="mwAsM">Chapter VIII</span><br id="mwAsQ"/>
+THE LOCAL ORGANS OF STATE POWER</span></p>
+</div><span about="#mwt56" id="mwAsU">
+</span><p about="#mwt56" id="mwAsY">ARTICLE 94</p><span about="#mwt56" id="mwAsc">
+</span><dl about="#mwt56" id="mwAsg"><dd id="mwAsk">The organs of state power in territories, regions, autonomous regions, areas, districts, cities and rural localities (stanitsa, village, hamlet, kishlak, aul), are the Soviets of Toilers' Deputies.</dd></dl><span about="#mwt56" id="mwAso">
+</span><p about="#mwt56" id="mwAss">ARTICLE 95</p><span about="#mwt56" id="mwAsw">
+</span><dl about="#mwt56" id="mwAs0"><dd id="mwAs4">The Soviets of Toilers' Deputies of territories, regions, autonomous regions, areas, districts, cities and rural localities (stanitsa, village, hamlet, kishlak, aul), are elected by the toilers in the respective territories, regions, autonomous regions, areas, districts, cities or rural localities for a term of two years.</dd></dl><span about="#mwt56" id="mwAs8">
+</span><p about="#mwt56" id="mwAtA">ARTICLE 96</p><span about="#mwt56" id="mwAtE">
+</span><dl about="#mwt56" id="mwAtI"><dd id="mwAtM">The rates of representation for Soviets of Toilers' Deputies are determined by the Constitutions of the Union Republics.</dd></dl><span about="#mwt56" id="mwAtQ">
+</span><p about="#mwt56" id="mwAtU">ARTICLE 97</p><span about="#mwt56" id="mwAtY">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt56" id="mwAtc">
+<p id="mwAtg">The Soviets of Toilers' Deputies direct the activities of the organs of administration subordinate <span id="mwAtk"><span class="pagenum ws-pagenum" id="22" data-page-number="22" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/26" data-page-index="26" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/26"><span id="pageindex_26" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAto">​</span></span></span></span>to them, ensure the maintenance of public order, the observance of the laws and the protection of the rights of citizens, direct local economic and cultural developments and determine the local budgets.</p>
+</div><span about="#mwt56" id="mwAts">
+</span><p about="#mwt56" id="mwAtw">ARTICLE 98</p><span about="#mwt56" id="mwAt0">
+</span><dl about="#mwt56" id="mwAt4"><dd id="mwAt8">The Soviets of Toilers' Deputies adopt decisions and issue orders within the limits of the powers vested in them by the laws of the U.S.S.R. and the Union Republic.</dd></dl><span about="#mwt56" id="mwAuA">
+</span><p about="#mwt56" id="mwAuE">ARTICLE 99</p><span about="#mwt56" id="mwAuI">
+</span><dl about="#mwt56" id="mwAuM"><dd id="mwAuQ">The executive and administrative organs of the Soviets of Toilers' Deputies and territories, regions, autonomous regions, areas, districts, cities and rural localities are the Executive Committees elected by them, consisting of a Chairman, Vice-Chairman, Secretary and members.</dd></dl><span about="#mwt56" id="mwAuU">
+</span><p about="#mwt56" id="mwAuY">ARTICLE 100</p><span about="#mwt56" id="mwAuc">
+</span><dl about="#mwt56" id="mwAug"><dd id="mwAuk">The executive and administrative organ of rural Soviets of Toilers' Deputies in small localities, in accordance with the Constitutions of the Union Republics, is the Chairman, the Vice-Chairman and Secretary elected by them.</dd></dl><span about="#mwt56" id="mwAuo">
+</span><p about="#mwt56" id="mwAus">ARTICLE 101</p><span about="#mwt56" id="mwAuw">
+</span><dl about="#mwt56" id="mwAu0"><dd id="mwAu4">The executive organs of the Soviets of Toilers' Deputies are directly accountable both to the Soviets of Toilers' Deputies which elected them and to the executive organ of the superior Soviet of Toilers' Deputies.</dd></dl><span about="#mwt56" id="mwAu8">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt56" typeof="mw:Extension/templatestyles" id="mwAvA" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt56" id="mwAvE">
+<p id="mwAvI"><span style="font-size:120%;" id="mwAvM"><span class="smallcaps" style="font-variant:small-caps;" id="mwAvQ">Chapter IX</span><br id="mwAvU"/>
+THE COURTS AND THE PROCURATOR'S OFFICE</span></p>
+</div><span about="#mwt56" id="mwAvY">
+</span><p about="#mwt56" id="mwAvc">ARTICLE 102</p><span about="#mwt56" id="mwAvg">
+</span><dl about="#mwt56" id="mwAvk"><dd id="mwAvo">Justice in the U.S.S.R. is administered by the Supreme Court of the U.S.S.R., the Supreme Courts of the Union Republics, the Territorial and Regional courts, the courts of the Autonomous Republics and Autonomous Regions, Area courts, special courts of the U.S.S.R. established by decision of the Supreme Soviet of the U.S.S.R., and the People's Courts.</dd></dl><span about="#mwt56" id="mwAvs">
+</span><p about="#mwt56" id="mwAvw">ARTICLE 103</p><span about="#mwt56" id="mwAv0">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt56" id="mwAv4">
+<p id="mwAv8">In all courts cases are tried with the assistance of <span id="mwAwA"><span class="pagenum ws-pagenum" id="23" data-page-number="23" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/27" data-page-index="27" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/27"><span id="pageindex_27" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAwE">​</span></span></span></span>people's assessors, except in cases specially provided for by law.</p>
+</div><span about="#mwt56" id="mwAwI">
+</span><p about="#mwt56" id="mwAwM">ARTICLE 104</p><span about="#mwt56" id="mwAwQ">
+</span><dl about="#mwt56" id="mwAwU"><dd id="mwAwY">The Supreme Court of the U.S.S.R. is the highest judicial organ. The Supreme Court of the U.S.S.R. is charged with the function of supervising the judicial activities of all the judicial organs of the U.S.S.R. and of the Union Republics.</dd></dl><span about="#mwt56" id="mwAwc">
+</span><p about="#mwt56" id="mwAwg">ARTICLE 105</p><span about="#mwt56" id="mwAwk">
+</span><dl about="#mwt56" id="mwAwo"><dd id="mwAws">The Supreme Court of the U.S.S.R. and the special courts of the U.S.S.R. are elected by the Supreme Soviet of the U.S.S.R. for a term of five years.</dd></dl><span about="#mwt56" id="mwAww">
+</span><p about="#mwt56" id="mwAw0">ARTICLE 106</p><span about="#mwt56" id="mwAw4">
+</span><dl about="#mwt56" id="mwAw8"><dd id="mwAxA">The Supreme Courts of the Union Republics are elected by the Supreme Soviets of the Union Republics for a term of five years.</dd></dl><span about="#mwt56" id="mwAxE">
+</span><p about="#mwt56" id="mwAxI">ARTICLE 107</p><span about="#mwt56" id="mwAxM">
+</span><dl about="#mwt56" id="mwAxQ"><dd id="mwAxU">The Supreme Courts of the Autonomous Republics are elected by the Supreme Soviets of the Autonomous Republics for a term of five years.</dd></dl><span about="#mwt56" id="mwAxY">
+</span><p about="#mwt56" id="mwAxc">ARTICLE 108</p><span about="#mwt56" id="mwAxg">
+</span><dl about="#mwt56" id="mwAxk"><dd id="mwAxo">Territorial and Regional courts, the courts of Autonomous Regions and Area courts are elected by the Territorial Regional or Area Soviets of Toilers' Deputies or by the Soviets of Toilers' Deputies of the Autonomous Regions for a term of five years.</dd></dl><span about="#mwt56" id="mwAxs">
+</span><p about="#mwt56" id="mwAxw">ARTICLE 109</p><span about="#mwt56" id="mwAx0">
+</span><dl about="#mwt56" id="mwAx4"><dd id="mwAx8">People's Courts are elected by the citizens of the district on the basis of universal, direct and equal suffrage and secret ballot for a term of three years.</dd></dl><span about="#mwt56" id="mwAyA">
+</span><p about="#mwt56" id="mwAyE">ARTICLE 110</p><span about="#mwt56" id="mwAyI">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt56" id="mwAyM">
+<p id="mwAyQ">Court proceedings are conducted in the languages of the Union Republic, Autonomous Republic or Autonomous Region, persons not knowing this language being ensured every opportunity of fully acquainting themselves with the material pertaining to the case through an interpreter and the right to speak in court in their own language.</p>
+</div><p about="#mwt67" typeof="mw:Transclusion" id="mwAyU" data-mw='{"parts":["&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/28"},"num":{"wt":"24"},"formatted":{"wt":"24"},"quality":{"wt":"3"}},"i":0}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/28","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/28"},"params":{},"i":1}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/29"},"num":{"wt":"25"},"formatted":{"wt":"25"},"quality":{"wt":"3"}},"i":2}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/29","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/29"},"params":{},"i":3}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/30"},"num":{"wt":"26"},"formatted":{"wt":"26"},"quality":{"wt":"3"}},"i":4}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/30","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/30"},"params":{},"i":5}}]}'> <span id="mwAyY"><span class="pagenum ws-pagenum" id="24" data-page-number="24" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/28" data-page-index="28" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/28"><span id="pageindex_28" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwAyc">​</span></span></span></span>ARTICLE 111</p><span about="#mwt67" id="mwAyg">
+</span><dl about="#mwt67" id="mwAyk"><dd id="mwAyo">In all courts of the U.S.S.R. cases are heard in public, unless otherwise provided for by law, and the accused is guaranteed the right of defence.</dd></dl><span about="#mwt67" id="mwAys">
+</span><p about="#mwt67" id="mwAyw">ARTICLE 112</p><span about="#mwt67" id="mwAy0">
+</span><dl about="#mwt67" id="mwAy4"><dd id="mwAy8">Judges are independent and subject only to the law.</dd></dl><span about="#mwt67" id="mwAzA">
+</span><p about="#mwt67" id="mwAzE">ARTICLE 113</p><span about="#mwt67" id="mwAzI">
+</span><dl about="#mwt67" id="mwAzM"><dd id="mwAzQ">Supreme supervision over the strict execution of the laws by all People's Commissariats and institutions subordinated to them, as well as by official persons and by citizens of the U.S.S.R., is vested in the Procurator of the U.S.S.R.</dd></dl><span about="#mwt67" id="mwAzU">
+</span><p about="#mwt67" id="mwAzY">ARTICLE 114</p><span about="#mwt67" id="mwAzc">
+</span><dl about="#mwt67" id="mwAzg"><dd id="mwAzk">The Procurator of the U.S.S.R. is appointed by the Supreme Soviet of the U.S.S.R. for a term of seven years.</dd></dl><span about="#mwt67" id="mwAzo">
+</span><p about="#mwt67" id="mwAzs">ARTICLE 115</p><span about="#mwt67" id="mwAzw">
+</span><dl about="#mwt67" id="mwAz0"><dd id="mwAz4">Procurators of Republics, Territories and Regions, as well as Procurators of Autonomous Republics and Autonomous Regions, are appointed by the Procurator of the U.S.S.R. for a term of five years.</dd></dl><span about="#mwt67" id="mwAz8">
+</span><p about="#mwt67" id="mwA0A">ARTICLE 116</p><span about="#mwt67" id="mwA0E">
+</span><dl about="#mwt67" id="mwA0I"><dd id="mwA0M">Area, district and city procurators are appointed for a term of five years by the Procurators of the Union Republics and confirmed by the Procurator of the U.S.S.R.</dd></dl><span about="#mwt67" id="mwA0Q">
+</span><p about="#mwt67" id="mwA0U">ARTICLE 117</p><span about="#mwt67" id="mwA0Y">
+</span><dl about="#mwt67" id="mwA0c"><dd id="mwA0g">The Procurators' offices perform their functions independently of any local organs whatsoever and are subordinate solely to the Procurator of the U.S.S.R.</dd></dl><span about="#mwt67" id="mwA0k">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt67" typeof="mw:Extension/templatestyles" id="mwA0o" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt67" id="mwA0s">
+<p id="mwA0w"><span style="font-size:120%;" id="mwA00"><span class="smallcaps" style="font-variant:small-caps;" id="mwA04">Chapter X</span><br id="mwA08"/>
+THE FUNDAMENTAL RIGHTS AND DUTIES OF CITIZENS</span></p>
+</div><span about="#mwt67" id="mwA1A">
+</span><p about="#mwt67" id="mwA1E">ARTICLE 118</p><span about="#mwt67" id="mwA1I">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt67" id="mwA1M">
+<p id="mwA1Q">Citizens of the U.S.S.R. have the right to work, i.e., the right to guaranteed employment and payment for their work in accordance with its quantity and quality. <span id="mwA1U"><span class="pagenum ws-pagenum" id="25" data-page-number="25" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/29" data-page-index="29" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/29"><span id="pageindex_29" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwA1Y">​</span></span></span></span><br id="mwA1c"/>The right to work is ensured by the socialist organisation of national economy, the steady growth of the productive forces of Soviet society, the preclusion of the possibility of economic crises, and the abolition of unemployment.</p>
+</div><span about="#mwt67" id="mwA1g">
+</span><p about="#mwt67" id="mwA1k">ARTICLE 119</p><span about="#mwt67" id="mwA1o">
+</span><dl about="#mwt67" id="mwA1s"><dd id="mwA1w">Citizens of the U.S.S.R. have the right to rest and leisure.<br id="mwA10"/>The right to rest and leisure is ensured by the reduction of the working day to seven hours for the overwhelming majority of the workers, the institution of annual vacations with pay for workers and other employees and the provision of a wide network of sanatoria, rest homes and clubs for the accommodation of the toilers.</dd></dl><span about="#mwt67" id="mwA14">
+</span><p about="#mwt67" id="mwA18">ARTICLE 120</p><span about="#mwt67" id="mwA2A">
+</span><dl about="#mwt67" id="mwA2E"><dd id="mwA2I">Citizens of the U.S.S.R. have the right to maintenance in old age and also in case of sickness or loss of capacity to work.<br id="mwA2M"/>This right is ensured by the wide development of social insurance of workers and other employees at state expense, free medical service for toilers, and the provision of a wide network of health resorts for the accommodation of the toilers.</dd></dl><span about="#mwt67" id="mwA2Q">
+</span><p about="#mwt67" id="mwA2U">ARTICLE 121</p><span about="#mwt67" id="mwA2Y">
+</span><dl about="#mwt67" id="mwA2c"><dd id="mwA2g">Citizens of the U.S.S.R. have the right to education.<br id="mwA2k"/>This right is ensured by universal, compulsory elementary education; by the fact that education, including higher education, is free of charge; by the system of state scholarships for the overwhelming majority of students in the higher educational establishments; by instruction in schools being conducted in the native language, and by the organisation of free vocational, technical and agronomic training for the toilers in the factories, state farms, machine and tractor stations and collective farms.</dd></dl><span about="#mwt67" id="mwA2o">
+</span><p about="#mwt67" id="mwA2s">ARTICLE 122</p><span about="#mwt67" id="mwA2w">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt67" id="mwA20">
+<p id="mwA24">Women in the U.S.S.R. are accorded equal rights with men in all spheres of economic, state, cultural, social and political life. <span id="mwA28"><span class="pagenum ws-pagenum" id="26" data-page-number="26" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/30" data-page-index="30" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/30"><span id="pageindex_30" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwA3A">​</span></span></span></span><br id="mwA3E"/>The possibility of exercising these rights of women is ensured by affording women equally with men the right to work, payment for work, rest and leisure, social insurance and education, and by state protection of the interests of mother and child, maternity leave with pay, and the provision of a wide network of maternity homes, nurseries and kindergartens.</p>
+</div><span about="#mwt67" id="mwA3I">
+</span><p about="#mwt67" id="mwA3M">ARTICLE 123</p><span about="#mwt67" id="mwA3Q">
+</span><dl about="#mwt67" id="mwA3U"><dd id="mwA3Y">The equality of the rights of citizens of the U.S.S.R., irrespective of their nationality or race, in all spheres of economic, state, cultural, social and political life, is an indefeasible law.<br id="mwA3c"/>Any direct or indirect restriction of the rights of, or conversely, the establishment of direct or indirect privileges for citizens on account of their race or nationality, as well as the advocacy of racial or national exclusiveness or hatred and contempt, is punishable by law.</dd></dl><span about="#mwt67" id="mwA3g">
+</span><p about="#mwt67" id="mwA3k">ARTICLE 124</p><span about="#mwt67" id="mwA3o">
+</span><dl about="#mwt67" id="mwA3s"><dd id="mwA3w">In order to ensure to citizens freedom of conscience, the church in the U.S.S.R. is separated from the state, and the school from the church. Freedom of religious worship and freedom of anti-religious propaganda is recognised for all citizens.</dd></dl><span about="#mwt67" id="mwA30">
+</span><p about="#mwt67" id="mwA34">ARTICLE 125</p><span about="#mwt67" id="mwA38">
+</span><dl about="#mwt67" id="mwA4A"><dd id="mwA4E">In conformity with the interests of the toilers, and in order to strengthen the socialist system, the citizens of the U.S.S.R. are guaranteed by law:—</dd></dl><span about="#mwt67" id="mwA4I">
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431457" about="#mwt67" typeof="mw:Extension/templatestyles" id="mwA4M" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Plainlist/styles.css"}}'/><div class="wst-plainlist  " style="margin-left:calc(2 * 1.6em);" about="#mwt67" id="mwA4Q">
+<ul id="mwA4U"><li id="mwA4Y">(a) Freedom of speech;</li>
+<li id="mwA4c">(b) Freedom of the Press;</li>
+<li id="mwA4g">(c) Freedom of assembly and of holding mass meetings;</li>
+<li id="mwA4k">(d) Freedom of street processions and demonstrations.</li></ul>
+</div><span about="#mwt67" id="mwA4o">
+</span><dl about="#mwt67" id="mwA4s"><dd id="mwA4w">These rights of citizens are ensured by placing at the disposal of the toilers and their organisations printing presses, stocks of paper, public buildings, the streets, means of communication and other material requisites for the exercise of these rights.</dd></dl><span about="#mwt67" id="mwA40">
+</span><div class="__nop wst-nop" about="#mwt67" id="mwA44"></div><p about="#mwt75" typeof="mw:Transclusion" id="mwA48" data-mw='{"parts":["&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/31"},"num":{"wt":"27"},"formatted":{"wt":"27"},"quality":{"wt":"3"}},"i":0}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/31","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/31"},"params":{},"i":1}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/32"},"num":{"wt":"28"},"formatted":{"wt":"28"},"quality":{"wt":"3"}},"i":2}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/32","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/32"},"params":{},"i":3}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/33"},"num":{"wt":"29"},"formatted":{"wt":"29"},"quality":{"wt":"3"}},"i":4}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/33","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/33"},"params":{},"i":5}},"&lt;pageseparator />&lt;span>",{"template":{"target":{"wt":":MediaWiki:Proofreadpage_pagenum_template","href":"./MediaWiki:Proofreadpage_pagenum_template"},"params":{"page":{"wt":"Page:The Soviet Socialist Constitution of december 5, 1936.djvu/34"},"num":{"wt":"30"},"formatted":{"wt":"30"},"quality":{"wt":"3"}},"i":6}},"&lt;/span>",{"template":{"target":{"wt":":Page:The Soviet Socialist Constitution of december 5, 1936.djvu/34","href":"./Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/34"},"params":{},"i":7}},"&lt;pageseparator />"]}'> <span id="mwA5A"><span class="pagenum ws-pagenum" id="27" data-page-number="27" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/31" data-page-index="31" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/31"><span id="pageindex_31" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwA5E">​</span></span></span></span>ARTICLE 126</p><span about="#mwt75" id="mwA5I">
+</span><dl about="#mwt75" id="mwA5M"><dd id="mwA5Q">In conformity with the interests of the toilers, and in order to develop the organisational initiative and political activity of the masses of the people, citizens of the U.S.S.R. are ensured the right to unite in public organisations—trade unions, co-operative associations, youth organisations, sport and defence organisations, cultural, technical and scientific societies; and the most active and politically conscious citizens in the ranks of the working class and other strata of the toilers unite in the Communist Party of the Soviet Union (Bolsheviks), which is the vanguard of the toilers in their struggle to strengthen and develop the socialist system and which represents the leading core of all organisations of the toilers, both public and state.</dd></dl><span about="#mwt75" id="mwA5U">
+</span><p about="#mwt75" id="mwA5Y">ARTICLE 127</p><span about="#mwt75" id="mwA5c">
+</span><dl about="#mwt75" id="mwA5g"><dd id="mwA5k">The citizens of the U.S.S.R. are guaranteed inviolability of person. No person may be placed under arrest except by decision of court or with the sanction of a procurator.</dd></dl><span about="#mwt75" id="mwA5o">
+</span><p about="#mwt75" id="mwA5s">ARTICLE 128</p><span about="#mwt75" id="mwA5w">
+</span><dl about="#mwt75" id="mwA50"><dd id="mwA54">The inviolability of the homes of citizens and secrecy of correspondence are protected by law.</dd></dl><span about="#mwt75" id="mwA58">
+</span><p about="#mwt75" id="mwA6A">ARTICLE 129</p><span about="#mwt75" id="mwA6E">
+</span><dl about="#mwt75" id="mwA6I"><dd id="mwA6M">The U.S.S.R. grants the right of asylum to foreign citizens persecuted for defending the interests of the toilers, or for their scientific activities, or for their struggle for national liberation.</dd></dl><span about="#mwt75" id="mwA6Q">
+</span><p about="#mwt75" id="mwA6U">ARTICLE 130</p><span about="#mwt75" id="mwA6Y">
+</span><dl about="#mwt75" id="mwA6c"><dd id="mwA6g">It is the duty of every citizen of the U.S.S.R. to abide by the Constitution of the Union of Soviet Socialist Republics, to observe the laws, to maintain labour discipline, honestly to perform public duties, and to respect the rules of socialist human intercourse.</dd></dl><span about="#mwt75" id="mwA6k">
+</span><p about="#mwt75" id="mwA6o">ARTICLE 131</p><span about="#mwt75" id="mwA6s">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt75" id="mwA6w">
+<p id="mwA60">It is the duty of every citizen of the U.S.S.R. to safeguard and fortify public, socialist property as the sacred and inviolable foundation of the Soviet system, is the source of the wealth and might of the country, <span id="mwA64"><span class="pagenum ws-pagenum" id="28" data-page-number="28" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/32" data-page-index="32" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/32"><span id="pageindex_32" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwA68">​</span></span></span></span>as the source of the prosperous and cultured life of all the toilers.<br id="mwA7A"/>Persons encroaching upon public, socialist property are enemies of the people.</p>
+</div><span about="#mwt75" id="mwA7E">
+</span><p about="#mwt75" id="mwA7I">ARTICLE 132</p><span about="#mwt75" id="mwA7M">
+</span><dl about="#mwt75" id="mwA7Q"><dd id="mwA7U">Universal military service is a law.<br id="mwA7Y"/>Military service in the Workers' and Peasants' Red Army is an honourable duty of the citizens of the U.S.S.R.</dd></dl><span about="#mwt75" id="mwA7c">
+</span><p about="#mwt75" id="mwA7g">ARTICLE 133</p><span about="#mwt75" id="mwA7k">
+</span><dl about="#mwt75" id="mwA7o"><dd id="mwA7s">To defend the fatherland is the sacred duty of every citizen of the U.S.S.R. Treason to the country—violation of the oath, desertion to the enemy, impairing the military power of the state, espionage—is punishable with all the severity of the law as the worst of crimes.</dd></dl><span about="#mwt75" id="mwA7w">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt75" typeof="mw:Extension/templatestyles" id="mwA70" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt75" id="mwA74">
+<p id="mwA78"><span style="font-size:120%;" id="mwA8A"><span class="smallcaps" style="font-variant:small-caps;" id="mwA8E">Chapter XI</span><br id="mwA8I"/>
+THE ELECTORAL SYSTEM</span></p>
+</div><span about="#mwt75" id="mwA8M">
+</span><p about="#mwt75" id="mwA8Q">ARTICLE 134</p><span about="#mwt75" id="mwA8U">
+</span><dl about="#mwt75" id="mwA8Y"><dd id="mwA8c">Members of all Soviets of Toilers' Deputies—of the Supreme Soviet of the U.S.S.R., the Supreme Soviet of the Union Republics, the Soviets of Toilers' Deputies of the Territories and Regions, the Supreme Soviets of the Autonomous Republics, the Soviets of Toilers' Deputies of Autonomous Regions, area, district, city and rural (stanitsa, village, hamlet, kishlak, aul), Soviets of Toilers' Deputies—are elected by the electors on the basis of universal, equal and direct suffrage by the secret ballot.</dd></dl><span about="#mwt75" id="mwA8g">
+</span><p about="#mwt75" id="mwA8k">ARTICLE 135</p><span about="#mwt75" id="mwA8o">
+</span><dl about="#mwt75" id="mwA8s"><dd id="mwA8w">Elections of deputies are universal: all citizens of the U.S.S.R. who have reached the age of 18, irrespective of race or nationality, religion, standard of education, domicile, social origin, property status or past activities, have the right to vote in the election of deputies and to be elected, with the exception of the insane and persons convicted by court of law to sentences including deprivation of electoral rights.</dd></dl><span about="#mwt75" id="mwA80">
+</span><p about="#mwt75" id="mwA84">ARTICLE 136</p><span about="#mwt75" id="mwA88">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt75" id="mwA9A">
+<p id="mwA9E">Elections of deputies are equal: each citizen is <span id="mwA9I"><span class="pagenum ws-pagenum" id="29" data-page-number="29" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/33" data-page-index="33" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/33"><span id="pageindex_33" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwA9M">​</span></span></span></span>entitled to one vote; all citizens participate in elections on an equal footing.</p>
+</div><span about="#mwt75" id="mwA9Q">
+</span><p about="#mwt75" id="mwA9U">ARTICLE 137</p><span about="#mwt75" id="mwA9Y">
+</span><dl about="#mwt75" id="mwA9c"><dd id="mwA9g">Women have the right to elect and be elected on equal terms with men.</dd></dl><span about="#mwt75" id="mwA9k">
+</span><p about="#mwt75" id="mwA9o">ARTICLE 138</p><span about="#mwt75" id="mwA9s">
+</span><dl about="#mwt75" id="mwA9w"><dd id="mwA90">Citizens serving in the Red Army have the right to elect and be elected on equal terms with all other citizens.</dd></dl><span about="#mwt75" id="mwA94">
+</span><p about="#mwt75" id="mwA98">ARTICLE 139</p><span about="#mwt75" id="mwA-A">
+</span><dl about="#mwt75" id="mwA-E"><dd id="mwA-I">Elections of deputies are direct: all Soviets of Toilers' Deputies, from rural and city Soviets of Toilers' Deputies up to and including the Supreme Soviet of the U.S.S.R., are elected by the citizens by direct vote.</dd></dl><span about="#mwt75" id="mwA-M">
+</span><p about="#mwt75" id="mwA-Q">ARTICLE 140</p><span about="#mwt75" id="mwA-U">
+</span><dl about="#mwt75" id="mwA-Y"><dd id="mwA-c">Voting at elections of deputies is secret.</dd></dl><span about="#mwt75" id="mwA-g">
+</span><p about="#mwt75" id="mwA-k">ARTICLE 141</p><span about="#mwt75" id="mwA-o">
+</span><dl about="#mwt75" id="mwA-s"><dd id="mwA-w">Candidates are nominated for election according to electoral areas.<br id="mwA-0"/>The right to nominate candidates is secured to public organisations and societies of toilers: Communist Party organisations, trade unions, co-operatives, youth organisations and cultural societies.</dd></dl><span about="#mwt75" id="mwA-4">
+</span><p about="#mwt75" id="mwA-8">ARTICLE 142</p><span about="#mwt75" id="mwA_A">
+</span><dl about="#mwt75" id="mwA_E"><dd id="mwA_I">It is the duty of every deputy to report to the electors on his work and on the work of the Soviet of Toilers' Deputies, and he is liable to be recalled at any time in the manner established by law upon decision of a majority of the electors.</dd></dl><span about="#mwt75" id="mwA_M">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt75" typeof="mw:Extension/templatestyles" id="mwA_Q" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt75" id="mwA_U">
+<p id="mwA_Y"><span style="font-size:120%;" id="mwA_c"><span class="smallcaps" style="font-variant:small-caps;" id="mwA_g">Chapter XII</span><br id="mwA_k"/>
+EMBLEM, FLAG, CAPITAL</span></p>
+</div><span about="#mwt75" id="mwA_o">
+</span><p about="#mwt75" id="mwA_s">ARTICLE 143</p><span about="#mwt75" id="mwA_w">
+</span><div style="text-align:left; margin-left:1.6em; " about="#mwt75" id="mwA_0">
+<p id="mwA_4">The state emblem of the Union of Soviet Socialist Republics consists of a sickle and hammer against a globe depicted in the rays of the sun and surrounded by ears of corn with the inscription in the languages <span id="mwA_8"><span class="pagenum ws-pagenum" id="30" data-page-number="30" data-page-name="Page:The Soviet Socialist Constitution of december 5, 1936.djvu/34" data-page-index="34" data-page-quality="3" title="Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/34"><span id="pageindex_34" class="pagenum-inner ws-noexport"><span typeof="mw:Entity" id="mwBAA">​</span></span></span></span>of the Union Republics—"Proletarians of All Countries, Unite!" Above the emblem is a five-pointed star.</p>
+</div><span about="#mwt75" id="mwBAE">
+</span><p about="#mwt75" id="mwBAI">ARTICLE 144</p><span about="#mwt75" id="mwBAM">
+</span><dl about="#mwt75" id="mwBAQ"><dd id="mwBAU">The state flag of the Union of Soviet Socialist Republics is of red cloth with the sickle and hammer depicted in gold in the upper corner near the staff and above them a five-pointed red star bordered in gold. The relation of the width to the length is 1-2.</dd></dl><span about="#mwt75" id="mwBAY">
+</span><p about="#mwt75" id="mwBAc">ARTICLE 145</p><span about="#mwt75" id="mwBAg">
+</span><dl about="#mwt75" id="mwBAk"><dd id="mwBAo">The capital of the Union of Soviet Socialist Republics is the City of Moscow.</dd></dl><span about="#mwt75" id="mwBAs">
+
+</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15620827" about="#mwt75" typeof="mw:Extension/templatestyles" id="mwBAw" data-mw='{"name":"templatestyles","attrs":{"src":"center/styles.css"}}'/><div class="wst-center tiInherit  " about="#mwt75" id="mwBA0">
+<p id="mwBA4"><span style="font-size:120%;" id="mwBA8"><span class="smallcaps" style="font-variant:small-caps;" id="mwBBA">Chapter XIII</span><br id="mwBBE"/>
+THE PROCEDURE FOR AMENDING THE CONSTITUTION</span></p>
+</div><span about="#mwt75" id="mwBBI">
+</span><p about="#mwt75" id="mwBBM">ARTICLE 146</p><span about="#mwt75" id="mwBBQ">
+</span><dl about="#mwt75" id="mwBBU"><dd id="mwBBY">The Constitution of the U.S.S.R. may be amended only by decision of the Supreme Soviet of the U.S.S.R. adopted by a majority of not less than two-thirds of the votes cast in each of its Chambers.</dd></dl></div>
+<span class="mw-empty-elt" about="#mwt114" typeof="mw:Transclusion" id="mwBBc" data-mw='{"parts":[{"template":{"target":{"wt":"translation license","href":"./Template:Translation_license"},"params":{"original":{"wt":"{{PD-EdictGov}}"},"translation":{"wt":"{{PD-1996}}"}},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r14900912" typeof="mw:Extension/templatestyles" about="#mwt115" data-mw='{"name":"templatestyles","attrs":{"src":"Translation license/styles.css"}}'>.mw-parser-output .wst-license-tags{border-collapse:collapse;border-spacing:0;empty-cells:hide;margin:3px 0 0 0;width:100%}.mw-parser-output .wst-license-tags th{padding:0 1ex;text-align:right;font-weight:bold;vertical-align:middle}.mw-parser-output .wst-license-tags td{padding:0;text-align:left;width:90%;vertical-align:middle}</style><style data-mw-deduplicate="TemplateStyles:r15431456" typeof="mw:Extension/templatestyles" about="#mwt116" data-mw='{"name":"templatestyles","attrs":{"src":"Template:License/styles.css"}}'>.mw-parser-output .licenseContainer{box-sizing:border-box;margin-top:1em;margin-bottom:0.25em;clear:both;width:auto;page-break-before:always;break-before:page}.mw-parser-output .licenseContainer>div:first-child{display:table;border:2px solid var(--border-color-subtle,#88A);border-collapse:collapse;border-spacing:0 0;empty-cells:hide;box-sizing:border-box;margin:0 auto 0 auto;width:100%;background-color:var(--background-color-neutral-subtle,#F7F8FF);color:var(--color-base,#202122)}.mw-parser-output .licenseContainer>div:first-child>div:first-child{display:table-row-group}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child{display:table-row}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div{display:table-cell;padding:5px;vertical-align:middle;width:auto}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:first-child{text-align:left}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2){text-align:center}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div{width:100%}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:first-child{display:block;margin:0 auto 0 auto;text-align:left}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2){display:table;border-top:1px solid #88A}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2)>div{display:table-cell;vertical-align:middle}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2)>div:first-child{text-align:center;padding:5px 0;width:40px}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2)>div:nth-child(2){text-align:left;padding:5px;font-size:92%}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(3){text-align:right}.mw-parser-output .licensetpl{display:none}.mw-parser-output .licenseContainer.wst-collapsible-box{clear:both;margin:0.25em 0 0.25em 0;font-size:95%;background-color:var(--background-color-progressive-subtle,#f7f8ff);color:var(--color-base,#202122);border:2px solid var(--border-color-progressive,#88A);text-align:left;line-height:1.6}.mw-parser-output .wst-license-container-title{display:inline-block;padding:0.5em}.mw-parser-output .wst-license-container-content{background-color:transparent;color:inherit;margin:0;padding:3px;text-align:left}.mw-parser-output .licenseContainer.warningLicenseContainer>div:first-child{border-color:#b22222;background-color:#ffeeee;color:#202122}.mw-parser-output .licenseContainer.warningLicenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2){border-color:#b22222;color:#202122}</style><style data-mw-deduplicate="TemplateStyles:r13522194" typeof="mw:Extension/templatestyles" about="#mwt117" data-mw='{"name":"templatestyles","attrs":{"src":"Template:Collapsible box/styles.css"}}'>.mw-parser-output .wst-collapsible-box{margin:0.5em auto;padding:0.5em}.mw-parser-output .wst-collapsible-box.wst-collapsible-box-with-title{padding-top:0}.mw-parser-output .wst-collapsible-box-title>p:first-child{margin-top:0}</style></span><div class="mw-collapsible mw-collapsed wst-collapsible-box wst-collapsible-box-with-title licenseContainer" about="#mwt114">
+<div class="wst-collapsible-box-title wst-license-container-title">
+<p><span typeof="mw:File"><span><img resource="https://en.wikisource.org/wiki/File:Copyright.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/20px-Copyright.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Copyright.svg/40px-Copyright.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="197" data-file-height="197" data-file-type="drawing" height="20" width="20" class="mw-file-element"/></span></span><span typeof="mw:File"><span><img resource="https://en.wikisource.org/wiki/File:PD-icon.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/20px-PD-icon.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/40px-PD-icon.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="196" data-file-height="196" data-file-type="drawing" height="20" width="20" class="mw-file-element"/></span></span><span typeof="mw:Entity"> </span>This work is a translation and has a separate copyright status to the applicable copyright protections of the original content.</p>
+</div>
+<div class="mw-collapsible-content wst-collapsible-box-content wst-license-container-content">
+
+<table class="mw-collapsible-content wst-license-tags"><tbody><tr><th scope="row">Original:</th><td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431456" about="#mwt118" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:License/styles.css"},"body":{"extsrc":""}}'/><div class="licenseContainer licenseBanner dynlayout-exempt"><div><div><div><div>
+<p><span class="imageLeft"><span typeof="mw:File"><span><img resource="https://en.wikisource.org/wiki/File:PD-icon.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/60px-PD-icon.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="196" data-file-height="196" data-file-type="drawing" height="48" width="48" class="mw-file-element"/></span></span></span></p>
+</div><div><div>
+<p>This work is in the <b><a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/public%20domain" title="w:public domain" class="extiw">public domain</a> in the U.S.</b> because it is an <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Edict%20of%20government" title="wikipedia:Edict of government" class="extiw">edict of a government</a>, local or foreign. See <a rel="mw:ExtLink nofollow" href="https://www.copyright.gov/comp3/" class="external text">§ 313.6(C)(2) of the Compendium II: Copyright Office Practices</a>. Such documents include <span typeof="mw:Entity">"</span>legislative enactments, judicial decisions, administrative rulings, public ordinances, or similar types of official legal materials<span typeof="mw:Entity">"</span> as well as <span typeof="mw:Entity">"</span>any translation prepared by a government employee acting within the course of his or her official duties.<span typeof="mw:Entity">"</span></p>
+
+<p>These do <b>not</b> include works of the Organization of American States, United Nations, or any of the UN specialized agencies. See Compendium III § 313.6(C)(2) and 17 U.S.C. 104(b)(5).</p>
+</div><div><div>
+<p><span typeof="mw:File"><a href="https://en.wikisource.org/wiki/File:OOjs_UI_icon_alert_destructive_black-darkred.svg" class="mw-file-description"><img resource="https://en.wikisource.org/wiki/File:OOjs_UI_icon_alert_destructive_black-darkred.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/OOjs_UI_icon_alert_destructive_black-darkred.svg/40px-OOjs_UI_icon_alert_destructive_black-darkred.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/OOjs_UI_icon_alert_destructive_black-darkred.svg/120px-OOjs_UI_icon_alert_destructive_black-darkred.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="20" data-file-height="18" data-file-type="drawing" height="32" width="35" class="mw-file-element"/></a></span></p>
+</div><div>
+A non-American governmental edict may still be copyrighted outside the U.S. Similar to {{<a rel="mw:WikiLink" href="https://en.wikisource.org/wiki/Template:PD-in-USGov" title="Template:PD-in-USGov">PD-in-USGov</a>}}, the above U.S. Copyright Office Practice does not prevent U.S. states or localities from holding copyright abroad, depending on foreign copyright laws and regulations.</div></div></div><div>
+<p><span class="imageRight"><span typeof="mw:File"><span><img resource="https://en.wikisource.org/wiki/File:Flag_of_the_United_States.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/120px-Flag_of_the_United_States.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/250px-Flag_of_the_United_States.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="1235" data-file-height="650" data-file-type="drawing" height="48" width="92" class="mw-file-element"/></span></span></span></p>
+</div></div></div></div><div class="licensetpl">
+<p><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span></p>
+</div><link rel="mw:PageProp/Category" href="./Category:PD-EdictGov"/></div></td></tr><tr><th scope="row">Translation:</th><td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r15431456" about="#mwt119" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Template:License/styles.css"},"body":{"extsrc":""}}'/><div class="licenseContainer licenseBanner dynlayout-exempt"><div><div><div><div>
+<p><span class="imageLeft"><span typeof="mw:File"><span><img resource="https://en.wikisource.org/wiki/File:PD-icon.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/60px-PD-icon.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=en.wikisource.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="196" data-file-height="196" data-file-type="drawing" height="48" width="48" class="mw-file-element"/></span></span></span></p>
+</div><div><div>
+<p>This work is in the <b><a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/public%20domain" title="w:public domain" class="extiw">public domain</a></b> in the United States because it was first published outside the United States (and <i>not</i> published in the U.S. within 30 days), <b>and</b> it was first published before 1989 without complying with U.S. copyright formalities (renewal and/or copyright notice) <b>and</b> it was in the public domain in its home country on the <a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Uruguay%20Round%20Agreements%20Act" title="w:Uruguay Round Agreements Act" class="extiw">URAA</a> date (January 1, 1996 for most countries).</p>
+<hr/>
+<p>This work may be in the <b>public domain</b> in countries and areas with longer native copyright terms that apply the <b><a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Rule%20of%20the%20shorter%20term" title="w:Rule of the shorter term" class="extiw">rule of the shorter term</a></b> to <i>foreign works</i>.</p>
+</div></div><div>
+<p><span class="noimageRight"></span></p>
+</div></div></div></div><div class="licensetpl">
+<p><span class="licensetpl_short">Public domain</span><span class="licensetpl_long">Public domain</span><span class="licensetpl_link_req">false</span><span class="licensetpl_attr_req">false</span></p>
+</div><link rel="mw:PageProp/Category" href="./Category:PD-1996"/></div></td></tr></tbody></table></div></div><div style="clear:both;" about="#mwt114" id="mwBBg"></div></section>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐7c9fd7874c‐q2qpb
+Cached time: 20261113015603
+Cache expiry: 82800
+Cache expiry source: Module:PD‐EdictGov (os.date(%d))
+Reduced expiry: true
+Complications: [vary‐page‐id, vary‐revision‐sha1, use‐parsoid]
+CPU time usage: 0.823 seconds
+Real time usage: 1.114 seconds
+Preprocessor visited node count: 2906/1000000
+Revision size: 755/2097152 bytes
+Post‐expand include size: 103245/2097152 bytes
+Template argument size: 24040/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 27702/5000000 bytes
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 2430786/52428800 bytes
+Number of Wikibase entities loaded: 3/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  868.901      1 -total
+ 10.87%   94.431      1 Template:Translation_license
+  9.52%   82.760      1 Template:Header
+  7.33%   63.692     13 Template:C
+  4.97%   43.154     38 Template:Optional_style
+  3.74%   32.465      1 Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/7
+  3.64%   31.630      1 Template:PD-EdictGov
+  3.45%   29.945     13 Template:Center/s
+  3.01%   26.196      1 Template:Similar
+  2.54%   22.081     13 Template:Larger
+-->
+
+<!-- Render ID 619240b5-df05-11f1-91ac-9bc3eb3297f3 -->
+
+<!-- Saved in parser cache with key enwikisource:parsoid-pcache:2692938:|#|:idhash:useParsoid=1 and timestamp 20261113015603 and revision id 15155761. Rendering was triggered because: page_view
+ -->
+
+<!-- Parsoid 0.25.0.0-alpha1 -->
+</div><!--
+Post‐processing cache key enwikisource:postproc‐parsoid‐pcache:2692938:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1!visibleLinks=single, generated at 20261113015603
+--><noscript><img src="https://en.wikisource.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikisource.org/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;oldid=15155761">https://en.wikisource.org/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;oldid=15155761</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/wiki/Category:Proofread_texts" title="Category:Proofread texts">Proofread texts</a></li><li><a href="/wiki/Category:1942_works" title="Category:1942 works">1942 works</a></li><li><a href="/wiki/Category:Defunct_Constitutions" title="Category:Defunct Constitutions">Defunct Constitutions</a></li><li><a href="/wiki/Category:PD-EdictGov" title="Category:PD-EdictGov">PD-EdictGov</a></li><li><a href="/wiki/Category:PD-1996" title="Category:PD-1996">PD-1996</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_override_author" title="Category:Pages with override author">Pages with override author</a></li><li><a href="/wiki/Category:Headers_applying_DefaultSort_key" title="Category:Headers applying DefaultSort key">Headers applying DefaultSort key</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			<footer id="footer" class="mw-footer" >
+				<ul id="footer-info" class="mw-portlet mw-portlet-footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 24 June 2025, at 21:15.</li>
+	<li id="footer-info-renderedwith">Page was rendered with <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid" class="extiw" title="mw:Special:MyLanguage/Parsoid">Parsoid</a>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply.  By using this site, you agree to the <a class="external text" data-mw-original-href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a class="external text" data-mw-original-href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy.</a></li>
+</ul>
+
+				<ul id="footer-places" class="mw-portlet mw-portlet-footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikisource:About">About Wikisource</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikisource:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikisource.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.wikisource.org/w/index.php?title=Constitution_of_the_Soviet_Union_(1942)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+				<ul id="footer-icons" class="mw-portlet mw-portlet-footer-icons noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+			</footer>
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search cdx-button__icon"></span>
+
+<span>Search</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Search Wikisource">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Special:Search">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Search</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span lang="en" dir="ltr"><span class="mw-page-title-main">Constitution of the Soviet Union (1942)</span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock cdx-button__icon"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language cdx-button__icon"></span>
+
+<span>4 languages</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive cdx-button__icon"></span>
+
+<span>Add topic</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-5757f89b77-4ntvw","wgBackendResponseTime":87,"wgPageParseReport":{"limitreport":{"cputime":"0.823","walltime":"1.114","ppvisitednodes":{"value":2906,"limit":1000000},"revisionsize":{"value":755,"limit":2097152},"postexpandincludesize":{"value":103245,"limit":2097152},"templateargumentsize":{"value":24040,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":27702,"limit":5000000},"entityaccesscount":{"value":3,"limit":500},"timingprofile":["100.00%  868.901      1 -total"," 10.87%   94.431      1 Template:Translation_license","  9.52%   82.760      1 Template:Header","  7.33%   63.692     13 Template:C","  4.97%   43.154     38 Template:Optional_style","  3.74%   32.465      1 Page:The_Soviet_Socialist_Constitution_of_december_5,_1936.djvu/7","  3.64%   31.630      1 Template:PD-EdictGov","  3.45%   29.945     13 Template:Center/s","  3.01%   26.196      1 Template:Similar","  2.54%   22.081     13 Template:Larger"]},"scribunto":{"limitreport-timeusage":{"value":"0.101","limit":"10.000"},"limitreport-memusage":{"value":2430786,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-7c9fd7874c-q2qpb","timestamp":"20261113015603","ttl":82800,"transientcontent":true,"expiry-source":"Module:PD-EdictGov (os.date(%d))"}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Constitution of the Soviet Union (1942)","url":"https:\/\/en.wikisource.org\/wiki\/Constitution_of_the_Soviet_Union_(1942)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q31631","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q31631","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-03-18T15:15:16Z","dateModified":"2025-06-24T21:15:30Z","headline":"constitution of the Soviet Union"}</script>
+</body>
+</html>

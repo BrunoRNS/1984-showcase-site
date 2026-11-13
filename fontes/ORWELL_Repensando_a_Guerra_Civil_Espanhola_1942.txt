@@ -1,0 +1,850 @@
+<!doctype html>
+
+  <html class="no-js"  lang="en-GB" prefix="og: https://ogp.me/ns#">
+
+	<head>
+		<meta charset="utf-8">
+		
+		<!-- Force IE to use the latest rendering engine available -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<meta class="foundation-mq">
+		
+		<!-- If Site Icon isn't set in customizer -->
+		
+		<link rel="pingback" href="https://www.orwellfoundation.com/xmlrpc.php">
+
+		<meta name="dlm-version" content="5.3.7">
+<!-- Search Engine Optimisation by Rank Math - https://rankmath.com/ -->
+<title>Looking Back on the Spanish War | The Orwell Foundation</title>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Looking Back on the Spanish War | The Orwell Foundation" />
+<meta property="og:description" content="As an independent charity, we rely on the generosity of donors, Friends and Patrons to maintain these free resources. I First of all the physical memories, the sound, the smells and the surfaces of things. It is curious that more vividly than anything that came afterwards in the Spanish war I remember the week of so-called training...  &lt;a class=&quot;excerpt-read-more&quot; href=&quot;https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/&quot; title=&quot;ReadLooking Back on the Spanish War&quot;&gt;Read more &raquo;&lt;/a&gt;" />
+<meta property="og:url" content="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/" />
+<meta property="og:site_name" content="The Orwell Foundation" />
+<meta property="article:publisher" content="https://www.facebook.com/TheOrwellPrize/" />
+<meta property="og:updated_time" content="2025-10-23T18:59:58+01:00" />
+<meta property="article:published_time" content="2016-08-24T16:25:15+01:00" />
+<meta property="article:modified_time" content="2025-10-23T18:59:58+01:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Looking Back on the Spanish War | The Orwell Foundation" />
+<meta name="twitter:description" content="As an independent charity, we rely on the generosity of donors, Friends and Patrons to maintain these free resources. I First of all the physical memories, the sound, the smells and the surfaces of things. It is curious that more vividly than anything that came afterwards in the Spanish war I remember the week of so-called training...  &lt;a class=&quot;excerpt-read-more&quot; href=&quot;https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/&quot; title=&quot;ReadLooking Back on the Spanish War&quot;&gt;Read more &raquo;&lt;/a&gt;" />
+<meta name="twitter:site" content="@orwell_fdn" />
+<meta name="twitter:creator" content="@orwell_fdn" />
+<meta name="twitter:label1" content="Time to read" />
+<meta name="twitter:data1" content="39 minutes" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.orwellfoundation.com/#person","name":"The Orwell Foundation","sameAs":["https://www.facebook.com/TheOrwellPrize/","https://twitter.com/orwell_fdn"]},{"@type":"WebSite","@id":"https://www.orwellfoundation.com/#website","url":"https://www.orwellfoundation.com","name":"The Orwell Foundation","publisher":{"@id":"https://www.orwellfoundation.com/#person"},"inLanguage":"en-GB"},{"@type":"WebPage","@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/#webpage","url":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/","name":"Looking Back on the Spanish War | The Orwell Foundation","datePublished":"2016-08-24T16:25:15+01:00","dateModified":"2025-10-23T18:59:58+01:00","isPartOf":{"@id":"https://www.orwellfoundation.com/#website"},"inLanguage":"en-GB"},{"@type":"Person","@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/#author","name":"Eric Blair","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f5d4e922892251293aa4dcbd80b7f066478996287193ed088cf7243cbe3e1fd4?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/f5d4e922892251293aa4dcbd80b7f066478996287193ed088cf7243cbe3e1fd4?s=96&amp;r=g","caption":"Eric Blair","inLanguage":"en-GB"}},{"@type":"Article","headline":"Looking Back on the Spanish War | The Orwell Foundation","datePublished":"2016-08-24T16:25:15+01:00","dateModified":"2025-10-23T18:59:58+01:00","author":{"@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/#author","name":"Eric Blair"},"publisher":{"@id":"https://www.orwellfoundation.com/#person"},"description":"As an independent charity, we rely on the generosity of\u00a0donors, Friends and Patrons\u00a0to maintain these free resources.","name":"Looking Back on the Spanish War | The Orwell Foundation","@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/#richSnippet","isPartOf":{"@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/#webpage"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Orwell Foundation &raquo; Feed" href="https://www.orwellfoundation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Orwell Foundation &raquo; Comments Feed" href="https://www.orwellfoundation.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.orwellfoundation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.orwellfoundation.com%2Fthe-orwell-foundation%2Forwell%2Fessays-and-other-works%2Flooking-back-on-the-spanish-war%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.orwellfoundation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.orwellfoundation.com%2Fthe-orwell-foundation%2Forwell%2Fessays-and-other-works%2Flooking-back-on-the-spanish-war%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='formidable-css' href='https://www.orwellfoundation.com/wp-content/plugins/formidable/css/formidableforms.css?ver=20261015090405' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='page-list-style-css' href='https://www.orwellfoundation.com/wp-content/plugins/page-list/css/page-list.css?ver=6.3' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://www.orwellfoundation.com/wp-content/plugins/wp-pagenavi/css/wp-pagenavi.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://www.orwellfoundation.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1792600384' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css' href='https://www.orwellfoundation.com/wp-content/plugins/download-monitor/assets/css/frontend-tailwind.min.css?ver=5.3.7' media='all' />
+<link rel='stylesheet' id='motion-ui-css-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/motion-ui/dist/motion-ui.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='foundation-css-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/foundation-sites/dist/foundation.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='site-css-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/css/style.css?ver=1794581768' media='all' />
+<link rel='stylesheet' id='fonts-genericons-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/webfonts/genericons.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='fonts-socialicons-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/css/social-logos.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='cmplz-banner-1-optin-css' href='https://www.orwellfoundation.com/wp-content/uploads/complianz/css/banner-1-optin.css?ver=1792600389' media='all' />
+<script id="jquery-core-js" src="https://www.orwellfoundation.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.orwellfoundation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://www.orwellfoundation.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.orwellfoundation.com/wp-json/wp/v2/pages/2913" /><link rel='shortlink' href='https://www.orwellfoundation.com/?p=2913' />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z99VFZH5G5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z99VFZH5G5');
+</script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" /><meta name="generator" content="performance-lab 4.2.0; plugins: ">
+			<style>.cmplz-hidden {
+					display: none !important;
+				}
+
+				/* Sizes the close icon before the banner stylesheet arrives. The
+					same rule is in the generated sheet, and the template carries
+					width/height attributes — but templates/cookiebanner.php is
+					theme-overridable, so a copied template only gets it here. */
+				.cmplz-cookiebanner .cmplz-close svg {
+					width: 20px;
+					height: 20px;
+				}</style>
+				<link rel="icon" href="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-270x270.png" />
+		<script src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/js/responsive-switch.js"></script>
+		<!-- Drop Google Analytics here -->
+		<!-- end analytics -->
+
+	</head>
+	
+	
+	<body data-cmplz=1 class="wp-singular page-template-default page page-id-2913 page-child parent-pageid-147 wp-theme-orwellfoundation the-orwell-foundation">
+<div class="off-canvas-wrapper">
+			
+			<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+				
+				<div class="off-canvas position-left" id="off-canvas" data-off-canvas data-position="left">
+	<ul id="menu-main-menu" class="vertical menu" data-accordion-menu><li id="menu-item-14464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-page-ancestor menu-item-has-children menu-item-14464"><a href="https://www.orwellfoundation.com/">The Orwell Foundation</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-15192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15192"><a>About</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-16009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16009"><a href="https://www.orwellfoundation.com/the-orwell-foundation/about/about-george-orwell/">About George Orwell</a></li>
+		<li id="menu-item-15190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15190"><a href="https://www.orwellfoundation.com/the-orwell-foundation/about/about-the-orwell-foundation-2/">About us</a></li>
+		<li id="menu-item-16433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16433"><a href="https://www.orwellfoundation.com/the-orwell-foundation/about/sponsors/">Partners and Sponsors</a></li>
+		<li id="menu-item-16603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16603"><a href="https://www.orwellfoundation.com/the-orwell-foundation/contact/accessibility/">Accessibility</a></li>
+		<li id="menu-item-24177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24177"><a href="https://www.orwellfoundation.com/the-orwell-foundation/vacancies/">Vacancies</a></li>
+		<li id="menu-item-24186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24186"><a href="https://www.orwellfoundation.com/the-orwell-foundation/policies/">Policies and complaints</a></li>
+		<li id="menu-item-26327" class="menu-item menu-item-type-post_type_archive menu-item-object-news menu-item-26327"><a href="https://www.orwellfoundation.com/the-orwell-foundation/news-events/news-events/news/">News</a></li>
+	</ul>
+</li>
+	<li id="menu-item-17170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17170"><a>What&#8217;s on</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15208"><a href="https://www.orwellfoundation.com/the-orwell-foundation/news-events/upcoming-events/">Upcoming events</a></li>
+		<li id="menu-item-21592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21592"><a href="https://www.orwellfestival.co.uk/">The Orwell Festival</a></li>
+		<li id="menu-item-17173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17173"><a href="https://www.orwellfoundation.com/the-orwell-foundation/programmes/the-orwell-lecture-2/">The Orwell Lecture</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15198"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/resources-guide/">Resources</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15212"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/">Books by Orwell</a></li>
+		<li id="menu-item-15211" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-15211"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/">Essays and other works</a></li>
+		<li id="menu-item-17175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17175"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/encountering-orwell/">Encountering Orwell</a></li>
+		<li id="menu-item-17174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17174"><a href="https://www.orwellfoundation.com/the-orwell-foundation/programmes/orwell-live/">Orwell Live</a></li>
+		<li id="menu-item-15209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15209"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/articles/">Library</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23421"><a href="https://www.orwellfoundation.com/the-orwell-foundation/support-us/">Donate</a></li>
+	<li id="menu-item-14471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14471"><a href="https://www.orwellfoundation.com/the-orwell-foundation/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-9930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9930"><a href="https://www.orwellfoundation.com/the-orwell-prizes/">The Orwell Prizes</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-15215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15215"><a>About</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15237"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/about-the-prizes/">About the prizes</a></li>
+		<li id="menu-item-19036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19036"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/criteria/">Criteria</a></li>
+		<li id="menu-item-25862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25862"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/about-the-prizes/socialevils/">Exposing Britain’s Social Evils</a></li>
+		<li id="menu-item-22158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22158"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/about-the-prizes/reporting-homelessness/">Reporting Homelessness</a></li>
+	</ul>
+</li>
+	<li id="menu-item-26710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26710"><a href="https://www.orwellfoundation.com/the-orwell-prizes/guidance-for-entrants-faqs/">Guidance for Entrants &#038; FAQs</a></li>
+	<li id="menu-item-20792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20792"><a>2026 Prizes</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-26273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26273"><a href="https://www.orwellfoundation.com/the-orwell-prizes/finalists/">Finalists</a></li>
+		<li id="menu-item-17711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17711"><a href="https://www.orwellfoundation.com/the-orwell-prizes/judging/">Judges</a></li>
+		<li id="menu-item-20853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20853"><a href="https://www.orwellfoundation.com/the-orwell-prizes/rules/">Rules</a></li>
+		<li id="menu-item-25866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25866"><a href="/the-orwell-prizes/how-to-enter/">Enter the prizes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-19055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19055"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/key-milestones/">Key dates</a></li>
+	<li id="menu-item-15236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15236"><a href="https://www.orwellfoundation.com/the-orwell-prizes/previous-winners/">Winners</a></li>
+</ul>
+</li>
+<li id="menu-item-9931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9931"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/">The Orwell Youth Prize</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-15243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15243"><a>About</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15263"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/introduction/">About the Prize</a></li>
+		<li id="menu-item-20602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20602"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/judging/">Judging</a></li>
+		<li id="menu-item-20616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20616"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/prize/feedback/">Feedback</a></li>
+		<li id="menu-item-23569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23569"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/youth-prize-workshops/volunteering-with-the-orwell-youth-prize/">Volunteering</a></li>
+	</ul>
+</li>
+	<li id="menu-item-24225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24225"><a>Enter the Prize</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-18059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18059"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/enter-the-orwell-youth-prize/">Entry Form</a></li>
+		<li id="menu-item-15259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15259"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/terms-and-conditions/">Terms and Conditions</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23575"><a>For entrants</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-23576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23576"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/">Start your journey</a></li>
+		<li id="menu-item-20609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20609"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/inspiration/">Inspiration</a></li>
+		<li id="menu-item-20611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20611"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/research/">Research</a></li>
+		<li id="menu-item-20613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20613"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/find-your-form/">Find Your Form</a></li>
+		<li id="menu-item-20709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20709"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/start-writing/">Start Writing</a></li>
+		<li id="menu-item-20711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20711"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/responding-to-feedback/">Responding to Feedback</a></li>
+	</ul>
+</li>
+	<li id="menu-item-20571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20571"><a>For teachers</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-20618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20618"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/how-we-work/">Our offer for teachers</a></li>
+		<li id="menu-item-20875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20875"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/lesson-plans/">Lesson Plans</a></li>
+		<li id="menu-item-19254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19254"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/workshops-and-events/">Events and Workshops</a></li>
+		<li id="menu-item-15269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15269"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/orwell-in-the-classroom/">Resources</a></li>
+		<li id="menu-item-15270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15270"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/gcse-english-language-practice-papers/">GCSE Practice Papers</a></li>
+	</ul>
+</li>
+	<li id="menu-item-20528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20528"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/prize/winners-2026/">Winners</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15242"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/2018-youth-prize/previous-winners-youth/">Previous winners</a></li>
+		<li id="menu-item-21567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21567"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/youth-prize-workshops/the-orwell-youth-fellows/">The Orwell Youth Fellows</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-14472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14472"><a href="https://www.orwellfoundation.com/the-orwell-foundation/contact/">Contact</a></li>
+</ul></div>				
+				<div class="off-canvas-content" data-off-canvas-content>
+					
+					<header class="header hide-for-small-only header-other-sections" role="banner">
+						
+						<div class="row">
+
+
+						<div class="large-8 medium-8 columns main-top-menu">
+							<div class="menu"><ul>
+<li class="page_item page-item-14255 page_item_has_children current_page_ancestor"><a href="https://www.orwellfoundation.com/">The Orwell Foundation</a></li>
+<li class="page_item page-item-42 page_item_has_children"><a href="https://www.orwellfoundation.com/the-orwell-prizes/">The Orwell Prizes</a></li>
+<li class="page_item page-item-6904 page_item_has_children"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/">The Orwell Youth Prize</a></li>
+</ul></div>
+						</div>
+
+  						<div class="large-4 medium-4 columns"><!-- <form role="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit button" value="Search" />
+</form>
+-->
+
+
+
+
+
+<form role="search"  class="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+
+
+	<!-- We'll have a button that'll make the search input appear, a submit button and the input -->
+	
+	<!-- Alos, a label for it so that we can style it however we want it-->
+	<input id="submit" value="" type="submit">
+	<label for="submit" class="submit"></label>
+	
+	<!-- trigger button and input -->
+	<a href="javascript: void(0)" class="icon"></a>
+
+	<input type="search" name="s" id="search" placeholder="Search...">
+</form></div>
+
+				
+
+
+						</div>
+		 	
+					</header> <!-- end .header -->
+
+					<!-- <div data-sticky-container>
+						<div class="sticky" data-sticky>	-->
+							 <!-- This navs will be applied to the topbar, above all content 
+								  To see additional nav styles, visit the /parts directory -->
+							 <!-- By default, this menu will use off-canvas for small
+	 and a topbar for medium-up -->
+<div class="full-width orwellred">
+
+<div class="row" id="top-red-header">
+  <div class="large-10 columns">
+	
+					<h2 class="logo-text">The Orwell Foundation</h2>
+		
+
+
+
+	<div class="top-bar-right float-right show-for-small-only">
+		<ul class="menu">
+			<li><button class="menu-icon" type="button" data-toggle="off-canvas"></button></li>
+			<!-- <li><a data-toggle="off-canvas">Menu</a></li> -->
+		</ul>
+	</div>
+
+
+	<div id="header-quote" class="hide-for-small-only">
+	
+	    			&lsquo;What I have most wanted to do… is to make political writing into an art.&rsquo;
+		
+
+
+	
+	
+	
+	
+	
+
+
+	
+	</div>
+	</div>
+	  <div class="large-2 columns">
+
+
+	
+
+
+
+	    <div class="clearfix hide-for-small-only">
+			
+	
+
+	
+
+
+						<a href="/the-orwell-foundation/support-us/" class="header-enter-btn header-donate-btn ">Donate today</a>
+		
+
+
+
+		
+	    </div>
+	  </div>
+</div>
+
+	<div class="topbar">
+
+	<div class="orwellred">
+
+	<div id="main-nav-container" class="show-for-medium">
+		
+		<div class="row">
+
+		<div class="top-header-sticky-logo">
+			<!-- Build the title based on the top level parent, eg Orwell or Orwell Youth -->
+		
+								<div class="logo-text">The Orwell Foundation </div>
+				
+		</div>
+
+		<div class="navigation-drop-downs">
+		
+		  			
+  			
+       	</div>
+
+       	<div class="top-share-wrapper hide-for-small-only">
+
+
+       		
+
+
+
+
+	     
+		</div>
+
+		<div class="top-header-sticky-search">
+			<!-- <form role="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit button" value="Search" />
+</form>
+-->
+
+
+
+
+
+<form role="search"  class="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+
+
+	<!-- We'll have a button that'll make the search input appear, a submit button and the input -->
+	
+	<!-- Alos, a label for it so that we can style it however we want it-->
+	<input id="submit" value="" type="submit">
+	<label for="submit" class="submit"></label>
+	
+	<!-- trigger button and input -->
+	<a href="javascript: void(0)" class="icon"></a>
+
+	<input type="search" name="s" id="search" placeholder="Search...">
+</form>		</div>
+
+		</div>
+
+	</div>	
+
+	</div>	
+
+	</div>	 <!-- .topbar -->
+
+</div><!-- .full-width -->						<!-- </div>
+					</div>	-->
+	<div id="content">
+	
+		<div id="inner-content" class="row">
+
+			<div class="breadcrumbs large-8 medium-8 columns">
+			    <a title="Go to The Orwell Foundation." href="https://www.orwellfoundation.com">Home</a>&nbsp;&nbsp; / &nbsp;&nbsp;<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Orwell." href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/" class="post post-page"><span property="name">Orwell</span></a><meta property="position" content="2"></span>&nbsp;&nbsp; / &nbsp;&nbsp;<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Essays and other works." href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/" class="post post-page"><span property="name">Essays and other works</span></a><meta property="position" content="3"></span>&nbsp;&nbsp; / &nbsp;&nbsp;<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Looking Back on the Spanish War." href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/" class="post post-page current-item"><span property="name">Looking Back on the Spanish War</span></a><meta property="position" content="4"></span>
+			</div>
+	
+		    <main id="main" class="large-8 medium-8 columns" role="main">
+				
+				
+			    	<article id="post-2913" class="post-2913 page type-page status-publish hentry wp-sticky" role="article" itemscope itemtype="https://schema.org/WebPage">
+						
+	<header class="article-header">
+		<h1 class="page-title">Looking Back on the Spanish War</h1>
+	</header> <!-- end article header -->
+					
+    <section class="entry-content" itemprop="articleBody">
+	    <p><em>As an independent charity, we rely on the generosity of <a href="https://www.orwellfoundation.com/the-orwell-foundation/support-us/">donors, Friends and Patrons</a> to maintain these free resources.</em></p>
+<h2><span style="font-weight: normal;">I</span></h2>
+<p>First of all the physical memories, the sound, the smells and the surfaces of things.</p>
+<p>It is curious that more vividly than anything that came afterwards in the Spanish war I remember the week of so-called training that we received before being sent to the front – the huge cavalry barracks in Barcelona with its draughty stables and cobbled yards, the icy cold of the pump where one washed, the filthy meals made tolerable by pannikins of wine, the trousered militia-women chopping firewood, and the roll-call in the early mornings where my prosaic English name made a sort of comic interlude among the resounding Spanish ones, Manuel Gonzalez, Pedro Aguilar, Ramon Fenellosa, Roque Ballaster, Jaime Domenech, Sebastian Viltron, Ramon Nuvo Bosch. I name those particular men because I remember the faces of all of them. Except for two who were mere riff-raff and have doubtless become good Falangists by this time, it is probable that all of them are dead. Two of them I know to be dead. The eldest would have been about twenty-five, the youngest sixteen.</p>
+<p>One of the essential experiences of war is never being able to escape from disgusting smells of human origin. Latrines are an overworked subject in war literature, and I would not mention them if it were not that the latrine in our barracks did its necessary bit towards puncturing my own illusions about the Spanish Civil War. The Latin type of latrine, at which you have to squat, is bad enough at its best, but these were made of some kind of polished stone so slippery that it was all you could do to keep on your feet. In addition they were always blocked. Now I have plenty of other disgusting things in my memory, but I believe it was these latrines that first brought home to me the thought, so often to recur; ‘Here we are, soldiers of a revolutionary army, defending democracy against Fascism, fighting a war which is <em>about</em> something, and the detail of our lives is just as sordid and degrading as it could be in prison, let alone in a bourgeois army.’ Many other things reinforced this impression later; for instance, the boredom and animal hunger of trench life, the squalid intrigues over scraps of food, the mean, nagging quarrels which people exhausted by lack of sleep indulge in.</p>
+<p>The essential horror of army life (whoever has been a soldier will know what I mean by the essential horror of army life) is barely affected by the nature of the war you happen to be fighting in. Discipline, for instance, is ultimately the same in all armies. Orders have to be obeyed and enforced by punishment if necessary, the relationship of officer and man has to be the relationship of superior and inferior. The picture of war set forth in books like <em>All Quiet on the Western Front</em> is substantially true. Bullets hurt, corpses stink, men under fire are often so frightened that they wet their trousers. It is true that the social background from which an army springs will colour its training, tactics and general efficiency, and also that the consciousness of being in the right can bolster up morale, though this affects the civilian population more than the troops. (People forget that a soldier anywhere near the front line is usually too hungry, or frightened, or cold, or, above all, too tired to bother about the political origins of the war.) But the laws of nature are not suspended for a ‘red’ army any more than for a ‘white’ one. A louse is a louse and a bomb is a bomb, even though the cause you are fighting for happens to be just.</p>
+<p>Why is it worth while to point out anything so obvious? Because the bulk of the British and American intelligentsia were manifestly unaware of it then, and are now. Our memories are short nowadays, but look back a bit, dig out the files of <em>New Masses</em> or the <em>Daily Worker</em>, and just have a look at the romantic warmongering muck that our left-wingers were spilling at that time. All the stale old phrases! And the unimaginative callousness of it! The sang-froid with which London faced the bombing of Madrid! Here I am not bothering about the counter-propagandists of the Right, the <a href="http://en.wikipedia.org/wiki/Arnold_Lunn" target="_blank" rel="noopener">Lunns</a>, <a href="http://en.wikipedia.org/wiki/James_Louis_Garvin#Pre-war_editorship_of_The_Observer" target="_blank" rel="noopener">Garvins</a> <em>et hoc genus</em>; they go without saying. But here were the very people who for twenty years had hooted and jeered at the ‘glory’ of war, at atrocity stories, at patriotism, even at physical courage, coming out with stuff that with the alteration of a few names would have fitted into the <em>Daily Mail</em> of 1918. If there was one thing that the British intelligentsia were committed to, it was the debunking version of war, the theory that war is all corpses and latrines and never leads to any good result. Well, the same people who in 1933 sniggered pityingly if you said that in certain circumstances you would fight for your country, in 1937 were denouncing you as a Trotsky-Fascist if you suggested that the stories in <em>New Masses</em> about freshly wounded men clamouring to get back into the fighting might be exaggerated. And the Left intelligentsia made their swing-over from ‘War is hell’ to ‘War is glorious’ not only with no sense of incongruity but almost without any intervening stage. Later the bulk of them were to make other transitions equally violent. There must be a quite large number of people, a sort of central core of the intelligentsia, who approved the ‘King and Country’ declaration in 1935, shouted for a ‘firm line’ against Germany in 1937, supported the <a href="http://en.wikipedia.org/wiki/People%27s_Convention" target="_blank" rel="noopener">People&#8217;s Convention</a> in 1940, and are demanding a Second Front now.</p>
+<p>As far as the mass of the people go, the extraordinary swings of opinion which occur nowadays, the emotions which can be turned on and off like a tap, are the result of newspaper and radio hypnosis. In the intelligentsia I should say they result rather from money and mere physical safety. At a given moment they may be ‘pro-war’ or ‘anti-war’, but in either case they have no realistic picture of war in their minds. When they enthused over the Spanish war they knew, of course, that people were being killed and that to be killed is unpleasant, but they did feel that for a soldier in the Spanish Republican army the experience of war was somehow not degrading. Somehow the latrines stank less, discipline was less irksome. You have only to glance at the <em>New Statesman</em> to see that they believed that; exactly similar blah is being written about the Red Army at this moment. We have become too civilized to grasp the obvious. For the truth is very simple. To survive you often have to fight, and to fight you have to dirty yourself. War is evil, and it is often the lesser evil. Those who take the sword perish by the sword, and those who don&#8217;t take the sword perish by smelly diseases. The fact that such a platitude is worth writing down shows what the years of <em>rentier</em> capitalism have done to us.</p>
+<p>&nbsp;</p>
+<h2>II</h2>
+<p>In connexion with what I have just said, a footnote, on atrocities.</p>
+<p>I have little direct evidence about the atrocities in the Spanish Civil War. I know that some were committed by the Republicans, and far more (they are still continuing) by the Fascists. But what impressed me then, and has impressed me ever since, is that atrocities are believed in or disbelieved in solely on grounds of political predilection. Everyone believes in the atrocities of the enemy and disbelieves in those of his own side, without ever bothering to examine the evidence. Recently I drew up a table of atrocities during the period between 1918 and the present; there was never a year when atrocities were not occurring somewhere or other, and there was hardly a single case when the Left and the Right believed in the same stories simultaneously. And stranger yet, at any moment the situation can suddenly reverse itself and yesterday&#8217;s proved-to-the-hilt atrocity story can become a ridiculous lie, merely because the political landscape has changed.</p>
+<p>In the present war we are in the curious situation that our ‘atrocity campaign’ was done largely before the war started, and done mostly by the Left, the people who normally pride themselves on their incredulity. In the same period the Right, the atrocity-mongers of 1914-18, were gazing at Nazi Germany and flatly refusing to see any evil in it. Then as soon as war broke out it was the pro-Nazis of yesterday who were repeating horror stories, while the anti-Nazis suddenly found themselves doubting whether the Gestapo really existed. Nor was this solely the result of the Russo-German Pact. It was partly because before the war the Left had wrongly believed that Britain and Germany would never fight and were therefore able to be anti-German and anti-British simultaneously; partly also because official war propaganda, with its disgusting hypocrisy and self-righteousness, always tends to make thinking people sympathize with the enemy. Part of the price we paid for the systematic lying of 1914-18 was the exaggerated pro-German reaction which followed. During the years 1918-33 you were hooted at in left-wing circles if you suggested that Germany bore even a fraction of responsibility for the war. In all the denunciations of Versailles I listened to during those years I don&#8217;t think I ever once heard the question, ‘What would have happened if Germany had won?’ even mentioned, let alone discussed. So also with atrocities. The truth, it is felt, becomes untruth when your enemy utters it. Recently I noticed that the very people who swallowed any and every horror story about the <a href="http://en.wikipedia.org/wiki/Nanking_Massacre" target="_blank" rel="noopener">Japanese in Nanking</a> in 1937 refused to believe exactly the same stories about <a href="http://en.wikipedia.org/wiki/Japanese_occupation_of_Hong_Kong" target="_blank" rel="noopener">Hong Kong</a> in 1942. There was even a tendency to feel that the Nanking atrocities had become, as it were retrospectively untrue because the British Government now drew attention to them.</p>
+<p>But unfortunately the truth about atrocities is far worse than that they are lied about and made into propaganda. The truth is that they happen. The fact often adduced as a reason for scepticism – that the same horror stories come up in war after war – merely makes it rather more likely that these stories are true. Evidently they are widespread fantasies, and war provides an opportunity of putting them into practice. Also, although it has ceased to be fashionable to say so, there is little question that what one may roughly call the ‘whites’ commit far more and worse atrocities than the ‘reds’. There is not the slightest doubt, for instance, about the behaviour of the Japanese in China. Nor is there much doubt about the long tale of Fascist outrages during the last ten years in Europe. The volume of testimony is enormous, and a respectable proportion of it comes from the German press and radio. These things really happened, that is the thing to keep one&#8217;s eye on. They happened even though <a href="http://en.wikipedia.org/wiki/Lord_Halifax" target="_blank" rel="noopener">Lord Halifax</a> said they happened. The raping and butchering in Chinese cities, the tortures in the cellars of the Gestapo, the elderly Jewish professors flung into cesspools, the machine-gunning of refugees along the Spanish roads – they all happened, and they did not happen any the less because the <em>Daily Telegraph</em> has suddenly found out about them when it is five years too late.</p>
+<p>&nbsp;</p>
+<h2>III</h2>
+<p>Two memories, the first not proving anything in particular, the second, I think, giving one a certain insight into the atmosphere of a revolutionary period:</p>
+<p>Early one morning another man and I had gone out to snipe at the Fascists in the trenches outside Huesca. Their line and ours here lay three hundred yards apart, at which range our aged rifles would not shoot accurately, but by sneaking out to a spot about a hundred yards from the Fascist trench you might, if you were lucky, get a shot at someone through a gap in the parapet. Unfortunately the ground between was a flat beet-field with no cover except a few ditches, and it was necessary to go out while it was still dark and return soon after dawn, before the light became too good. This time no Fascists appeared, and we stayed too long and were caught by the dawn. We were in a ditch, but behind us were two hundred yards of flat ground with hardly enough cover for a rabbit. We were still trying to nerve ourselves to make a dash for it when there was an uproar and a blowing of whistles in the Fascist trench. Some of our aeroplanes were coming over. At this moment a man, presumably carrying a message to an officer, jumped out of the trench and ran along the top of the parapet in full view. He was half-dressed and was holding up his trousers with both hands as he ran. I refrained from shooting at him. It is true that I am a poor shot and unlikely to hit a running man at a hundred yards, and also that I was thinking chiefly about getting back to our trench while the Fascists had their attention fixed on the aeroplanes. Still, I did not shoot partly because of that detail about the trousers. I had come here to shoot at ‘Fascists’; but a man who is holding up his trousers isn&#8217;t a ‘Fascist’, he is visibly a fellow creature, similar to yourself, and you don&#8217;t feel like shooting at him.</p>
+<p>What does this incident demonstrate? Nothing very much, because it is the kind of thing that happens all the time in all wars. The other is different. I don&#8217;t suppose that in telling it I can make it moving to you who read it, but I ask you to believe that it is moving to me, as an incident characteristic of the moral atmosphere of a particular moment in time.</p>
+<p>One of the recruits who joined us while I was at the barracks was a wild-looking boy from the back streets of Barcelona. He was ragged and barefooted. He was also extremely dark (Arab blood, I dare say), and made gestures you do not usually see a European make; one in particular – the arm outstretched, the palm vertical – was a gesture characteristic of Indians. One day a bundle of cigars, which you could still buy dirt cheap at that time, was stolen out of my bunk. Rather foolishly I reported this to the officer, and one of the scallywags I have already mentioned promptly came forward and said quite untruly that twenty-five pesetas had been stolen from his bunk. For some reason the officer instantly decided that the brown-faced boy must be the thief. They were very hard on stealing in the militia, and in theory people could be shot for it. The wretched boy allowed himself to be led off to the guardroom to be searched. What most struck me was that he barely attempted to protest his innocence. In the fatalism of his attitude you could see the desperate poverty in which he had been bred. The officer ordered him to take his clothes off. With a humility which was horrible to me he stripped himself naked, and his clothes were searched. Of course neither the cigars nor the money were there; in fact he had not stolen them. What was most painful of all was that he seemed no less ashamed after his innocence had been established. That night I took him to the pictures and gave him brandy and chocolate. But that too was horrible – I mean the attempt to wipe out an injury with money. For a few minutes I had half believed him to be a thief, and that could not be wiped out.</p>
+<p>Well, a few weeks later at the front I had trouble with one of the men in my section. By this time I was a ‘cabo’, or corporal, in command of twelve men. It was static warfare, horribly cold, and the chief job was getting sentries to stay awake at their posts. One day a man suddenly refused to go to a certain post, which he said quite truly was exposed to enemy fire. He was a feeble creature, and I seized hold of him and began to drag him towards his post. This roused the feelings of the others against me, for Spaniards, I think, resent being touched more than we do. Instantly I was surrounded by a ring of shouting men: ‘Fascist! Fascist! Let that man go! This isn&#8217;t a bourgeois army. Fascist!’ etc. etc. As best I could in my bad Spanish I shouted back that orders had got to be obeyed, and the row developed into one of those enormous arguments by means of which discipline is gradually hammered out in revolutionary armies. Some said I was right, others said I was wrong. But the point is that the one who took my side the most warmly of all was the brown-faced boy. As soon as he saw what was happening he sprang into the ring and began passionately defending me. With his strange, wild, Indian gesture he kept exclaiming, ‘He&#8217;s the best corporal we&#8217;ve got!’ (<em>¡</em><em>No hay cabo como el!</em>) Later on he applied for leave to exchange into my section.</p>
+<p>Why is this incident touching to me? Because in any normal circumstances it would have been impossible for good feelings ever to be re-established between this boy and myself. The implied accusation of theft would not have been made any better, probably somewhat worse, by my efforts to make amends. One of the effects of safe and civilized life is an immense oversensitiveness which makes all the primary emotions seem somewhat disgusting. Generosity is as painful as meanness, gratitude as hateful as ingratitude. But in Spain in 1936 we were not living in a normal time. It was a time when generous feelings and gestures were easier than they ordinarily are. I could relate a dozen similar incidents, not really communicable but bound up in my own mind with the special atmosphere of the time, the shabby clothes and the gay-coloured revolutionary posters, the universal use of the word ‘comrade’, the anti-Fascist ballads printed on flimsy paper and sold for a penny, the phrases like ‘international proletarian solidarity’, pathetically repeated by ignorant men who believed them to mean something. Could you feel friendly towards somebody, and stick up for him in a quarrel, after you had been ignominiously searched in his presence for property you were supposed to have stolen from him? No, you couldn&#8217;t; but you might if you had both been through some emotionally widening experience. That is one of the by-products of revolution, though in this case it was only the beginnings of a revolution, and obviously foredoomed to failure.</p>
+<p>&nbsp;</p>
+<h2>IV</h2>
+<p>The struggle for power between the Spanish Republican parties is an unhappy, far-off thing which I have no wish to revive at this date. I only mention it in order to say: believe nothing, or next to nothing, of what you read about internal affairs on the Government side. It is all, from whatever source, party propaganda – that is to say, lies. The broad truth about the war is simple enough. The Spanish bourgeoisie saw their chance of crushing the labour movement, and took it, aided by the Nazis and by the forces of reaction all over the world. It is doubtful whether more than that will ever be established.</p>
+<p>I remember saying once to Arthur Koestler, ‘History stopped in 1936’, at which he nodded in immediate understanding. We were both thinking of totalitarianism in general, but more particularly of the Spanish Civil War. Early in life I had noticed that no event is ever correctly reported in a newspaper, but in Spain, for the first time, I saw newspaper reports which did not bear any relation to the facts, not even the relationship which is implied in an ordinary lie. I saw great battles reported where there had been no fighting, and complete silence where hundreds of men had been killed. I saw troops who had fought bravely denounced as cowards and traitors, and others who had never seen a shot fired hailed as the heroes of imaginary victories, and I saw newspapers in London retailing these lies and eager intellectuals building emotional superstructures over events that had never happened. I saw, in fact, history being written not in terms of what happened but of what ought to have happened according to various ‘party lines’. Yet in a way, horrible as all this was, it was unimportant. It concerned secondary issues – namely, the struggle for power between the Comintern and the Spanish left-wing parties, and the efforts of the Russian Government to prevent revolution in Spain. But the broad picture of the war which the Spanish Government presented to the world was not untruthful. The main issues were what it said they were. But as for the Fascists and their backers, how could they come even as near to the truth as that? How could they possibly mention their real aims? Their version of the war was pure fantasy, and in the circumstances it could not have been otherwise.</p>
+<p>The only propaganda line open to the Nazis and Fascists was to represent themselves as Christian patriots saving Spain from a Russian dictatorship. This involved pretending that life in Government Spain was just one long massacre (<em>vide</em> the <em>Catholic Herald</em> or the <em>Daily Mail</em> – but these were child&#8217;s play compared with the continental Fascist press), and it involved immensely exaggerating the scale of Russian intervention. Out of the huge pyramid of lies which the Catholic and reactionary press all over the world built up, let me take just one point – the presence in Spain of a Russian army. Devout Franco partisans all believed in this; estimates of its strength went as high as half a million. Now, there was no Russian army in Spain. There may have been a handful of airmen and other technicians, a few hundred at the most, but an army there was not. Some thousands of foreigners who fought in Spain, not to mention millions of Spaniards, were witnesses of this. Well, their testimony made no impression at all upon the Franco propagandists, not one of whom had set foot in Government Spain. Simultaneously these people refused utterly to admit the fact of German or Italian intervention, at the same time as the Germany and Italian press were openly boasting about the exploits of their ‘legionaries’. I have chosen to mention only one point, but in fact the whole of Fascist propaganda about the war was on this level.</p>
+<p>This kind of thing is frightening to me, because it often gives me the feeling that the very concept of objective truth is fading out of the world. After all, the chances are that those lies, or at any rate similar lies, will pass into history. How will the history of the Spanish war be written? If Franco remains in power his nominees will write the history books, and (to stick to my chosen point) that Russian army which never existed will become historical fact, and schoolchildren will learn about it generations hence. But suppose Fascism is finally defeated and some kind of democratic government restored in Spain in the fairly near future; even then, how is the history of the war to be written? What kind of records will Franco have left behind him? Suppose even that the records kept on the Government side are recoverable – even so, how is a true history of the war to be written? For, as I have pointed out already, the Government also dealt extensively in lies. From the anti-Fascist angle one could write a broadly truthful history of the war, but it would be a partisan history, unreliable on every minor point. Yet, after all, <em>some</em> kind of history will be written, and after those who actually remember the war are dead, it will be universally accepted. So for all practical purposes the lie will have become truth.</p>
+<p>I know it is the fashion to say that most of recorded history is lies anyway. I am willing to believe that history is for the most part inaccurate and biased, but what is peculiar to our own age is the abandonment of the idea that history <em>could</em> be truthfully written. In the past people deliberately lied, or they unconsciously coloured what they wrote, or they struggled after the truth, well knowing that they must make many mistakes; but in each case they believed that ‘the facts’ existed and were more or less discoverable. And in practice there was always a considerable body of fact which would have been agreed to by almost everyone. If you look up the history of the last war in, for instance, the <em>Encyclopaedia Britannica</em>, you will find that a respectable amount of the material is drawn from German sources. A British and a German historian would disagree deeply on many things, even on fundamentals, but there would still be that body of, as it were, neutral fact on which neither would seriously challenge the other. It is just this common basis of agreement, with its implication that human beings are all one species of animal, that totalitarianism destroys. Nazi theory indeed specifically denies that such a thing as ‘the truth’ exists. There is, for instance, no such thing as ‘science’. There is only ‘German science’, ‘Jewish science’ etc. The implied objective of this line of thought is a nightmare world in which the Leader, or some ruling clique, controls not only the future but <em>the past</em>. If the Leader says of such and such an event, ‘It never happened’ – well, it never happened. If he says that two and two are five – well, two and two are five. This prospect frightens me much more than bombs – and after our experiences of the last few years that is not a frivolous statement.</p>
+<p>But is it perhaps childish or morbid to terrify oneself with visions of a totalitarian future? Before writing off the totalitarian world as a nightmare that can&#8217;t come true, just remember that in 1925 the world of today would have seemed a nightmare that couldn&#8217;t come true. Against that shifting phantasmagoric world in which black may be white tomorrow and yesterday&#8217;s weather can be changed by decree, there are in reality only two safeguards. One is that however much you deny the truth, the truth goes on existing, as it were, behind your back, and you consequently can&#8217;t violate it in ways that impair military efficiency. The other is that so long as some parts of the earth remain unconquered, the liberal tradition can be kept alive. Let Fascism, or possibly even a combination of several Fascisms, conquer the whole world, and those two conditions no longer exist. We in England underrate the danger of this kind of thing, because our traditions and our past security have given us a sentimental belief that it all comes right in the end and the thing you most fear never really happens. Nourished for hundreds of years on a literature in which Right invariably triumphs in the last chapter, we believe half-instinctively that evil always defeats itself in the long run. Pacifism, for instance, is founded largely on this belief. Don&#8217;t resist evil, and it will somehow destroy itself. But why should it? What evidence is there that it does? And what instance is there of a modern industrialized state collapsing unless conquered from the outside by military force?</p>
+<p>Consider for instance the re-institution of slavery. Who could have imagined twenty years ago that slavery would return to Europe? Well, slavery has been restored under our noses. The forced-labour camps all over Europe and North Africa where Poles, Russians, Jews and political prisoners of every race toil at road-making or swamp-draining for their bare rations, are simple chattle slavery. The most one can say is that the buying and selling of slaves by individuals is not yet permitted. In other ways – the breaking-up of families, for instance – the conditions are probably worse than they were on the American cotton plantations. There is no reason for thinking that this state of affairs will change while any totalitarian domination endures. We don&#8217;t grasp its full implications, because in our mystical way we feel that a régime founded on slavery <em>must</em> collapse. But it is worth comparing the duration of the slave empires of antiquity with that of any modern state. Civilizations founded on slavery have lasted for such periods as four thousand years.</p>
+<p>When I think of antiquity, the detail that frightens me is that those hundreds of millions of slaves on whose backs civilization rested generation after generation have left behind them no record whatever. We do not even know their names. In the whole of Greek and Roman history, how many slaves’ names are known to you? I can think of two, or possibly three. One is <a href="http://en.wikipedia.org/wiki/Spartacus" target="_blank" rel="noopener">Spartacus</a> and the other is <a href="http://en.wikipedia.org/wiki/Epictetus" target="_blank" rel="noopener">Epictetus</a>. Also, in the Roman room at the British Museum there is a glass jar with the maker&#8217;s name inscribed on the bottom, ‘<em>Felix fecit</em>’. I have a vivid mental picture of poor Felix (a Gaul with red hair and a metal collar round his neck), but in fact he may not have been a slave; so there are only two slaves whose names I definitely know, and probably few people can remember more. The rest have gone down into utter silence.</p>
+<h2>V</h2>
+<p>The backbone of the resistance against Franco was the Spanish working class, especially the urban trade union members. In the long run – it is important to remember that it is only in the long run – the working class remains the most reliable enemy of Fascism, simply because the working class stands to gain most by a decent reconstruction of society. Unlike other classes or categories, it can&#8217;t be permanently bribed.</p>
+<p>To say this is not to idealize the working class. In the long struggle that has followed the Russian Revolution it is the manual workers who have been defeated, and it is impossible not to feel that it was their own fault. Time after time, in country after country, the organized working-class movements have been crushed by open, illegal violence, and their comrades abroad, linked to them in theoretical solidarity, have simply looked on and done nothing; and underneath this, secret cause of many betrayals, has lain the fact that between white and coloured workers there is not even lip-service to solidarity. Who can believe in the class-conscious international proletariat after the events of the past ten years? To the British working class the massacre of their comrades in Vienna, Berlin, Madrid, or wherever it might be, seemed less interesting and less important than yesterday&#8217;s football match. Yet this does not alter the fact that the working class will go on struggling against Fascism after the others have caved in. One feature of the Nazi conquest of France was the astonishing defections among the intelligentsia, including some of the left-wing political intelligentsia. The intelligentsia are the people who squeal loudest against Fascism, and yet a respectable proportion of them collapse into defeatism when the pinch comes. They are far-sighted enough to see the odds against them, and moreoever they can be bribed – for it is evident that the Nazis think it worth while to bribe intellectuals. With the working class it is the other way about. Too ignorant to see through the trick that is being played on them, they easily swallow the promises of Fascism, yet sooner or later they always take up the struggle again. They must do so, because in their own bodies they always discover that the promises of Fascism cannot be fulfilled. To win over the working class permanently, the Fascists would have to raise the general standard of living, which they are unable and probably unwilling to do. The struggle of the working class is like the growth of a plant. The plant is blind and stupid, but it knows enough to keep pushing upwards towards the light, and it will do this in the face of endless discouragements. What are the workers struggling for? Simply for the decent life which they are more and more aware is now technically possible. Their consciousness of this aim ebbs and flows. In Spain, for a while, people were acting consciously, moving towards a goal which they wanted to reach and believed they could reach. It accounted for the curiously buoyant feeling that life in Government Spain had during the early months of the war. The common people knew in their bones that the Republic was their friend and Franco was their enemy. They knew that they were in the right, because they were fighting for something which the world owed them and was able to give them.</p>
+<p>One has to remember this to see the Spanish war in its true perspective. When one thinks of the cruelty, squalor, and futility of war – and in this particular case of the intrigues, the persecutions, the lies and the misunderstandings – there is always the temptation to say: ‘One side is as bad as the other. I am neutral’. In practice, however, one cannot be neutral, and there is hardly such a thing as a war in which it makes no difference who wins. Nearly always one stands more or less for progress, the other side more or less for reaction. The hatred which the Spanish Republic excited in millionaires, dukes, cardinals, play-boys, Blimps, and what-not would in itself be enough to show one how the land lay. In essence it was a class war. If it had been won, the cause of the common people everywhere would have been strengthened. It was lost, and the dividend-drawers all over the world rubbed their hands. That was the real issue; all else was froth on its surface.</p>
+<p>&nbsp;</p>
+<h2>VI</h2>
+<p>The outcome of the Spanish war was settled in London, Paris, Rome, Berlin – at any rate not in Spain. After the summer of 1937 those with eyes in their heads realized that the Government could not win the war unless there were some profound change in the international set-up, and in deciding to fight on <a href="http://en.wikipedia.org/wiki/Negrin" target="_blank" rel="noopener">Negrin</a> and the others may have been partly influenced by the expectation that the world war which actually broke out in 1939 was coming in 1938. The much-publicized disunity on the Government side was not a main cause of defeat. The Government militias were hurriedly raised, ill-armed and unimaginative in their military outlook, but they would have been the same if complete political agreement had existed from the start. At the outbreak of war the average Spanish factory-worker did not even know how to fire a rifle (there had never been universal conscription in Spain), and the traditional pacifism of the Left was a great handicap. The thousands of foreigners who served in Spain made good infantry, but there were very few experts of any kind among them. The Trotskyist thesis that the war could have been won if the revolution had not been sabotaged was probably false. To nationalize factories, demolish churches, and issue revolutionary manifestoes would not have made the armies more efficient. The Fascists won because they were the stronger; they had modern arms and the others hadn&#8217;t. No political strategy could offset that.</p>
+<p>The most baffling thing in the Spanish war was the behaviour of the great powers. The war was actually won for Franco by the Germans and Italians, whose motives were obvious enough. The motives of France and Britain are less easy to understand. In 1936 it was clear to everyone that if Britain would only help the Spanish Government, even to the extent of a few million pounds’ worth of arms, Franco would collapse and German strategy would be severely dislocated. By that time one did not need to be a clairvoyant to foresee that war between Britain and Germany was coming; one could even foretell within a year or two when it would come. Yet in the most mean, cowardly, hypocritical way the British ruling class did all they could to hand Spain over to Franco and the Nazis. Why? Because they were pro-Fascist, was the obvious answer. Undoubtedly they were, and yet when it came to the final showdown they chose to stand up to Germany. It is still very uncertain what plan they acted on in backing Franco, and they may have had no clear plan at all. Whether the British ruling class are wicked or merely stupid is one of the most difficult questions of our time, and at certain moments a very important question. As to the Russians, their motives in the Spanish war are completely inscrutable. Did they, as the pinks believed, intervene in Spain in order to defend democracy and thwart the Nazis? Then why did they intervene on such a niggardly scale and finally leave Spain in the lurch? Or did they, as the Catholics maintained, intervene in order to foster revolution in Spain? Then why did they do all in their power to crush the Spanish revolutionary movements, defend private property and hand power to the middle class as against the working class? Or did they, as the Trotskyists suggested, intervene simply in order to <em>prevent</em> a Spanish revolution? Then why not have backed Franco? Indeed, their actions are most easily explained if one assumes that they were acting on several contradictory motives. I believe that in the future we shall come to feel that Stalin&#8217;s foreign policy, instead of being so diabolically clever as it is claimed to be, has been merely opportunistic and stupid. But at any rate, the Spanish Civil War demonstrated that the Nazis knew what they were doing and their opponents did not. The war was fought at a low technical level and its major strategy was very simple. That side which had arms would win. The Nazis and the Italians gave arms to their Spanish Fascist friends, and the western democracies and the Russians didn&#8217;t give arms to those who should have been their friends. So the Spanish Republic perished, having ‘gained what no republic missed’.</p>
+<p>Whether it was right, as all left-wingers in other countries undoubtedly did, to encourage the Spaniards to go on fighting when they could not win is a question hard to answer. I myself think it was right, because I believe that it is better even from the point of view of survival to fight and be conquered than to surrender without fighting. The effects on the grand strategy of the struggle against Fascism cannot be assessed yet. The ragged, weaponless armies of the Republic held out for two and a half years, which was undoubtedly longer than their enemies expected. But whether that dislocated the Fascist timetable, or whether, on the other hand, it merely postponed the major war and gave the Nazis extra time to get their war machine into trim, is still uncertain.</p>
+<p>&nbsp;</p>
+<h2>VII</h2>
+<p>I never think of the Spanish war without two memories coming into my mind. One is of the hospital ward at Lerida and the rather sad voices of the wounded militiamen singing some song with a refrain that ended:</p>
+<p>&nbsp;</p>
+<blockquote><p>‘Una resolucion,<br />
+Luchar hast&#8217; al fin!’</p></blockquote>
+<p>Well, they fought to the end all right. For the last eighteen months of the war the Republican armies must have been fighting almost without cigarettes, and with precious little food. Even when I left Spain in the middle of 1937, meat and bread were scarce, tobacco a rarity, coffee and sugar almost unobtainable.</p>
+<p>The other memory is of the Italian militiaman who shook my hand in the guardroom, the day I joined the militia. I wrote about this man at the beginning of <a href="https://orwellfoundation.com/george-orwell/by-orwell/homage-to-catalonia/" target="_blank" rel="noopener">my book</a> on the Spanish war, and do not want to repeat what I said there. When I remember – oh, how vividly! – his shabby uniform and fierce, pathetic, innocent face, the complex side-issues of the war seem to fade away and I see clearly that there was at any rate no doubt as to who was in the right. In spite of power politics and journalistic lying, the central issue of the war was the attempt of people like this to win the decent life which they knew to be their birthright. It is difficult to think of this particular man&#8217;s probable end without several kinds of bitterness. Since I met him in the Lenin Barracks he was probably a Trotskyist or an Anarchist, and in the peculiar conditions of our time, when people of that sort are not killed by the Gestapo they are usually killed by the G.P.U. But that does not affect the long-term issues. This man&#8217;s face, which I saw only for a minute or two, remains with me as a sort of visual reminder of what the war was really about. He symbolizes for me the flower of the European working class, harried by the police of all countries, the people who fill the mass graves of the Spanish battlefields and are now, to the tune of several millions, rotting in forced-labour camps.</p>
+<p>When one thinks of all the people who support or have supported Fascism, one stands amazed at their diversity. What a crew! Think of a programme which at any rate for a while could bring Hitler, <a href="http://en.wikipedia.org/wiki/Petain" target="_blank" rel="noopener">Pétain</a>, <a href="http://en.wikipedia.org/wiki/Montagu_Norman" target="_blank" rel="noopener">Montagu Norman</a>, <a href="http://en.wikipedia.org/wiki/Ante_Pavelić" target="_blank" rel="noopener">Pavelitch</a>, <a href="http://en.wikipedia.org/wiki/William_Randolph_Hearst" target="_blank" rel="noopener">William Randolph Hearst</a>, <a href="http://en.wikipedia.org/wiki/Julius_Streicher" target="_blank" rel="noopener">Streicher</a>, <a href="http://en.wikipedia.org/wiki/Frank_N._D._Buchman" target="_blank" rel="noopener">Buchman</a>, <a href="http://en.wikipedia.org/wiki/Ezra_Pound" target="_blank" rel="noopener">Ezra Pound</a>, <a href="http://en.wikipedia.org/wiki/Juan_March" target="_blank" rel="noopener">Juan March</a>, <a href="http://en.wikipedia.org/wiki/Cocteau" target="_blank" rel="noopener">Cocteau</a>, <a href="http://en.wikipedia.org/wiki/Fritz_Thyssen" target="_blank" rel="noopener">Thyssen</a>, <a href="http://en.wikipedia.org/wiki/Father_Coughlin" target="_blank" rel="noopener">Father Coughlin</a>, <a href="http://en.wikipedia.org/wiki/Mohammad_Amin_al-Husayni" target="_blank" rel="noopener">the Mufti of Jerusalem</a>, <a href="http://en.wikipedia.org/wiki/Arnold_Lunn" target="_blank" rel="noopener">Arnold Lunn</a>, <a href="http://en.wikipedia.org/wiki/Antonescu" target="_blank" rel="noopener">Antonescu</a>, <a href="http://en.wikipedia.org/wiki/Oswald_Spengler" target="_blank" rel="noopener">Spengler</a>, <a href="http://en.wikipedia.org/wiki/Beverley_Nichols" target="_blank" rel="noopener">Beverley Nichols</a>, <a href="http://en.wikipedia.org/wiki/Lady_Houston" target="_blank" rel="noopener">Lady Houston</a>, and <a href="http://en.wikipedia.org/wiki/Marinetti" target="_blank" rel="noopener">Marinetti</a> all into the same boat! But the clue is really very simple. They are all people with something to lose, or people who long for a hierarchical society and dread the prospect of a world of free and equal human beings. Behind all the ballyhoo that is talked about ‘godless’ Russia and the ‘materialism’ of the working class lies the simple intention of those with money or privileges to cling to them. Ditto, though it contains a partial truth, with all the talk about the worthlessness of social reconstruction not accompanied by a ‘change of heart’. The pious ones, from the Pope to the yogis of California, are great on the ‘changes of heart’, much more reassuring from their point of view than a change in the economic system. Pétain attributes the fall of France to the common people&#8217;s ‘love of pleasure’. One sees this in its right perspective if one stops to wonder how much pleasure the ordinary French peasant&#8217;s or working-man&#8217;s life would contain compared with Pétain&#8217;s own. The damned impertinence of these politicians, priests, literary men, and what not who lecture the working-class Socialist for his ‘materialism’! All that the working man demands is what these others would consider the indispensable minimum without which human life cannot be lived at all. Enough to eat, freedom from the haunting terror of unemployment, the knowledge that your children will get a fair chance, a bath once a day, clean linen reasonably often, a roof that doesn&#8217;t leak, and short enough working hours to leave you with a little energy when the day is done. Not one of those who preach against ‘materialism’ would consider life livable without these things. And how easily that minimum could be attained if we chose to set our minds to it for only twenty years! To raise the standard of living of the whole world to that of Britain would not be a greater undertaking than the war we are now fighting. I don&#8217;t claim, and I don&#8217;t know who does, that that wouldn&#8217;t solve anything in itself. It is merely that privation and brute labour have to be abolished before the real problems of humanity can be tackled. The major problem of our time is the decay of the belief in personal immortality, and it cannot be dealt with while the average human being is either drudging like an ox or shivering in fear of the secret police. How right the working classes are in their ‘materialism’! How right they are to realize that the belly comes before the soul, not in the scale of values but in point of time! Understand that, and the long horror that we are enduring becomes at least intelligible. All the considerations that are likely to make one falter – the siren voices of a Pétain or of a Gandhi, the inescapable fact that in order to fight one has to degrade oneself, the equivocal moral position of Britain, with its democratic phrases and its coolie empire, the sinister development of Soviet Russia, the squalid farce of left-wing politics – all this fades away and one sees only the struggle of the gradually awakening common people against the lords of property and their hired liars and bumsuckers. The question is very simple. Shall people like that Italian soldier be allowed to live the decent, fully human life which is now technically achievable, or shan&#8217;t they? Shall the common man be pushed back into the mud, or shall he not? I myself believe, perhaps on insufficient grounds, that the common man will win his fight sooner or later, but I want it to be sooner and not later – some time within the next hundred years, say, and not some time within the next ten thousand years. That was the real issue of the Spanish war, and of the present war, and perhaps of other wars yet to come.</p>
+<p>I never saw the Italian militiaman again, nor did I ever learn his name. It can be taken as quite certain that he is dead. Nearly two years later, when the war was visibly lost, I wrote these verses in his memory:</p>
+<p>The Italian soldier shook my hand<br />
+Beside the guard-room table;<br />
+The strong hand and the subtle hand<br />
+Whose palms are only able</p>
+<p>To meet within the sound of guns,<br />
+But oh! what peace I knew then<br />
+In gazing on his battered face<br />
+Purer than any woman&#8217;s!</p>
+<p>For the flyblown words that make me spew<br />
+Still in his ears were holy,<br />
+And he was born knowing what I had learned<br />
+Out of books and slowly.</p>
+<p>The treacherous guns had told their tale<br />
+And we both had bought it,<br />
+But my gold brick was made of gold –<br />
+Oh! who ever would have thought it?</p>
+<p>Good luck go with you, Italian soldier!<br />
+But luck is not for the brave;<br />
+What would the world give back to you?<br />
+Always less than you gave.</p>
+<p>Between the shadow and the ghost,<br />
+Between the white and the red,<br />
+Between the bullet and the lie,<br />
+Where would you hide your head?</p>
+<p>For where is Manuel Gonzalez,<br />
+And where is Pedro Aguilar,<br />
+And where is Ramon Fenellosa?<br />
+The earthworms know where they are.</p>
+<p>Your name and your deeds were forgotten<br />
+Before your bones were dry,<br />
+And the lie that slew you is buried<br />
+Under a deeper lie;</p>
+<p>But the thing that I saw in your face<br />
+No power can disinherit:<br />
+No bomb that ever burst<br />
+Shatters the crystal spirit.</p>
+<p>Written August 1942, Sections I, II, III, and VII printed in <em>New Road</em>, June 1943</p>
+	    	</section> <!-- end article section -->
+						
+	<footer class="article-footer">
+		
+	</footer> <!-- end article footer -->
+						    
+	
+					
+</article> <!-- end article -->  
+			    							
+			    					
+			</main> <!-- end #main -->
+
+		    <div id="sidebar1" class="sidebar large-4 medium-4 columns" role="complementary">
+
+	
+		<div id="text-3" class="widget widget_text">			<div class="textwidget"></div>
+		</div>
+	
+</div>		    
+		</div> <!-- end #inner-content -->
+
+		<div class="full-width youth-bottom-bar-yellow"></div>
+
+		<div class="full-width youth-bottom-bar-grey"></div>		
+
+		<div class="full-width bottom-see-also greyarea">
+
+		<div id="related" class="row">
+
+			<div class="large-7 medium-7 see-also columns">
+				<h3>see also</h3>
+								
+
+				
+
+					
+
+
+			</div>
+
+			<div class="large-5 medium-5 columns">
+            	
+            			
+			</div>
+
+		</div> <!-- end #related -->
+
+		</div> <!-- end .fullwidth -->
+
+	</div> <!-- end #content -->
+
+					<footer class="footer" role="contentinfo">
+
+						
+						<div id="footer-info" class="row">
+							<div class="large-4 columns"><h3>The Orwell Foundation</h3>
+							</div>
+							<div class="large-2 columns">
+								<p>Institute of Advanced <br> Studies, South Wing <br> Wilkins Building<br>
+								UCL, Gower Street<br>
+								London WC1E 6BT</p>
+								<p>020 3108 1618&ensp;|&ensp;<a href="mailto:info@theorwellprize.co.uk">Email us</a></p>
+							</div>
+							<div class="large-4 columns">
+
+							<div class="1footer-mailchimp">
+
+								<h4>Sign up to our newsletter</h4>
+
+							
+								<iframe src="https://orwellfoundation.substack.com/embed" width="100%" height="150" style="border:0 solid #FFF; background:white;" frameborder="0" scrolling="no"></iframe>
+
+							</div>
+							
+
+							</div>
+							<div class="large-2 columns footer-followus">
+
+								
+
+
+
+											<h4>Follow us</h4>
+								<ul class="soc">
+								    <li><a class="soc-twitter" target="_new" href="https://twitter.com/TheOrwellPrize"></a></li>
+								    <li><a class="soc-facebook" target="_new" href="https://www.facebook.com/OrwellFoundation"></a></li>
+								    <li><a class="soc-youtube soc-icon-last" target="_new" href="http://www.youtube.com/theorwellprize"></a></li>
+								</ul>
+
+		
+
+
+
+							</div>
+
+							<!-- <nav role="navigation" class="show-for-small-only">
+		    								    				</nav> -->
+
+						</div>
+
+
+
+
+
+						<div id="inner-footer" class="row">
+							<div id="inner-footer-line" class="row">
+
+							<div id="footer-line-left" class="large-9 medium-9 columns">
+								<ul id="copyright">
+									<li>&copy; The Orwell Foundation 2026</li>
+									<li>Registered Charity No 1161563</li>										
+								</ul>
+								<nav role="navigation" class="hide-for-small-only">
+		    								    					</nav>
+		    				</div>
+							<div id="footer-line-right" class="large-3 medium-3 columns">
+								<p class="copyright">Website by <a href="https://www.doublesided.agency">Double Sided</a></p>
+								<p class=" ">
+									<a href="#" class="rs-link" data-link-desktop="Switch to desktop version" data-link-responsive="Switch to responsive / mobile version"></a></p> 
+							</div></div>
+						</div> <!-- end #inner-footer -->
+
+						
+
+					</footer> <!-- end .footer -->
+				</div>  <!-- end .main-content -->
+			</div> <!-- end .off-canvas-wrapper-inner -->
+		</div> <!-- end .off-canvas-wrapper -->
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/orwellfoundation/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Manage Consent</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="close-dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" width="20" height="20"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin"><p>Please note, this website uses technologies like cookies to store and/or access device information, for which we need your consent. Consenting will allow us to process data such as browsing behaviour or unique IDs on this site.&nbsp;</p></div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<div class="cmplz-category cmplz-functional">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-functional-1-optin">Functional</span>
+					<span class='cmplz-always-active'>
+						<span class="cmplz-banner-checkbox">
+							<input type="checkbox"
+									id="cmplz-functional-optin"
+									data-category="cmplz_functional"
+									class="cmplz-consent-checkbox cmplz-functional"
+									size="40"
+									value="1"/>
+							<label class="cmplz-label" for="cmplz-functional-optin"><span class="screen-reader-text">Functional</span></label>
+						</span>
+						Always active					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-functional-1-optin"
+							aria-labelledby="cmplz-title-functional-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-functional-1-optin" hidden>
+					<span class="cmplz-description-functional">The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-preferences">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-preferences-1-optin">Preferences</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-preferences-optin"
+								data-category="cmplz_preferences"
+								class="cmplz-consent-checkbox cmplz-preferences"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-preferences-optin"><span class="screen-reader-text">Preferences</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-preferences-1-optin"
+							aria-labelledby="cmplz-title-preferences-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-preferences-1-optin" hidden>
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-statistics">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-statistics-1-optin">Statistics</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-statistics-optin"
+								data-category="cmplz_statistics"
+								class="cmplz-consent-checkbox cmplz-statistics"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-statistics-optin"><span class="screen-reader-text">Statistics</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-statistics-1-optin"
+							aria-labelledby="cmplz-title-statistics-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-statistics-1-optin" hidden>
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-marketing">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-marketing-1-optin">Marketing</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-marketing-optin"
+								data-category="cmplz_marketing"
+								class="cmplz-consent-checkbox cmplz-marketing"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-marketing-optin"><span class="screen-reader-text">Marketing</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-marketing-1-optin"
+							aria-labelledby="cmplz-title-marketing-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-marketing-1-optin" hidden>
+					<span class="cmplz-description-marketing">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</span>
+				</div>
+			</div>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<ul>
+			<li><a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Manage options</a></li>
+			<li><a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Manage services</a></li>
+			<li><a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a></li>
+			<li><a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/" aria-label="Read more about TCF purposes on Cookie Database">Read more about these purposes</a></li>
+		</ul>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accept</button>
+		<button class="cmplz-btn cmplz-deny">Deny</button>
+		<button class="cmplz-btn cmplz-view-preferences">View preferences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Save preferences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">View preferences</a>
+			</div>
+
+
+	<div class="cmplz-documents cmplz-links">
+		<ul>
+			<li><a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a></li>
+		</ul>
+			</div>
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1" aria-haspopup="dialog" aria-controls="cmplz-cookiebanner-1-optin">Manage consent</button>
+
+</div><script id="sticky-js-extra">
+var LMScriptParams = {"themename":"orwellfoundation","stickytarget":"","stickytargettwo":"","disableatwidth":"359"};
+//# sourceURL=sticky-js-extra
+</script>
+<script id="sticky-js" src="https://www.orwellfoundation.com/wp-content/plugins/lowermedia-sticky-js-menus/lowermedia.sticky.min.js?ver=3.1.0"></script>
+<script id="dlm-xhr-js-extra">
+var dlmXHRtranslations = {"error":"An error occurred while trying to download the file. Please try again.","not_found":"Download does not exist.","no_file_path":"No file path defined.","no_file_paths":"No file paths defined.","filetype":"Download is not allowed for this file type.","file_access_denied":"Access denied to this file.","access_denied":"Access denied. You do not have permission to download this file.","security_error":"Something is wrong with the file path.","file_not_found":"File not found."};
+//# sourceURL=dlm-xhr-js-extra
+</script>
+<script id="dlm-xhr-js-before">
+const dlmXHR = {"xhr_links":{"class":["download-link","download-button"]},"prevent_duplicates":true,"ajaxUrl":"https:\/\/www.orwellfoundation.com\/wp-admin\/admin-ajax.php","countExcluded":false}; dlmXHRinstance = {}; const dlmXHRGlobalLinks = "https://www.orwellfoundation.com/download/"; const dlmNonXHRGlobalLinks = []; dlmXHRgif = "https://www.orwellfoundation.com/wp-content/plugins/download-monitor/assets/images/dlm-spinner.svg"; const dlmXHRProgress = "1"; const dlmXHRInlineSpinner = true
+//# sourceURL=dlm-xhr-js-before
+</script>
+<script id="dlm-xhr-js" src="https://www.orwellfoundation.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=5.3.7"></script>
+<script id="dlm-xhr-js-after">
+document.addEventListener("dlm-xhr-modal-data", function(event) { if ("undefined" !== typeof event.detail.headers["x-dlm-tc-required"]) { event.detail.data["action"] = "dlm_terms_conditions_modal"; event.detail.data["dlm_modal_response"] = "true"; }});
+document.addEventListener("dlm-xhr-modal-data", function(event) {if ("undefined" !== typeof event.detail.headers["x-dlm-members-locked"]) {event.detail.data["action"] = "dlm_members_conditions_modal";event.detail.data["dlm_modal_response"] = "true";event.detail.data["dlm_members_form_redirect"] = "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/looking-back-on-the-spanish-war/";}});
+//# sourceURL=dlm-xhr-js-after
+</script>
+<script id="what-input-js" src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/what-input/what-input.min.js?ver=7.1.4"></script>
+<script id="foundation-js-js" src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/foundation-sites/dist/foundation.min.js?ver=6.0"></script>
+<script id="site-js-js" src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/js/scripts.js?ver=7.1.4"></script>
+<script id="cmplz-cookiebanner-js-extra">
+var complianz = {"prefix":"cmplz_","debug":"","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"27","version":"7.6.7","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"uk","geoip":"1","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https://www.orwellfoundation.com/wp-json/complianz/v1/","locale":"lang=en&locale=en_GB","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"40","cookie_path":"/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"https://www.orwellfoundation.com/wp-content/uploads/complianz/css/banner-1-optin.css?v=27","page_links":{"uk":{"cookie-statement":{"title":"Policies and complaints","url":"https://www.orwellfoundation.com/the-orwell-foundation/policies/"},"privacy-statement":{"title":"","url":"https://www.orwellfoundation.com/the-orwell-prizes/winners/"},"privacy-statement-children":{"title":"","url":"https://www.orwellfoundation.com/the-orwell-prizes/winners/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content","iapi_nav":"fallback","is_cookiepolicy_page":""};
+//# sourceURL=cmplz-cookiebanner-js-extra
+</script>
+<script defer id="cmplz-cookiebanner-js" src="https://www.orwellfoundation.com/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js?ver=1792600384"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.orwellfoundation.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.orwellfoundation.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</html> <!-- end page -->

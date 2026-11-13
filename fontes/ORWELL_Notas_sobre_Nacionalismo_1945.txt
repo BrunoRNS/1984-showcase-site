@@ -1,0 +1,813 @@
+<!doctype html>
+
+  <html class="no-js"  lang="en-GB" prefix="og: https://ogp.me/ns#">
+
+	<head>
+		<meta charset="utf-8">
+		
+		<!-- Force IE to use the latest rendering engine available -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<meta class="foundation-mq">
+		
+		<!-- If Site Icon isn't set in customizer -->
+		
+		<link rel="pingback" href="https://www.orwellfoundation.com/xmlrpc.php">
+
+		<meta name="dlm-version" content="5.3.7">
+<!-- Search Engine Optimisation by Rank Math - https://rankmath.com/ -->
+<title>Notes on Nationalism | The Orwell Foundation</title>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Notes on Nationalism | The Orwell Foundation" />
+<meta property="og:description" content="&quot;By ‘nationalism’ I mean first of all the habit of assuming that human beings can be classified like insects and that whole blocks of millions or tens of millions of people can be confidently labelled &#039;good&#039; or &#039;bad&#039;.&quot;" />
+<meta property="og:url" content="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/" />
+<meta property="og:site_name" content="The Orwell Foundation" />
+<meta property="article:publisher" content="https://www.facebook.com/TheOrwellPrize/" />
+<meta property="og:updated_time" content="2026-10-14T12:45:23+01:00" />
+<meta property="article:published_time" content="2011-04-25T14:53:28+01:00" />
+<meta property="article:modified_time" content="2026-10-14T12:45:23+01:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Notes on Nationalism | The Orwell Foundation" />
+<meta name="twitter:description" content="&quot;By ‘nationalism’ I mean first of all the habit of assuming that human beings can be classified like insects and that whole blocks of millions or tens of millions of people can be confidently labelled &#039;good&#039; or &#039;bad&#039;.&quot;" />
+<meta name="twitter:site" content="@orwell_fdn" />
+<meta name="twitter:creator" content="@orwell_fdn" />
+<meta name="twitter:label1" content="Time to read" />
+<meta name="twitter:data1" content="40 minutes" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.orwellfoundation.com/#person","name":"The Orwell Foundation","sameAs":["https://www.facebook.com/TheOrwellPrize/","https://twitter.com/orwell_fdn"]},{"@type":"WebSite","@id":"https://www.orwellfoundation.com/#website","url":"https://www.orwellfoundation.com","name":"The Orwell Foundation","publisher":{"@id":"https://www.orwellfoundation.com/#person"},"inLanguage":"en-GB"},{"@type":"WebPage","@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/#webpage","url":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/","name":"Notes on Nationalism | The Orwell Foundation","datePublished":"2011-04-25T14:53:28+01:00","dateModified":"2026-10-14T12:45:23+01:00","isPartOf":{"@id":"https://www.orwellfoundation.com/#website"},"inLanguage":"en-GB"},{"@type":"Person","@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/#author","name":"Eric Blair","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/f5d4e922892251293aa4dcbd80b7f066478996287193ed088cf7243cbe3e1fd4?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/f5d4e922892251293aa4dcbd80b7f066478996287193ed088cf7243cbe3e1fd4?s=96&amp;r=g","caption":"Eric Blair","inLanguage":"en-GB"}},{"@type":"Article","headline":"Notes on Nationalism | The Orwell Foundation","datePublished":"2011-04-25T14:53:28+01:00","dateModified":"2026-10-14T12:45:23+01:00","author":{"@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/#author","name":"Eric Blair"},"publisher":{"@id":"https://www.orwellfoundation.com/#person"},"description":"This material remains under copyright in some jurisdictions, including the US, and is reproduced here with the kind permission of\u00a0the Orwell Estate. The Orwell Foundation is an independent charity - please consider making a donation or becoming a Friend of the Foundation to help us maintain these resources for readers everywhere.\u00a0","name":"Notes on Nationalism | The Orwell Foundation","@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/#richSnippet","isPartOf":{"@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/#webpage"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="The Orwell Foundation &raquo; Feed" href="https://www.orwellfoundation.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The Orwell Foundation &raquo; Comments Feed" href="https://www.orwellfoundation.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.orwellfoundation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.orwellfoundation.com%2Fthe-orwell-foundation%2Forwell%2Fessays-and-other-works%2Fnotes-on-nationalism%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.orwellfoundation.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.orwellfoundation.com%2Fthe-orwell-foundation%2Forwell%2Fessays-and-other-works%2Fnotes-on-nationalism%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='formidable-css' href='https://www.orwellfoundation.com/wp-content/plugins/formidable/css/formidableforms.css?ver=20261015090405' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='page-list-style-css' href='https://www.orwellfoundation.com/wp-content/plugins/page-list/css/page-list.css?ver=6.3' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://www.orwellfoundation.com/wp-content/plugins/wp-pagenavi/css/wp-pagenavi.css?ver=3.0.1' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://www.orwellfoundation.com/wp-content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1792600384' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css' href='https://www.orwellfoundation.com/wp-content/plugins/download-monitor/assets/css/frontend-tailwind.min.css?ver=5.3.7' media='all' />
+<link rel='stylesheet' id='motion-ui-css-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/motion-ui/dist/motion-ui.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='foundation-css-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/foundation-sites/dist/foundation.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='site-css-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/css/style.css?ver=1794583360' media='all' />
+<link rel='stylesheet' id='fonts-genericons-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/webfonts/genericons.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='fonts-socialicons-css' href='https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/css/social-logos.min.css?ver=7.1.4' media='all' />
+<link rel='stylesheet' id='cmplz-banner-1-optin-css' href='https://www.orwellfoundation.com/wp-content/uploads/complianz/css/banner-1-optin.css?ver=1792600389' media='all' />
+<script id="jquery-core-js" src="https://www.orwellfoundation.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.orwellfoundation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://www.orwellfoundation.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.orwellfoundation.com/wp-json/wp/v2/pages/2792" /><link rel='shortlink' href='https://www.orwellfoundation.com/?p=2792' />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z99VFZH5G5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Z99VFZH5G5');
+</script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" /><meta name="generator" content="performance-lab 4.2.0; plugins: ">
+			<style>.cmplz-hidden {
+					display: none !important;
+				}
+
+				/* Sizes the close icon before the banner stylesheet arrives. The
+					same rule is in the generated sheet, and the template carries
+					width/height attributes — but templates/cookiebanner.php is
+					theme-overridable, so a copied template only gets it here. */
+				.cmplz-cookiebanner .cmplz-close svg {
+					width: 20px;
+					height: 20px;
+				}</style>
+				<link rel="icon" href="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.orwellfoundation.com/wp-content/uploads/2025/10/cropped-apple-icon-touch-270x270.png" />
+		<script src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/js/responsive-switch.js"></script>
+		<!-- Drop Google Analytics here -->
+		<!-- end analytics -->
+
+	</head>
+	
+	
+	<body data-cmplz=1 class="wp-singular page-template-default page page-id-2792 page-child parent-pageid-147 wp-theme-orwellfoundation the-orwell-foundation">
+<div class="off-canvas-wrapper">
+			
+			<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+				
+				<div class="off-canvas position-left" id="off-canvas" data-off-canvas data-position="left">
+	<ul id="menu-main-menu" class="vertical menu" data-accordion-menu><li id="menu-item-14464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-page-ancestor menu-item-has-children menu-item-14464"><a href="https://www.orwellfoundation.com/">The Orwell Foundation</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-15192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15192"><a>About</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-16009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16009"><a href="https://www.orwellfoundation.com/the-orwell-foundation/about/about-george-orwell/">About George Orwell</a></li>
+		<li id="menu-item-15190" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15190"><a href="https://www.orwellfoundation.com/the-orwell-foundation/about/about-the-orwell-foundation-2/">About us</a></li>
+		<li id="menu-item-16433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16433"><a href="https://www.orwellfoundation.com/the-orwell-foundation/about/sponsors/">Partners and Sponsors</a></li>
+		<li id="menu-item-16603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16603"><a href="https://www.orwellfoundation.com/the-orwell-foundation/contact/accessibility/">Accessibility</a></li>
+		<li id="menu-item-24177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24177"><a href="https://www.orwellfoundation.com/the-orwell-foundation/vacancies/">Vacancies</a></li>
+		<li id="menu-item-24186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24186"><a href="https://www.orwellfoundation.com/the-orwell-foundation/policies/">Policies and complaints</a></li>
+		<li id="menu-item-26327" class="menu-item menu-item-type-post_type_archive menu-item-object-news menu-item-26327"><a href="https://www.orwellfoundation.com/the-orwell-foundation/news-events/news-events/news/">News</a></li>
+	</ul>
+</li>
+	<li id="menu-item-17170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17170"><a>What&#8217;s on</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15208"><a href="https://www.orwellfoundation.com/the-orwell-foundation/news-events/upcoming-events/">Upcoming events</a></li>
+		<li id="menu-item-21592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21592"><a href="https://www.orwellfestival.co.uk/">The Orwell Festival</a></li>
+		<li id="menu-item-17173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17173"><a href="https://www.orwellfoundation.com/the-orwell-foundation/programmes/the-orwell-lecture-2/">The Orwell Lecture</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15198"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/resources-guide/">Resources</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15212"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/books-by-orwell/">Books by Orwell</a></li>
+		<li id="menu-item-15211" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-15211"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/">Essays and other works</a></li>
+		<li id="menu-item-17175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17175"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/encountering-orwell/">Encountering Orwell</a></li>
+		<li id="menu-item-17174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17174"><a href="https://www.orwellfoundation.com/the-orwell-foundation/programmes/orwell-live/">Orwell Live</a></li>
+		<li id="menu-item-15209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15209"><a href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/articles/">Library</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23421" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23421"><a href="https://www.orwellfoundation.com/the-orwell-foundation/support-us/">Donate</a></li>
+	<li id="menu-item-14471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14471"><a href="https://www.orwellfoundation.com/the-orwell-foundation/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-9930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9930"><a href="https://www.orwellfoundation.com/the-orwell-prizes/">The Orwell Prizes</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-15215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15215"><a>About</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15237"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/about-the-prizes/">About the prizes</a></li>
+		<li id="menu-item-19036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19036"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/criteria/">Criteria</a></li>
+		<li id="menu-item-25862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25862"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/about-the-prizes/socialevils/">Exposing Britain’s Social Evils</a></li>
+		<li id="menu-item-22158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22158"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/about-the-prizes/reporting-homelessness/">Reporting Homelessness</a></li>
+	</ul>
+</li>
+	<li id="menu-item-26710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26710"><a href="https://www.orwellfoundation.com/the-orwell-prizes/guidance-for-entrants-faqs/">Guidance for Entrants &#038; FAQs</a></li>
+	<li id="menu-item-20792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20792"><a>2026 Prizes</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-26273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26273"><a href="https://www.orwellfoundation.com/the-orwell-prizes/finalists/">Finalists</a></li>
+		<li id="menu-item-17711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17711"><a href="https://www.orwellfoundation.com/the-orwell-prizes/judging/">Judges</a></li>
+		<li id="menu-item-20853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20853"><a href="https://www.orwellfoundation.com/the-orwell-prizes/rules/">Rules</a></li>
+		<li id="menu-item-25866" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25866"><a href="/the-orwell-prizes/how-to-enter/">Enter the prizes</a></li>
+	</ul>
+</li>
+	<li id="menu-item-19055" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19055"><a href="https://www.orwellfoundation.com/the-orwell-prizes/about/key-milestones/">Key dates</a></li>
+	<li id="menu-item-15236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15236"><a href="https://www.orwellfoundation.com/the-orwell-prizes/previous-winners/">Winners</a></li>
+</ul>
+</li>
+<li id="menu-item-9931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9931"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/">The Orwell Youth Prize</a>
+<ul class="vertical nested menu">
+	<li id="menu-item-15243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15243"><a>About</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15263"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/introduction/">About the Prize</a></li>
+		<li id="menu-item-20602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20602"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/judging/">Judging</a></li>
+		<li id="menu-item-20616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20616"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/prize/feedback/">Feedback</a></li>
+		<li id="menu-item-23569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23569"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/youth-prize-workshops/volunteering-with-the-orwell-youth-prize/">Volunteering</a></li>
+	</ul>
+</li>
+	<li id="menu-item-24225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-24225"><a>Enter the Prize</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-18059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18059"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/enter-the-orwell-youth-prize/">Entry Form</a></li>
+		<li id="menu-item-15259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15259"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/about/terms-and-conditions/">Terms and Conditions</a></li>
+	</ul>
+</li>
+	<li id="menu-item-23575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-23575"><a>For entrants</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-23576" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23576"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/">Start your journey</a></li>
+		<li id="menu-item-20609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20609"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/inspiration/">Inspiration</a></li>
+		<li id="menu-item-20611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20611"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/research/">Research</a></li>
+		<li id="menu-item-20613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20613"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/find-your-form/">Find Your Form</a></li>
+		<li id="menu-item-20709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20709"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/start-writing/">Start Writing</a></li>
+		<li id="menu-item-20711" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20711"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-young-writers/responding-to-feedback/">Responding to Feedback</a></li>
+	</ul>
+</li>
+	<li id="menu-item-20571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20571"><a>For teachers</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-20618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20618"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/how-we-work/">Our offer for teachers</a></li>
+		<li id="menu-item-20875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20875"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/lesson-plans/">Lesson Plans</a></li>
+		<li id="menu-item-19254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19254"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/workshops-and-events/">Events and Workshops</a></li>
+		<li id="menu-item-15269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15269"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/orwell-in-the-classroom/">Resources</a></li>
+		<li id="menu-item-15270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15270"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/for-teachers/gcse-english-language-practice-papers/">GCSE Practice Papers</a></li>
+	</ul>
+</li>
+	<li id="menu-item-20528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20528"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/prize/winners-2026/">Winners</a>
+	<ul class="vertical nested menu">
+		<li id="menu-item-15242" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15242"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/2018-youth-prize/previous-winners-youth/">Previous winners</a></li>
+		<li id="menu-item-21567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21567"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/youth-prize-workshops/the-orwell-youth-fellows/">The Orwell Youth Fellows</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-14472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14472"><a href="https://www.orwellfoundation.com/the-orwell-foundation/contact/">Contact</a></li>
+</ul></div>				
+				<div class="off-canvas-content" data-off-canvas-content>
+					
+					<header class="header hide-for-small-only header-other-sections" role="banner">
+						
+						<div class="row">
+
+
+						<div class="large-8 medium-8 columns main-top-menu">
+							<div class="menu"><ul>
+<li class="page_item page-item-14255 page_item_has_children current_page_ancestor"><a href="https://www.orwellfoundation.com/">The Orwell Foundation</a></li>
+<li class="page_item page-item-42 page_item_has_children"><a href="https://www.orwellfoundation.com/the-orwell-prizes/">The Orwell Prizes</a></li>
+<li class="page_item page-item-6904 page_item_has_children"><a href="https://www.orwellfoundation.com/the-orwell-youth-prize/">The Orwell Youth Prize</a></li>
+</ul></div>
+						</div>
+
+  						<div class="large-4 medium-4 columns"><!-- <form role="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit button" value="Search" />
+</form>
+-->
+
+
+
+
+
+<form role="search"  class="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+
+
+	<!-- We'll have a button that'll make the search input appear, a submit button and the input -->
+	
+	<!-- Alos, a label for it so that we can style it however we want it-->
+	<input id="submit" value="" type="submit">
+	<label for="submit" class="submit"></label>
+	
+	<!-- trigger button and input -->
+	<a href="javascript: void(0)" class="icon"></a>
+
+	<input type="search" name="s" id="search" placeholder="Search...">
+</form></div>
+
+				
+
+
+						</div>
+		 	
+					</header> <!-- end .header -->
+
+					<!-- <div data-sticky-container>
+						<div class="sticky" data-sticky>	-->
+							 <!-- This navs will be applied to the topbar, above all content 
+								  To see additional nav styles, visit the /parts directory -->
+							 <!-- By default, this menu will use off-canvas for small
+	 and a topbar for medium-up -->
+<div class="full-width orwellred">
+
+<div class="row" id="top-red-header">
+  <div class="large-10 columns">
+	
+					<h2 class="logo-text">The Orwell Foundation</h2>
+		
+
+
+
+	<div class="top-bar-right float-right show-for-small-only">
+		<ul class="menu">
+			<li><button class="menu-icon" type="button" data-toggle="off-canvas"></button></li>
+			<!-- <li><a data-toggle="off-canvas">Menu</a></li> -->
+		</ul>
+	</div>
+
+
+	<div id="header-quote" class="hide-for-small-only">
+	
+	    			&lsquo;What I have most wanted to do… is to make political writing into an art.&rsquo;
+		
+
+
+	
+	
+	
+	
+	
+
+
+	
+	</div>
+	</div>
+	  <div class="large-2 columns">
+
+
+	
+
+
+
+	    <div class="clearfix hide-for-small-only">
+			
+	
+
+	
+
+
+						<a href="/the-orwell-foundation/support-us/" class="header-enter-btn header-donate-btn ">Donate today</a>
+		
+
+
+
+		
+	    </div>
+	  </div>
+</div>
+
+	<div class="topbar">
+
+	<div class="orwellred">
+
+	<div id="main-nav-container" class="show-for-medium">
+		
+		<div class="row">
+
+		<div class="top-header-sticky-logo">
+			<!-- Build the title based on the top level parent, eg Orwell or Orwell Youth -->
+		
+								<div class="logo-text">The Orwell Foundation </div>
+				
+		</div>
+
+		<div class="navigation-drop-downs">
+		
+		  			
+  			
+       	</div>
+
+       	<div class="top-share-wrapper hide-for-small-only">
+
+
+       		
+
+
+
+
+	     
+		</div>
+
+		<div class="top-header-sticky-search">
+			<!-- <form role="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search..." value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit button" value="Search" />
+</form>
+-->
+
+
+
+
+
+<form role="search"  class="search" method="get" class="search-form" action="https://www.orwellfoundation.com/">
+
+
+	<!-- We'll have a button that'll make the search input appear, a submit button and the input -->
+	
+	<!-- Alos, a label for it so that we can style it however we want it-->
+	<input id="submit" value="" type="submit">
+	<label for="submit" class="submit"></label>
+	
+	<!-- trigger button and input -->
+	<a href="javascript: void(0)" class="icon"></a>
+
+	<input type="search" name="s" id="search" placeholder="Search...">
+</form>		</div>
+
+		</div>
+
+	</div>	
+
+	</div>	
+
+	</div>	 <!-- .topbar -->
+
+</div><!-- .full-width -->						<!-- </div>
+					</div>	-->
+	<div id="content">
+	
+		<div id="inner-content" class="row">
+
+			<div class="breadcrumbs large-8 medium-8 columns">
+			    <a title="Go to The Orwell Foundation." href="https://www.orwellfoundation.com">Home</a>&nbsp;&nbsp; / &nbsp;&nbsp;<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Orwell." href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/" class="post post-page"><span property="name">Orwell</span></a><meta property="position" content="2"></span>&nbsp;&nbsp; / &nbsp;&nbsp;<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Essays and other works." href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/" class="post post-page"><span property="name">Essays and other works</span></a><meta property="position" content="3"></span>&nbsp;&nbsp; / &nbsp;&nbsp;<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Notes on Nationalism." href="https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/" class="post post-page current-item"><span property="name">Notes on Nationalism</span></a><meta property="position" content="4"></span>
+			</div>
+	
+		    <main id="main" class="large-8 medium-8 columns" role="main">
+				
+				
+			    	<article id="post-2792" class="post-2792 page type-page status-publish hentry wp-sticky" role="article" itemscope itemtype="https://schema.org/WebPage">
+						
+	<header class="article-header">
+		<h1 class="page-title">Notes on Nationalism</h1>
+	</header> <!-- end article header -->
+					
+    <section class="entry-content" itemprop="articleBody">
+	    <p><em>This material remains under copyright in some jurisdictions, including the US, and is reproduced here with the kind permission of <a class="external external_icon" href="http://www.amheath.com/profile.php?a=198" target="_blank" rel="noopener">the Orwell Estate</a>. The Orwell Foundation is an independent charity &#8211; please consider <a href="https://www.orwellfoundation.com/the-orwell-foundation/support-us/">making a donation</a> or becoming a Friend of the Foundation to help us maintain these resources for readers everywhere. </em></p>
+<hr />
+<p>Somewhere or other Byron makes use of the French word <em>longueur</em>, and remarks in passing that though in England we happen not to have the <em>word</em>, we have the <em>thing</em> in considerable profusion. In the same way, there is a habit of mind which is now so widespread that it affects our thinking on nearly every subject, but which has not yet been given a name. As the nearest existing equivalent I have chosen the word ‘nationalism’, but it will be seen in a moment that I am not using it in quite the ordinary sense, if only because the emotion I am speaking about does not always attach itself to what is called a nation – that is, a single race or a geographical area. It can attach itself to a church or a class, or it may work in a merely negative sense, <em>against</em> something or other and without the need for any positive object of loyalty.</p>
+<p>By ‘nationalism’ I mean first of all the habit of assuming that human beings can be classified like insects and that whole blocks of millions or tens of millions of people can be confidently labelled &#8216;good&#8217; or &#8216;bad&#8217;.<span style="font-size: small;">[1]</span> But secondly ­– and this is much more important – I mean the habit of identifying oneself with a single nation or other unit, placing it beyond good and evil and recognizing no other duty than that of advancing its interests. <em>Nationalism is not to be confused with patriotism.</em> Both words are normally used in so vague a way that any definition is liable to be challenged, but one must draw a distinction between them, since two different and even opposing ideas are involved. By ‘patriotism’ I mean devotion to a particular place and a particular way of life, which one believes to be the best in the world but has no wish to force on other people. Patriotism is of its nature defensive, both militarily and culturally. Nationalism, on the other hand, is inseparable from the desire for power. The abiding purpose of every nationalist is to secure more power and more prestige, <em>not</em> for himself but for the nation or other unit in which he has chosen to sink his own individuality.</p>
+<p>So long as it is applied merely to the more notorious and identifiable nationalist movements in Germany, Japan, and other countries, all this is obvious enough. Confronted with a phenomenon like Nazism, which we can observe from the outside, nearly all of us would say much the same things about it. But here I must repeat what I said above, that I am only using the word ‘nationalism’ for lack of a better. Nationalism, in the extended sense in which I am using the word, includes such movements and tendencies as Communism, political Catholicism, Zionism, Antisemitism, Trotskyism and Pacifism. It does not necessarily mean loyalty to a government or a country, still less to <em>one&#8217;s own</em> country, and it is not even strictly necessary that the units in which it deals should actually exist. To name a few obvious examples, Jewry, Islam, Christendom, the Proletariat and the White Race are all of them objects of passionate nationalistic feeling: but their existence can be seriously questioned, and there is no definition of any one of them that would be universally accepted.</p>
+<p>It is also worth emphasizing once again that nationalist feeling can be purely negative. There are, for example, Trotskyists who have become simply enemies of the U.S.S.R. without developing a corresponding loyalty to any other unit. When one grasps the implications of this, the nature of what I mean by nationalism becomes a good deal clearer. A nationalist is one who thinks solely, or mainly, in terms of competitive prestige. He may be a positive or a negative nationalist – that is, he may use his mental energy either in boosting or in denigrating – but at any rate his thoughts always turn on victories, defeats, triumphs and humiliations. He sees history, especially contemporary history, as the endless rise and decline of great power units, and every event that happens seems to him a demonstration that his own side is on the up-grade and some hated rival is on the down-grade. But finally, it is important not to confuse nationalism with mere worship of success. The nationalist does not go on the principle of simply ganging up with the strongest side. On the contrary, having picked his side, he persuades himself that it <em>is</em> the strongest, and is able to stick to his belief even when the facts are overwhelmingly against him. Nationalism is power hunger tempered by self-deception. Every nationalist is capable of the most flagrant dishonesty, but he is also – since he is conscious of serving something bigger than himself – unshakeably certain of being in the right.</p>
+<p>Now that I have given this lengthy definition, I think it will be admitted that the habit of mind I am talking about is widespread among the English intelligentsia, and more widespread there than among the mass of the people. For those who feel deeply about contemporary politics, certain topics have become so infected by considerations of prestige that a genuinely rational approach to them is almost impossible. Out of the hundreds of examples that one might choose, take this question: Which of the three great allies, the U.S.S.R., Britain and the U.S.A., has contributed most to the defeat of Germany? In theory it should be possible to give a reasoned and perhaps even a conclusive answer to this question. In practice, however, the necessary calculations cannot be made, because anyone likely to bother his head about such a question would inevitably see it in terms of competitive prestige. He would therefore <em>start</em> by deciding in favour of Russia, Britain or America as the case might be, and only <em>after</em> this would begin searching for arguments that seemed to support his case. And there are whole strings of kindred questions to which you can only get an honest answer from someone who is indifferent to the whole subject involved, and whose opinion on it is probably worthless in any case. Hence, partly, the remarkable failure in our time of political and military prediction. It is curious to reflect that out of all the ‘experts’ of all the schools, there was not a single one who was able to foresee so likely an event as the Russo-German Pact of 1939.<span style="font-size: small;">[2]</span> And when news of the Pact broke, the most wildly divergent explanations were of it were given, and predictions were made which were falsified almost immediately, being based in nearly every case not on a study of probabilities but on a desire to make the U.S.S.R. seem good or bad, strong or weak. Political or military commentators, like astrologers, can survive almost any mistake, because their more devoted followers do not look to them for an appraisal of the facts but for the stimulation of nationalistic loyalties.<span style="font-size: small;">[3]</span> And aesthetic judgements, especially literary judgements, are often corrupted in the same way as political ones. It would be difficult for an Indian nationalist to enjoy reading Kipling or for a Conservative to see merit in Mayakovsky, and there is always a temptation to claim that any book whose tendency one disagrees with must be a bad book from a <em>literary</em> point of view. People of strongly nationalistic outlook often perform this sleight of hand without being conscious of dishonesty.</p>
+<p>In England, if one simply considers the number of people involved, it is probable that the dominant form of nationalism is old-fashioned British jingoism. It is certain that this is still widespread, and much more so than most observers would have believed a dozen years ago. However, in this essay I am concerned chiefly with the reactions of the intelligentsia, among whom jingoism and even patriotism of the old kind are almost dead, though they now seem to be reviving among a minority. Among the intelligentsia, it hardly needs saying that the dominant form of nationalism is Communism ­– using this word in a very loose sense, to include not merely Communist Party members but ‘fellow-travellers’ and russophiles generally. A Communist, for my purpose here, is one who looks upon the U.S.S.R. as his Fatherland and feels it his duty to justify Russian policy and advance Russian interests at all costs. Obviously such people abound in England today, and their direct and indirect influence is very great. But many other forms of nationalism also flourish, and it is by noticing the points of resemblance between different and even seemingly opposed currents of thought that one can best get the matter into perspective.</p>
+<p>Ten or twenty years ago, the form of nationalism most closely corresponding to Communism today was political Catholicism. Its most outstanding exponent – though he was perhaps an extreme case rather than a typical one – was G. K. Chesterton. Chesterton was a writer of considerable talent who chose to suppress both his sensibilities and his intellectual honesty in the cause of Roman Catholic propaganda. During the last twenty years or so of his life, his entire output was in reality an endless repetition of the same thing, under its laboured cleverness as simple and boring as ‘Great is Diana of the Ephesians’. Every book that he wrote, every paragraph, every sentence, every incident in every story, every scrap of dialogue, had to demonstrate beyond possibility of mistake the superiority of the Catholic over the Protestant or the pagan. But Chesterton was not content to think of this superiority as merely intellectual or spiritual: it had to be translated into terms of national prestige and military power, which entailed an ignorant idealization of the Latin countries, especially France. Chesterton had not lived long in France, and his picture of it – as a land of Catholic peasants incessantly singing the <em>Marseillaise</em> over glasses of red wine – had about as much relation to reality as <em>Chu Chin Chow</em> has to everyday life in Baghdad. And with this went not only an enormous over-estimation of French military power (both before and after 1914-18 he maintained that France, by itself, was stronger than Germany), but a silly and vulgar glorification of the actual process of war. Chesterton&#8217;s battle poems, such as ‘Lepanto’ or ‘The Ballad of Saint Barbara’, make ‘The Charge of the Light Brigade’ read like a pacifist tract: they are perhaps the most tawdry bits of bombast to be found in our language. The interesting thing is that had the romantic rubbish which he habitually wrote about France and the French army been written by somebody else about Britain and the British army, he would have been the first to jeer. In home politics he was a Little Englander, a true hater of jingoism and imperialism, and according to his lights a true friend of democracy. Yet when he looked outwards into the international field, he could forsake his principles without even noticing he was doing so. Thus, his almost mystical belief in the virtues of democracy did not prevent him from admiring Mussolini. Mussolini had destroyed the representative government and the freedom of the press for which Chesterton had struggled so hard at home, but Mussolini was an Italian and had made Italy strong, and that settled the matter. Nor did Chesterton ever find a word to say about imperialism and the conquest of coloured races when they were practised by Italians or Frenchmen. His hold on reality, his literary taste, and even to some extent his moral sense, were dislocated as soon as his nationalistic loyalties were involved.</p>
+<p>Obviously there are considerable resemblances between political Catholicism, as exemplified by Chesterton, and Communism. So there are between either of these and for instance Scottish nationalism, Zionism, Antisemitism or Trotskyism. It would be an oversimplification to say that all forms of nationalism are the same, even in their mental atmosphere, but there are certain rules that hold good in all cases. The following are the principal characteristics of nationalist thought:</p>
+<p><em>Obsession.</em> As nearly as possible, no nationalist ever thinks, talks, or writes about anything except the superiority of his own power unit. It is difficult if not impossible for any nationalist to conceal his allegiance. The smallest slur upon his own unit, or any implied praise of a rival organization, fills him with uneasiness which he can only relieve by making some sharp retort. If the chosen unit is an actual country, such as Ireland or India, he will generally claim superiority for it not only in military power and political virtue, but in art, literature, sport, structure of the language, the physical beauty of the inhabitants, and perhaps even in climate, scenery and cooking. He will show great sensitiveness about such things as the correct display of flags, relative size of headlines and the order in which different countries are named.<span style="font-size: small;">[4]</span> Nomenclature plays a very important part in nationalist thought. Countries which have won their independence or gone through a nationalist revolution usually change their names, and any country or other unit round which strong feelings revolve is likely to have several names, each of them carrying a different implication. The two sides of the Spanish Civil War had between them nine or ten names expressing different degrees of love and hatred. Some of these names (e.g. ‘Patriots’ for Franco-supporters, or ‘Loyalists’ for Government-supporters) were frankly question-begging, and there was no single one of them which the two rival factions could have agreed to use. All nationalists consider it a duty to spread their own language to the detriment of rival languages, and among English-speakers this struggle reappears in subtler form as a struggle between dialects. Anglophobe Americans will refuse to use a slang phrase if they know it to be of British origin, and the conflict between Latinizers and Germanizers often has nationalist motives behind it. Scottish nationalists insist on the superiority of Lowland Scots, and Socialists whose nationalism takes the form of class hatred tirade against the B.B.C. accent and even the broad A. One could multiply instances. Nationalist thought often gives the impression of being tinged by belief in sympathetic magic – a belief which probably comes out in the widespread custom of burning political enemies in effigy, or using pictures of them as targets in shooting galleries.</p>
+<p><em>Instability.</em> The intensity with which they are held does not prevent nationalist loyalties from being transferable. To begin with, as I have pointed out already, they can be and often are fastened upon some foreign country. One quite commonly finds that great national leaders, or the founders of nationalist movements, do not even belong to the country they have glorified. Sometimes they are outright foreigners, or more often they come from peripheral areas where nationality is doubtful. Examples are Stalin, Hitler, Napoleon, de Valera, Disraeli, Poincaré, Beaverbrook. The Pan-German movement was in part the creation of an Englishman, Houston Chamberlain. For the past fifty or a hundred years, transferred nationalism has been a common phenomenon among literary intellectuals. With Lafcadio Hearne the transference was to Japan, with Carlyle and many others of his time to Germany, and in our own age it is usually to Russia. But the peculiarly interesting fact is that <em>re</em>-transference is also possible. A country or other unit which has been worshipped for years may suddenly become detestable, and some other object of affection may take its place with almost no interval. In the first version of H. G. Wells&#8217;s <em>Outline of History</em>, and others of his writings about that time, one finds the United States praised almost as extravagantly as Russia is praised by Communists today: yet within a few years this uncritical admiration had turned into hostility. The bigoted Communist who changes in a space of weeks, or even of days, into an equally bigoted Trotskyist is a common spectacle. In continental Europe Fascist movements were largely recruited from among Communists, and the opposite process may well happen within the next few years. What remains constant in the nationalist is his own state of mind: the object of his feelings is changeable, and may be imaginary.</p>
+<p>But for an intellectual, transference has an important function which I have already mentioned shortly in connection with Chesterton. It makes it possible for him to be much <em>more</em> nationalistic – more vulgar, more silly, more malignant, more dishonest – than he could ever be on behalf of his native country, or any unit of which he had real knowledge. When one sees the slavish or boastful rubbish that is written about Stalin, the Red army, etc. by fairly intelligent and sensitive people, one realizes that this is only possible because some kind of dislocation has taken place. In societies such as ours, it is unusual for anyone describable as an intellectual to feel a very deep attachment to his own country. Public opinion – that is, the section of public opinion of which he as an intellectual is aware – will not allow him to do so. Most of the people surrounding him are sceptical and disaffected, and he may adopt the same attitude from imitativeness or sheer cowardice: in that case he will have abandoned the form of nationalism that lies nearest to hand without getting any closer to a genuinely internationalist outlook. He still feels the need for a Fatherland, and it is natural to look for one somewhere abroad. Having found it, he can wallow unrestrainedly in exactly those emotions from which he believes that he has emancipated himself. God, the King, the Empire, the Union Jack – all the overthrown idols can reappear under different names, and because they are not recognized for what they are they can be worshipped with a good conscience. Transferred nationalism, like the use of scapegoats, is a way of attaining salvation without altering one&#8217;s conduct.</p>
+<p><em>Indifference to Reality.</em> All nationalists have the power of not seeing resemblances between similar sets of facts. A British Tory will defend self-determination in Europe and oppose it in India with no feeling of inconsistency. Actions are held to be good or bad, not on their own merits, but according to who does them, and there is almost no kind of outrage – torture, the use of hostages, forced labour, mass deportations, imprisonment without trial, forgery, assassination, the bombing of civilians – which does not change its moral colour when it is committed by ‘our’ side. The Liberal<em> News Chronicle</em> published, as an example of shocking barbarity, photographs of Russians hanged by the Germans, and then a year or two later published with warm approval almost exactly similar photographs of Germans hanged by the Russians.<span style="font-size: small;">[5]</span> It is the same with historical events. History is thought of largely in nationalist terms, and such things as the Inquisition, the tortures of the Star Chamber, the exploits of the English buccaneers (Sir Francis Drake, for instance, who was given to sinking Spanish prisoners alive), the Reign of Terror, the heroes of the Mutiny blowing hundreds of Indians from the guns, or Cromwell&#8217;s soldiers slashing Irishwomen&#8217;s faces with razors, become morally neutral or even meritorious when it is felt that they were done in the ‘right’ cause. If one looks back over the past quarter of a century, one finds that there was hardly a single year when atrocity stories were not being reported from some part of the world: and yet in not one single case were these atrocities – in Spain, Russia, China, Hungary, Mexico, Amritsar, Smyrna – believed in and disapproved of by the English intelligentsia as a whole. Whether such deeds were reprehensible, or even whether they happened, was always decided according to political predilection.</p>
+<p>The nationalist not only does not disapprove of atrocities committed by his own side, but he has a remarkable capacity for not even hearing about them. For quite six years the English admirers of Hitler contrived not to learn of the existence of Dachau and Buchenwald. And those who are loudest in denouncing the German concentration camps are often quite unaware, or only very dimly aware, that there are also concentration camps in Russia. Huge events like the Ukraine famine of 1933, involving the deaths of millions of people, have actually escaped the attention of the majority of English russophiles. Many English people have heard almost nothing about the extermination of German and Polish Jews during the present war. Their own antisemitism has caused this vast crime to bounce off their consciousness. In nationalist thought there are facts which are both true and untrue, known and unknown. A known fact may be so unbearable that it is habitually pushed aside and not allowed to enter into logical processes, or on the other hand it may enter into every calculation and yet never be admitted as a fact, even in one&#8217;s own mind.</p>
+<p>Every nationalist is haunted by the belief that the past can be altered. He spends part of his time in a fantasy world in which things happen as they should – in which, for example, the Spanish Armada was a success or the Russian Revolution was crushed in 1918 – and he will transfer fragments of this world to the history books whenever possible. Much of the propagandist writing of our time amounts to plain forgery. Material facts are suppressed, dates altered, quotations removed from their context and doctored so as to change their meaning. Events which, it is felt, ought not to have happened are left unmentioned and ultimately denied.<span style="font-size: small;">[6]</span> In 1927 Chiang Kai-Shek boiled hundreds of Communists alive, and yet within ten years he had become one of the heroes of the Left. The re-alignment of world politics had brought him into the anti-Fascist camp, and so it was felt that the boiling of the Communists ‘didn&#8217;t count’, or perhaps had not happened. The primary aim of propaganda is, of course, to influence contemporary opinion, but those who rewrite history do probably believe with part of their minds that they are actually thrusting facts into the past. When one considers the elaborate forgeries that have been committed in order to show that Trotsky did not play a valuable part in the Russian civil war, it is difficult to feel that the people responsible are merely lying. More probably they feel that their own version <em>was</em> what happened in the sight of God, and that one is justified in rearranging the records accordingly.</p>
+<p>Indifference to objective truth is encouraged by the sealing-off of one part of the world from another, which makes it harder and harder to discover what is actually happening. There can often be a genuine doubt about the most enormous events. For example, it is impossible to calculate within millions, perhaps even tens of millions, the number of deaths caused by the present war. The calamities that are constantly being reported – battles, massacres, famines, revolutions – tend to inspire in the average person a feeling of unreality. One has no way of verifying the facts, one is not even fully certain that they have happened, and one is always presented with totally different interpretations from different sources. What were the rights and wrongs of the Warsaw rising of August 1944? Is it true about the German gas ovens in Poland? Who was really to blame for the Bengal famine? Probably the truth is discoverable, but the facts will be so dishonestly set forth in almost any newspaper that the ordinary reader can be forgiven either for swallowing lies or failing to form an opinion. The general uncertainty as to what is really happening makes it easier to cling to lunatic beliefs. Since nothing is ever quite proved or disproved, the most unmistakable fact can be impudently denied. Moreover, although endlessly brooding on power, victory, defeat, revenge, the nationalist is often somewhat uninterested in what happens in the real world. What he wants is to <em>feel</em> that his own unit is getting the better of some other unit, and he can more easily do this by scoring off an adversary than by examining the facts to see whether they support him. All nationalist controversy is at the debating-society level. It is always entirely inconclusive, since each contestant invariably believes himself to have won the victory. Some nationalists are not far from schizophrenia, living quite happily amid dreams of power and conquest which have no connexion with the physical world.</p>
+<p>I have examined as best as I can the mental habits which are common to all forms of nationalism. The next thing is to classify those forms, but obviously this cannot be done comprehensively. Nationalism is an enormous subject. The world is tormented by innumerable delusions and hatreds which cut across one another in an extremely complex way, and some of the most sinister of them have not yet impinged on the European consciousness. In this essay I am concerned with nationalism as it occurs among the English intelligentsia. In them, much more than in ordinary English people, it is unmixed with patriotism and can therefore can be studied pure. Below are listed the varieties of nationalism now flourishing among English intellectuals, with such comments as seem to be needed. It is convenient to use three headings, Positive, Transferred and Negative, though some varieties will fit into more than one category:</p>
+<p><strong>Positive Nationalism</strong></p>
+<p>1.<em> Neo-Toryism.</em> Exemplified by such people as Lord Elton, A. P. Herbert, G. M. Young, Professor Pickthorn, by the literature of the Tory Reform Committee, and by such magazines as the <em>New English Review</em> and the <em>Nineteenth Century and After</em>. The real motive force of neo-Toryism, giving it its nationalistic character and differentiating it from ordinary Conservatism, is the desire not to recognize that British power and influence have declined. Even those who are realistic enough to see that Britain&#8217;s military position is not what it was, tend to claim that ‘English ideas’ (usually left undefined) must dominate the world. All neo-Tories are anti-Russian, but sometimes the main emphasis is anti-American. The significant thing is that this school of thought seems to be gaining ground among youngish intellectual, sometimes ex-Communists, who have passed through the usual process of disillusionment and become disillusioned with that. The anglophobe who suddenly becomes violently pro-British is a fairly common figure. Writers who illustrate this tendency are F. A. Voigt, Malcolm Muggeridge, Evelyn Waugh, Hugh Kingsmill, and a psychologically similar development can be observed in T. S. Eliot, Wyndham Lewis, and various of their followers.</p>
+<p>2.<em> Celtic Nationalism.</em> Welsh, Irish and Scottish nationalism have points of difference but are alike in their anti-English orientation. Members of all three movements have opposed the war while continuing to describe themselves as pro-Russian, and the lunatic fringe has even contrived to be simultaneously pro-Russian and pro-Nazi. But Celtic nationalism is not the same thing as anglophobia. Its motive force is a belief in the past and future greatness of the Celtic peoples, and it has a strong tinge of racialism. The Celt is supposed to be spiritually superior to the Saxon – simpler, more creative, less vulgar, less snobbish, etc. – but the usual power hunger is there under the surface. One symptom of it is the delusion that Eire, Scotland or even Wales could preserve its independence unaided and owes nothing to British protection. Among writers, good examples of this school of thought are Hugh McDiarmid and Sean O&#8217;Casey. No modern Irish writer, even of the stature of Yeats or Joyce, is completely free from traces of nationalism.</p>
+<p>3.<em> Zionism.</em> This has the unusual characteristics of a nationalist movement, but the American variant of it seems to be more violent and malignant than the British. I classify it under Direct and not Transferred nationalism because it flourishes almost exclusively among the Jews themselves. In England, for several rather incongruous reasons, the intelligentsia are mostly pro-Jew on the Palestine issue, but they do not feel strongly about it. All English people of goodwill are also pro-Jew in the sense of disapproving of Nazi persecution. But any actual nationalistic loyalty, or belief in the innate superiority of Jews, is hardly to be found among Gentiles:</p>
+<p><strong>Transferred Nationalism</strong></p>
+<p>1.<em> Communism</em></p>
+<p>2.<em> Political Catholicism</em></p>
+<p>3.<em> Colour Feeling.</em> The old-style contemptuous attitude towards ‘natives’ has been much weakened in England, and various pseudo-scientific theories emphasizing the superiority of the white race have been abandoned.<span style="font-size: small;">[7]</span> Among the intelligentsia, colour feeling only occurs in the transposed form, that is, as a belief in the innate superiority of the coloured races. This is now increasingly common among English intellectuals, probably resulting more often from masochism and sexual frustration than from contact with the Oriental and Negro nationalist movements. Even among those who do not feel strongly on the colour question, snobbery and imitation have a powerful influence. Almost any English intellectual would be scandalized by the claim that the white races are superior to the coloured, whereas the opposite claim would seem to him unexceptionable even if he disagreed with it. Nationalistic attachment to the coloured races is usually mixed up with the belief that their sex lives are superior, and there is a large underground mythology about the sexual prowess of Negroes.</p>
+<p>4. <em>Class Feeling.</em> Among upper-class and middle-class intellectuals, only in the transposed form – i.e. as a belief in the superiority of the proletariat. Here again, inside the intelligentsia, the pressure of public opinion is overwhelming. Nationalistic loyalty towards the proletariat, and most vicious theoretical hatred of the bourgeoisie, can and often do co-exist with ordinary snobbishness in everyday life.</p>
+<p>5. <em>Pacifism.</em> The majority of pacifists either belong to obscure religious sects or are simply humanitarians who object to the taking of life and prefer not to follow their thoughts beyond that point. But there is a minority of intellectual pacifists whose real though unadmitted motive appears to be hatred of western democracy and admiration of totalitarianism. Pacifist propaganda usually boils down to saying that one side is as bad as the other, but if one looks closely at the writings of younger intellectual pacifists, one finds that they do not by any means express impartial disapproval but are directed almost entirely against Britain and the United States. Moreover they do not as a rule condemn violence as such, but only violence used in defence of the western countries. The Russians, unlike the British, are not blamed for defending themselves by warlike means, and indeed all pacifist propaganda of this type avoids mention of Russia or China. It is not claimed, again, that the Indians should abjure violence in their struggle against the British. Pacifist literature abounds with equivocal remarks which, if they mean anything, appear to mean that statesmen of the type of Hitler are preferable to those of the type of Churchill, and that violence is perhaps excusable if it is violent enough. After the fall of France, the French pacifists, faced by a real choice which their English colleagues have not had to make, mostly went over to the Nazis, and in England there appears to have been some small overlap of membership between the Peace Pledge Union and the Blackshirts. Pacifist writers have written in praise of Carlyle, one of the intellectual fathers of Fascism. All in all it is difficult not to feel that pacifism, as it appears among a section of the intelligentsia, is secretly inspired by an admiration for power and successful cruelty. The mistake was made of pinning this emotion to Hitler, but it could easily be retransferred.</p>
+<p><strong>Negative Nationalism</strong></p>
+<p>1. <em>Anglophobia.</em> Within the intelligentsia, a derisive and mildly hostile attitude towards Britain is more or less compulsory, but it is an unfaked emotion in many cases. During the war it was manifested in the defeatism of the intelligentsia, which persisted long after it had become clear that the Axis powers could not win. Many people were undisguisedly pleased when Singapore fell or when the British were driven out of Greece, and there was a remarkable unwillingness to believe in good news, e.g. el Alamein, or the number of German planes shot down in the Battle of Britain. English left-wing intellectuals did not, of course, actually want the Germans or Japanese to win the war, but many of them could not help getting a certain kick out of seeing their own country humiliated, and wanted to feel that the final victory would be due to Russia, or perhaps America, and not to Britain. In foreign politics many intellectuals follow the principle that any faction backed by Britain must be in the wrong. As a result, ‘enlightened’ opinion is quite largely a mirror-image of Conservative policy. Anglophobia is always liable to reversal, hence that fairly common spectacle, the pacifist of one war who is a bellicist in the next.</p>
+<p>2. <em>Anti-Semitism.</em> There is little evidence about this at present, because the Nazi persecutions have made it necessary for any thinking person to side with the Jews against their oppressors. Anyone educated enough to have heard the word ‘antisemitism’ claims as a matter of course to be free of it, and anti-Jewish remarks are carefully eliminated from all classes of literature. Actually, antisemitism appears to be widespread, even among intellectuals, and the general conspiracy of silence probably helps exacerbate it. People of Left opinions are not immune to it, and their attitude is sometimes affected by the fact that Trotskyists and Anarchists tend to be Jews. But antisemitism comes more naturally to people of Conservative tendency, who suspect Jews of weakening national morale and diluting the national culture. Neo-Tories and political Catholics are always liable to succumb to antisemitism, at least intermittently.</p>
+<p>3. <em>Trotskyism.</em> This word is used so loosely as to include Anarchists, democratic Socialists and even Liberals. I use it here to mean a doctrinaire Marxist whose main motive is hostility to the Stalin régime. Trotskyism can be better studied in obscure pamphlets or in papers like the <em>Socialist Appeal</em> than in the works of Trotsky himself, who was by no means a man of one idea. Although in some places, for instance in the United States, Trotskyism is able to attract a fairly large number of adherents and develop into an organized movement with a petty fuehrer of its own, its inspiration is essentially negative. The Trotskyist is <em>against</em> Stalin just as the Communist is <em>for</em> him, and, like the majority of Communists, he wants not so much to alter the external world as to feel that the battle for prestige is going in his own favour. In each case there is the same obsessive fixation on a single subject, the same inability to form a genuinely rational opinion based on probabilities. The fact that Trotskyists are everywhere a persecuted minority, and that the accusation usually made against them, i.e. of collaborating with the Fascists, is absolutely false, creates an impression that Trotskyism is intellectually and morally superior to Communism; but it is doubtful whether there is much difference. The most typical Trotskyists, in any case, are ex-Communists, and no one arrives at Trotskyism except via one of the left-wing movements. No Communist, unless tethered to his party by years of habit, is secure against a sudden lapse into Trotskyism. The opposite process does not seem to happen equally often, though there is no clear reason why it should not.</p>
+<p>In the classification I have attempted above, it will seem that I have often exaggerated, oversimplified, made unwarranted assumptions and have left out of account the existence of ordinarily decent motives. This was inevitable, because in this essay I am trying to isolate and identify tendencies which exist in all our minds and pervert our thinking, without necessarily occurring in a pure state or operating continuously. It is important at this point to correct the over-simplified picture which I have been obliged to make. To begin with, one has no right to assume that <em>everyone</em>, or even every intellectual, is infected by nationalism. Secondly, nationalism can be intermittent and limited. An intelligent man may half-succumb to a belief which attracts him but which he knows to be absurd, and he may keep it out of his mind for long periods, only reverting to it in moments of anger or sentimentality, or when he is certain that no important issues are involved. Thirdly, a nationalistic creed may be adopted in good faith from non-nationalistic motives. Fourthly, several kinds of nationalism, even kinds that cancel out, can co-exist in the same person.</p>
+<p>All the way through I have said, ‘the nationalist does this’ or ‘the nationalist does that’, using for purposes of illustration the extreme, barely sane type of nationalist who has no neutral areas in his mind and no interest in anything except the struggle for power. Actually such people are fairly common, but they are not worth the powder and shot. In real life Lord Elton, D. N. Pritt, Lady Houston, Ezra Pound, Lord Vanisttart, Father Coughlin and all the rest of their dreary tribe have to be fought against, but their intellectual deficiencies hardly need pointing out. Monomania is not interesting, and the fact that no nationalist of the more bigoted kind can write a book which still seems worth reading after a lapse of years has a certain deodorizing effect. But when one has admitted that nationalism has not triumphed everywhere, that there are still people whose judgements are not at the mercy of their desires, the fact does remain that the pressing problems – India, Poland, Palestine, the Spanish Civil War, the Moscow trials, the American Negroes, the Russo-German Pact or what have you – cannot be, or at least never are, discussed upon a reasonable level. The Eltons and Pritts and Coughlins, each of them simply an enormous mouth bellowing the same lie over and over again, are obviously extreme cases, but we deceive ourselves if we do not realize that we can all resemble them in unguarded moments. Let a certain note be struck, let this or that corn be trodden on – and it may be a corn whose very existence has been unsuspected hitherto — and the most fair-minded and sweet-tempered person may suddenly be transformed into a vicious partisan, anxious only to ‘score’ over his adversary and indifferent as to how many lies he tells or how many logical errors he commits in doing so. When Lloyd George, who was an opponent of the Boer War, announced in the House of Commons that the British communiqués, if one added them together, claimed the killing of more Boers than the whole Boer nation contained, it is recorded that Arthur Balfour rose to his feet and shouted ‘Cad!’ Very few people are proof against lapses of this type. The Negro snubbed by a white woman, the Englishman who hears England ignorantly criticized by an American, the Catholic apologist reminded of the Spanish Armada, will all react in much the same way. One prod to the nerve of nationalism, and the intellectual decencies can vanish, the past can be altered, and the plainest facts can be denied.</p>
+<p>If one harbours anywhere in one&#8217;s mind a nationalistic loyalty or hatred, certain facts, although in a sense known to be true, are inadmissible. Here are just a few examples. I list below five types of nationalist, and against each I append a fact which it is impossible for that type of nationalist to accept, even in his secret thoughts:</p>
+<p><em>British Tory:</em> Britain will come out of this war with reduced power and prestige.</p>
+<p><em>Communist:</em> If she had not been aided by Britain and America, Russia would have been defeated by Germany.</p>
+<p><em>Irish Nationalist:</em> Eire can only remain independent because of British protection.</p>
+<p><em>Trotskyist:</em> The Stalin régime is accepted by the Russian masses.</p>
+<p><em>Pacifist:</em> Those who ‘abjure’ violence can only do so because others are committing violence on their behalf.</p>
+<p>All of these facts are grossly obvious if one&#8217;s emotions do not happen to be involved: but to the kind of person named in each case they are also <em>intolerable</em>, and so they have to be denied, and false theories constructed upon their denial. I come back to the astonishing failure of military prediction in the present war. It is, I think, true to say that the intelligentsia have been more wrong about the progress of the war than the common people, and that they were more swayed by partisan feelings. The average intellectual of the Left believed, for instance, that the war was lost in 1940, that the Germans were bound to overrun Egypt in 1942, that the Japanese would never be driven out of the lands they had conquered, and that the Anglo-American bombing offensive was making no impression on Germany. He could believe these things because his hatred for the British ruling class forbade him to admit that British plans could succeed. There is no limit to the follies that can be swallowed if one is under the influence of feelings of this kind. I have heard it confidently stated, for instance, that the American troops had been brought to Europe not to fight the Germans but to crush an English revolution. One has to belong to the intelligentsia to believe things like that: no ordinary man could be such a fool. When Hitler invaded Russia, the officials of the M.O.I. issued ‘as background’ a warning that Russia might be expected to collapse in six weeks. On the other hand the Communists regarded every phase of the war as a Russian victory, even when the Russians were driven back almost to the Caspian Sea and had lost several million prisoners. There is no need to multiply instances. The point is that as soon as fear, hatred, jealousy and power worship are involved, the sense of reality becomes unhinged. And, as I have pointed out already, the sense of right and wrong becomes unhinged also. There is no crime, absolutely none, that cannot be condoned when ‘our’ side commits it. Even if one does not deny that the crime has happened, even if one knows that it is exactly the same crime as one has condemned in some other case, even if one admits in an intellectual sense that it is unjustified – still one cannot <em>feel</em> that it is wrong. Loyalty is involved, and so pity ceases to function.</p>
+<p>The reason for the rise and spread of nationalism is far too big a question to be raised here. It is enough to say that, in the forms in which it appears among English intellectuals, it is a distorted reflection of the frightful battles actually happening in the external world, and that its worst follies have been made possible by the breakdown of patriotism and religious belief. If one follows up this train of thought, one is in danger of being led into a species of Conservatism, or into political quietism. It can be plausibly argued, for instance – it is even probably true – that patriotism is an inoculation against nationalism, that monarchy is a guard against dictatorship, and that organized religion is a guard against superstition. Or again, it can be argued that <em>no</em> unbiased outlook is possible, that <em>all</em> creeds and causes involve the same lies, follies, and barbarities; and this is often advanced as a reason for keeping out of politics altogether. I do not accept this argument, if only because in the modern world no one describable as an intellectual <em>can</em> keep out of politics in the sense of not caring about them. I think one must engage in politics – using the word in a wide sense – and that one must have preferences: that is, one must recognize that some causes are objectively better than others, even if they are advanced by equally bad means. As for the nationalistic loves and hatreds that I have spoken of, they are part of the make-up of most of us, whether we like it or not. Whether it is possible to get rid of them I do not know, but I do believe that it is possible to struggle against them, and that this is essentially a <em>moral</em> effort. It is a question first of all of discovering what one really is, what one&#8217;s own feelings really are, and then of making allowance for the inevitable bias. If you hate and fear Russia, if you are jealous of the wealth and power of America, if you despise Jews, if you have a sentiment of inferiority towards the British ruling class, you cannot get rid of those feelings simply by taking thought. But you can at least recognize that you have them, and prevent them from contaminating your mental processes. The emotional urges which are inescapable, and are perhaps even necessary to political action, should be able to exist side by side with an acceptance of reality. But this, I repeat, needs a <em>moral</em> effort, and contemporary English literature, so far as it is alive at all to the major issues of our time, shows how few of us are prepared to make it.</p>
+<h2>Author&#8217;s Notes</h2>
+[1] Nations, and even vaguer entities such as the Catholic Church or the proleteriat, are commonly thought of as individuals and often referred to as ‘she’. Patently absurd remarks such as ‘Germany is naturally treacherous’ are to be found in any newspaper one opens, and reckless generalizations about national character (‘The Spaniard is a natural aristocrat’ or ‘Every Englishman is a hypocrite’) are uttered by almost everyone. Intermittently these generalizations are seen to be unfounded, but the habit of making them persists, and people of professedly international outlook, e.g. Tolstoy or Bernard Shaw, are often guilty of them.</p>
+[2] A few writers of conservative tendency, such as Peter Drucker, foretold an agreement between Germany and Russia, but they expected an actual alliance or amalgamation which would be permanent. No Marxist or other left-wing writer, of whatever colour, came anywhere near foretelling the Pact.</p>
+[3] The military commentators of the popular press can mostly be classified as pro-Russian or anti-Russian, pro-Blimp or anti-Blimp. Such errors as believing the Maginot Line impregnable, or predicting that Russia would conquer Germany in three months, have failed to shake their reputation, because they were always saying what their own particular audience wanted to hear. The two military critics most favoured by the intelligentsia are Captain Liddell Hart and Major-General Fuller, the first of whom teaches that the defence is stronger that the attack, and the second that the attack is stronger that the defence. This contradiction has not prevented both of them from being accepted as authorities by the same public. The secret reason for their vogue in left-wing circles is that both of them are at odds with the War Office.</p>
+[4] Certain Americans have expressed dissatisfaction because ‘Anglo-American’ is the normal form of combination for these two words. It has been proposed to substitute ‘Americo-British’.</p>
+[5] The <em>News Chronicle</em> advised its readers to visit the news film at which the entire execution could be witnessed, with close-ups. The <em>Star</em> published with seeming approval photographs of nearly naked female collaborationists being baited by the Paris mob. These photographs had a marked resemblance to the Nazi photographs of Jews being baited by the Berlin mob.</p>
+[6] An example is the Russo-German Pact, which is being effaced as quickly as possible from public memory. A Russian correspondent informs me that mention of the Pact is already being omitted from Russian year-books which table recent political events.</p>
+[7] A good example is the sunstroke superstition. Until recently it was believed that the white races were much more liable to sunstroke than the coloured, and that a white man could not safely walk about in tropical sunshine without a pith helmet. There was no evidence whatever for this theory, but it served the purpose of accentuating the difference between ‘natives’ and Europeans. During the present war the theory was quietly dropped and whole armies manoeuvre in the tropics without pith helmets. So long as the sunstroke superstition survived, English doctors in India appear to have believed in it as firmly as laymen.</p>
+<p><em>Polemic</em>, GB &#8211; London, 1945</p>
+	    	</section> <!-- end article section -->
+						
+	<footer class="article-footer">
+		
+	</footer> <!-- end article footer -->
+						    
+	
+					
+</article> <!-- end article -->  
+			    							
+			    					
+			</main> <!-- end #main -->
+
+		    <div id="sidebar1" class="sidebar large-4 medium-4 columns" role="complementary">
+
+	
+		<div id="text-3" class="widget widget_text">			<div class="textwidget"></div>
+		</div>
+	
+</div>		    
+		</div> <!-- end #inner-content -->
+
+		<div class="full-width youth-bottom-bar-yellow"></div>
+
+		<div class="full-width youth-bottom-bar-grey"></div>		
+
+		<div class="full-width bottom-see-also greyarea">
+
+		<div id="related" class="row">
+
+			<div class="large-7 medium-7 see-also columns">
+				<h3>see also</h3>
+								
+
+				
+
+					
+
+
+			</div>
+
+			<div class="large-5 medium-5 columns">
+            	
+            			
+			</div>
+
+		</div> <!-- end #related -->
+
+		</div> <!-- end .fullwidth -->
+
+	</div> <!-- end #content -->
+
+					<footer class="footer" role="contentinfo">
+
+						
+						<div id="footer-info" class="row">
+							<div class="large-4 columns"><h3>The Orwell Foundation</h3>
+							</div>
+							<div class="large-2 columns">
+								<p>Institute of Advanced <br> Studies, South Wing <br> Wilkins Building<br>
+								UCL, Gower Street<br>
+								London WC1E 6BT</p>
+								<p>020 3108 1618&ensp;|&ensp;<a href="mailto:info@theorwellprize.co.uk">Email us</a></p>
+							</div>
+							<div class="large-4 columns">
+
+							<div class="1footer-mailchimp">
+
+								<h4>Sign up to our newsletter</h4>
+
+							
+								<iframe src="https://orwellfoundation.substack.com/embed" width="100%" height="150" style="border:0 solid #FFF; background:white;" frameborder="0" scrolling="no"></iframe>
+
+							</div>
+							
+
+							</div>
+							<div class="large-2 columns footer-followus">
+
+								
+
+
+
+											<h4>Follow us</h4>
+								<ul class="soc">
+								    <li><a class="soc-twitter" target="_new" href="https://twitter.com/TheOrwellPrize"></a></li>
+								    <li><a class="soc-facebook" target="_new" href="https://www.facebook.com/OrwellFoundation"></a></li>
+								    <li><a class="soc-youtube soc-icon-last" target="_new" href="http://www.youtube.com/theorwellprize"></a></li>
+								</ul>
+
+		
+
+
+
+							</div>
+
+							<!-- <nav role="navigation" class="show-for-small-only">
+		    								    				</nav> -->
+
+						</div>
+
+
+
+
+
+						<div id="inner-footer" class="row">
+							<div id="inner-footer-line" class="row">
+
+							<div id="footer-line-left" class="large-9 medium-9 columns">
+								<ul id="copyright">
+									<li>&copy; The Orwell Foundation 2026</li>
+									<li>Registered Charity No 1161563</li>										
+								</ul>
+								<nav role="navigation" class="hide-for-small-only">
+		    								    					</nav>
+		    				</div>
+							<div id="footer-line-right" class="large-3 medium-3 columns">
+								<p class="copyright">Website by <a href="https://www.doublesided.agency">Double Sided</a></p>
+								<p class=" ">
+									<a href="#" class="rs-link" data-link-desktop="Switch to desktop version" data-link-responsive="Switch to responsive / mobile version"></a></p> 
+							</div></div>
+						</div> <!-- end #inner-footer -->
+
+						
+
+					</footer> <!-- end .footer -->
+				</div>  <!-- end .main-content -->
+			</div> <!-- end .off-canvas-wrapper-inner -->
+		</div> <!-- end .off-canvas-wrapper -->
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/orwellfoundation/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+
+<!-- Consent Management powered by Complianz | GDPR/CCPA Cookie Consent https://wordpress.org/plugins/complianz-gdpr -->
+<div id="cmplz-cookiebanner-container"><div id="cmplz-cookiebanner-1-optin" class="cmplz-cookiebanner cmplz-hidden banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-view-preferences" aria-modal="true" data-nosnippet="true" role="dialog" aria-live="polite" aria-labelledby="cmplz-header-1-optin" aria-describedby="cmplz-message-1-optin">
+	<div class="cmplz-header">
+		<div class="cmplz-logo"></div>
+		<div class="cmplz-title" id="cmplz-header-1-optin">Manage Consent</div>
+		<div class="cmplz-close" tabindex="0" role="button" aria-label="close-dialog">
+			<svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="times" class="svg-inline--fa fa-times fa-w-11" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 352 512" width="20" height="20"><path fill="currentColor" d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>
+		</div>
+	</div>
+
+	<div class="cmplz-divider cmplz-divider-header"></div>
+	<div class="cmplz-body">
+		<div class="cmplz-message" id="cmplz-message-1-optin"><p>Please note, this website uses technologies like cookies to store and/or access device information, for which we need your consent. Consenting will allow us to process data such as browsing behaviour or unique IDs on this site.&nbsp;</p></div>
+		<!-- categories start -->
+		<div class="cmplz-categories">
+			<div class="cmplz-category cmplz-functional">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-functional-1-optin">Functional</span>
+					<span class='cmplz-always-active'>
+						<span class="cmplz-banner-checkbox">
+							<input type="checkbox"
+									id="cmplz-functional-optin"
+									data-category="cmplz_functional"
+									class="cmplz-consent-checkbox cmplz-functional"
+									size="40"
+									value="1"/>
+							<label class="cmplz-label" for="cmplz-functional-optin"><span class="screen-reader-text">Functional</span></label>
+						</span>
+						Always active					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-functional-1-optin"
+							aria-labelledby="cmplz-title-functional-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-functional-1-optin" hidden>
+					<span class="cmplz-description-functional">The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-preferences">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-preferences-1-optin">Preferences</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-preferences-optin"
+								data-category="cmplz_preferences"
+								class="cmplz-consent-checkbox cmplz-preferences"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-preferences-optin"><span class="screen-reader-text">Preferences</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-preferences-1-optin"
+							aria-labelledby="cmplz-title-preferences-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-preferences-1-optin" hidden>
+					<span class="cmplz-description-preferences">The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-statistics">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-statistics-1-optin">Statistics</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-statistics-optin"
+								data-category="cmplz_statistics"
+								class="cmplz-consent-checkbox cmplz-statistics"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-statistics-optin"><span class="screen-reader-text">Statistics</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-statistics-1-optin"
+							aria-labelledby="cmplz-title-statistics-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-statistics-1-optin" hidden>
+					<span class="cmplz-description-statistics">The technical storage or access that is used exclusively for statistical purposes.</span>
+					<span class="cmplz-description-statistics-anonymous">The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.</span>
+				</div>
+			</div>
+
+			<div class="cmplz-category cmplz-marketing">
+				<div class="cmplz-category-header">
+					<span class="cmplz-category-title" id="cmplz-title-marketing-1-optin">Marketing</span>
+					<span class="cmplz-banner-checkbox">
+						<input type="checkbox"
+								id="cmplz-marketing-optin"
+								data-category="cmplz_marketing"
+								class="cmplz-consent-checkbox cmplz-marketing"
+								size="40"
+								value="1"/>
+						<label class="cmplz-label" for="cmplz-marketing-optin"><span class="screen-reader-text">Marketing</span></label>
+					</span>
+					<button class="cmplz-category-toggle"
+							aria-expanded="false"
+							aria-controls="cmplz-desc-marketing-1-optin"
+							aria-labelledby="cmplz-title-marketing-1-optin">
+						<span class="cmplz-icon cmplz-open">
+							<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" height="18"><path d="M224 416c-8.188 0-16.38-3.125-22.62-9.375l-192-192c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L224 338.8l169.4-169.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-192 192C240.4 412.9 232.2 416 224 416z"/></svg>
+						</span>
+					</button>
+				</div>
+				<div class="cmplz-description" id="cmplz-desc-marketing-1-optin" hidden>
+					<span class="cmplz-description-marketing">The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.</span>
+				</div>
+			</div>
+		</div><!-- categories end -->
+			</div>
+
+	<div class="cmplz-links cmplz-information">
+		<ul>
+			<li><a class="cmplz-link cmplz-manage-options cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">Manage options</a></li>
+			<li><a class="cmplz-link cmplz-manage-third-parties cookie-statement" href="#" data-relative_url="#cmplz-cookies-overview">Manage services</a></li>
+			<li><a class="cmplz-link cmplz-manage-vendors tcf cookie-statement" href="#" data-relative_url="#cmplz-tcf-wrapper">Manage {vendor_count} vendors</a></li>
+			<li><a class="cmplz-link cmplz-external cmplz-read-more-purposes tcf" target="_blank" rel="noopener noreferrer nofollow" href="https://cookiedatabase.org/tcf/purposes/" aria-label="Read more about TCF purposes on Cookie Database">Read more about these purposes</a></li>
+		</ul>
+			</div>
+
+	<div class="cmplz-divider cmplz-footer"></div>
+
+	<div class="cmplz-buttons">
+		<button class="cmplz-btn cmplz-accept">Accept</button>
+		<button class="cmplz-btn cmplz-deny">Deny</button>
+		<button class="cmplz-btn cmplz-view-preferences">View preferences</button>
+		<button class="cmplz-btn cmplz-save-preferences">Save preferences</button>
+		<a class="cmplz-btn cmplz-manage-options tcf cookie-statement" href="#" data-relative_url="#cmplz-manage-consent-container">View preferences</a>
+			</div>
+
+
+	<div class="cmplz-documents cmplz-links">
+		<ul>
+			<li><a class="cmplz-link cookie-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link privacy-statement" href="#" data-relative_url="">{title}</a></li>
+			<li><a class="cmplz-link impressum" href="#" data-relative_url="">{title}</a></li>
+		</ul>
+			</div>
+</div>
+</div>
+					<div id="cmplz-manage-consent" data-nosnippet="true"><button class="cmplz-btn cmplz-hidden cmplz-manage-consent manage-consent-1" aria-haspopup="dialog" aria-controls="cmplz-cookiebanner-1-optin">Manage consent</button>
+
+</div><script id="sticky-js-extra">
+var LMScriptParams = {"themename":"orwellfoundation","stickytarget":"","stickytargettwo":"","disableatwidth":"359"};
+//# sourceURL=sticky-js-extra
+</script>
+<script id="sticky-js" src="https://www.orwellfoundation.com/wp-content/plugins/lowermedia-sticky-js-menus/lowermedia.sticky.min.js?ver=3.1.0"></script>
+<script id="dlm-xhr-js-extra">
+var dlmXHRtranslations = {"error":"An error occurred while trying to download the file. Please try again.","not_found":"Download does not exist.","no_file_path":"No file path defined.","no_file_paths":"No file paths defined.","filetype":"Download is not allowed for this file type.","file_access_denied":"Access denied to this file.","access_denied":"Access denied. You do not have permission to download this file.","security_error":"Something is wrong with the file path.","file_not_found":"File not found."};
+//# sourceURL=dlm-xhr-js-extra
+</script>
+<script id="dlm-xhr-js-before">
+const dlmXHR = {"xhr_links":{"class":["download-link","download-button"]},"prevent_duplicates":true,"ajaxUrl":"https:\/\/www.orwellfoundation.com\/wp-admin\/admin-ajax.php","countExcluded":false}; dlmXHRinstance = {}; const dlmXHRGlobalLinks = "https://www.orwellfoundation.com/download/"; const dlmNonXHRGlobalLinks = []; dlmXHRgif = "https://www.orwellfoundation.com/wp-content/plugins/download-monitor/assets/images/dlm-spinner.svg"; const dlmXHRProgress = "1"; const dlmXHRInlineSpinner = true
+//# sourceURL=dlm-xhr-js-before
+</script>
+<script id="dlm-xhr-js" src="https://www.orwellfoundation.com/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=5.3.7"></script>
+<script id="dlm-xhr-js-after">
+document.addEventListener("dlm-xhr-modal-data", function(event) { if ("undefined" !== typeof event.detail.headers["x-dlm-tc-required"]) { event.detail.data["action"] = "dlm_terms_conditions_modal"; event.detail.data["dlm_modal_response"] = "true"; }});
+document.addEventListener("dlm-xhr-modal-data", function(event) {if ("undefined" !== typeof event.detail.headers["x-dlm-members-locked"]) {event.detail.data["action"] = "dlm_members_conditions_modal";event.detail.data["dlm_modal_response"] = "true";event.detail.data["dlm_members_form_redirect"] = "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/notes-on-nationalism/";}});
+//# sourceURL=dlm-xhr-js-after
+</script>
+<script id="what-input-js" src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/what-input/what-input.min.js?ver=7.1.4"></script>
+<script id="foundation-js-js" src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/vendor/foundation-sites/dist/foundation.min.js?ver=6.0"></script>
+<script id="site-js-js" src="https://www.orwellfoundation.com/wp-content/themes/orwellfoundation/assets/js/scripts.js?ver=7.1.4"></script>
+<script id="cmplz-cookiebanner-js-extra">
+var complianz = {"prefix":"cmplz_","debug":"","user_banner_id":"1","set_cookies":[],"block_ajax_content":"","banner_version":"27","version":"7.6.7","store_consent":"","do_not_track_enabled":"","consenttype":"optin","region":"uk","geoip":"1","dismiss_timeout":"","disable_cookiebanner":"","soft_cookiewall":"","dismiss_on_scroll":"","cookie_expiry":"365","url":"https://www.orwellfoundation.com/wp-json/complianz/v1/","locale":"lang=en&locale=en_GB","set_cookies_on_root":"","cookie_domain":"","current_policy_id":"40","cookie_path":"/","categories":{"statistics":"statistics","marketing":"marketing"},"tcf_active":"","placeholdertext":"Click to accept {category} cookies and enable this content","css_file":"https://www.orwellfoundation.com/wp-content/uploads/complianz/css/banner-1-optin.css?v=27","page_links":{"uk":{"cookie-statement":{"title":"Policies and complaints","url":"https://www.orwellfoundation.com/the-orwell-foundation/policies/"}}},"tm_categories":"","forceEnableStats":"","preview":"","clean_cookies":"","aria_label":"Click to accept {category} cookies and enable this content","iapi_nav":"fallback","is_cookiepolicy_page":""};
+//# sourceURL=cmplz-cookiebanner-js-extra
+</script>
+<script defer id="cmplz-cookiebanner-js" src="https://www.orwellfoundation.com/wp-content/plugins/complianz-gdpr-premium/cookiebanner/js/complianz.min.js?ver=1792600384"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.orwellfoundation.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://www.orwellfoundation.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+</html> <!-- end page -->
