@@ -191,4 +191,8 @@
   /* ---------- init ---------- */
   slides[0].classList.add('active');
   updateNav();
+
+  /* atalho de link direto: ?s=12 abre o slide 12 */
+  const startAt = parseInt(new URLSearchParams(window.location.search).get('s'), 10);
+  if (startAt >= 1 && startAt <= total) goTo(startAt - 1);
 })();

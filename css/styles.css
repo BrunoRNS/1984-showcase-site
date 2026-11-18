@@ -55,14 +55,14 @@ body{
 /* ---------- deck / slides ---------- */
 #deck{height:100vh;width:100vw;position:relative}
 .slide{
-  position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+  position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;
   padding:5.5rem 6vw 4rem;opacity:0;visibility:hidden;transform:translateX(6vw) scale(.985);
   transition:opacity .55s ease, transform .65s cubic-bezier(.65,.05,.25,1), visibility 0s .55s;
   overflow-y:auto;
 }
 .slide.active{opacity:1;visibility:visible;transform:none;transition:opacity .55s ease .1s, transform .65s cubic-bezier(.65,.05,.25,1) .1s;}
 .slide.exit-left{transform:translateX(-6vw) scale(.985)}
-.slide-inner{max-width:1180px;width:100%}
+.slide-inner{max-width:1180px;width:100%;margin:auto 0}
 
 /* reveal em cascata */
 .slide .kicker,.slide h1,.slide h2,.slide h3,.slide p,.slide ul,.slide blockquote,
@@ -281,7 +281,7 @@ blockquote.bigquote.center{max-width:760px;margin:2.4rem auto;text-align:center;
 .figure-portrait{max-width:330px;justify-self:end}
 .figure-portrait img{max-height:62vh;object-fit:cover;object-position:center top}
 .image-duo{display:grid;grid-template-columns:1fr 1fr;gap:1.1rem;margin:1.4rem 0 1rem}
-.image-duo .figure img{max-height:36vh;object-fit:cover}
+.image-duo .figure img{height:20vh;object-fit:cover;object-position:center top}
 .image-duo .mono{color:var(--red-soft);letter-spacing:.2em}
 
 /* texto de apoio e comparação direta */
@@ -330,3 +330,112 @@ blockquote.bigquote.center{max-width:760px;margin:2.4rem auto;text-align:center;
 .final-actions{text-align:center;margin-top:.6rem}
 .final-actions .doc-strip{display:block;text-align:center}
 .final-actions .cta{margin-left:auto;margin-right:auto}
+
+/* ============================================================
+   A FÁBRICA DO GRANDE IRMÃO — passos, casos e linhas do tempo
+   ============================================================ */
+
+/* marcador de progresso dos 7 passos */
+.step-progress{display:flex;gap:.3rem;margin-bottom:1rem}
+.step-progress i{display:block;width:26px;height:3px;background:rgba(233,228,218,.14)}
+.step-progress i.on{background:var(--red);box-shadow:0 0 10px rgba(201,64,31,.55)}
+
+/* visão geral dos 7 passos */
+.step-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:.8rem;margin:1.4rem 0 1rem}
+.step-card{background:var(--bg2);border:1px solid rgba(233,228,218,.1);border-top:2px solid var(--red);
+  padding:1rem;transition:.25s}
+.step-card:hover{transform:translateY(-4px);border-color:var(--red);box-shadow:0 16px 36px rgba(0,0,0,.45)}
+.step-card .n{display:block;font-family:var(--mono);font-size:.62rem;letter-spacing:.26em;color:var(--red-soft);margin-bottom:.45rem}
+.step-card h3{font-family:var(--serif);font-size:.98rem;letter-spacing:0;color:var(--paper);margin-bottom:.4rem}
+.step-card p{font-size:.79rem;line-height:1.5;color:var(--dim);margin:0}
+
+/* três casos da crise */
+.case-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:.9rem;margin:1.1rem 0}
+.case{background:var(--bg2);border:1px solid rgba(233,228,218,.1);border-top:2px solid var(--teal);padding:1rem}
+.case .yrs{display:block;font-family:var(--mono);font-size:.6rem;letter-spacing:.2em;color:var(--teal);margin-bottom:.45rem}
+.case h3{font-family:var(--serif);font-size:1rem;letter-spacing:0;color:var(--paper);margin-bottom:.5rem}
+.case p{font-size:.82rem;line-height:1.55;color:var(--dim);margin:0}
+
+/* lista de mecanismos */
+ul.mechs{list-style:none;margin:1rem 0;display:grid;grid-template-columns:1fr 1fr;gap:.55rem 1.4rem}
+ul.mechs li{position:relative;padding-left:1.1rem;font-size:.88rem;line-height:1.5;color:var(--dim)}
+ul.mechs li::before{content:"▪";position:absolute;left:0;color:var(--red)}
+ul.mechs b{color:var(--paper);font-weight:400}
+
+/* trinca de retratos */
+.portrait-trio{display:grid;grid-template-columns:repeat(3,1fr);gap:.7rem;margin:0}
+.portrait-trio figure{margin:0}
+.portrait-trio img{width:100%;height:200px;object-fit:cover;object-position:center top;
+  filter:grayscale(.5) contrast(1.08);border:1px solid rgba(233,228,218,.16);background:var(--bg2)}
+.portrait-trio figcaption{font-family:var(--mono);font-size:.58rem;line-height:1.45;letter-spacing:.04em;color:var(--dim);padding-top:.4rem}
+.portrait-trio .role{display:block;color:var(--red-soft);letter-spacing:.2em;font-size:.6rem;margin-bottom:.15rem}
+
+/* caixa de lição e bloco "no livro" */
+.takeaway{border-left:3px solid var(--red);background:rgba(201,64,31,.07);padding:.85rem 1.05rem;margin:1.1rem 0 0;font-size:.92rem;line-height:1.6}
+.takeaway .lbl{display:block;font-family:var(--mono);font-size:.58rem;letter-spacing:.26em;color:var(--red-soft);margin-bottom:.35rem}
+.takeaway p{margin:0}
+.book-note{border-left:3px solid var(--red);background:rgba(201,64,31,.05);padding:.85rem 1.05rem;margin:1rem 0}
+.book-note .tag-book{display:inline-block;font-family:var(--mono);font-size:.6rem;letter-spacing:.24em;color:var(--red-soft)}
+.book-note p{margin:.3rem 0 0;font-size:.9rem;line-height:1.6;color:var(--ink)}
+
+/* linha do tempo vertical */
+ul.tl{list-style:none;margin:1rem 0;padding-left:1.1rem;position:relative}
+ul.tl::before{content:"";position:absolute;left:4px;top:.4rem;bottom:.5rem;width:1px;background:rgba(233,228,218,.18)}
+ul.tl li{position:relative;padding:0 0 .68rem 1rem;font-size:.86rem;line-height:1.5;color:var(--dim)}
+ul.tl li::before{content:"";position:absolute;left:-1.1rem;top:.42rem;width:7px;height:7px;border-radius:50%;
+  background:var(--red);transform:translateX(1px)}
+ul.tl .yr{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;color:var(--red-soft);margin-right:.35rem;white-space:nowrap}
+ul.tl b{color:var(--paper);font-weight:400}
+
+/* tabela cronológica comparada */
+.tl-table{width:100%;border-collapse:collapse;font-size:.79rem;margin:.9rem 0 0}
+.tl-table th{font-family:var(--mono);font-size:.6rem;letter-spacing:.16em;color:var(--red-soft);
+  border-bottom:1px solid var(--red);padding:.4rem .5rem;text-align:left;font-weight:400}
+.tl-table td{border-bottom:1px solid rgba(233,228,218,.08);padding:.45rem .5rem;vertical-align:top;line-height:1.45;color:var(--dim)}
+.tl-table td:first-child{font-family:var(--mono);color:var(--teal);white-space:nowrap;font-size:.72rem}
+.tl-table td b{color:var(--paper);font-weight:400}
+.tl-table tr:hover td{background:rgba(233,228,218,.03)}
+
+/* retrato + linha do tempo de cada regime */
+.regime-grid{display:grid;grid-template-columns:.7fr 1.3fr;gap:2.4rem;align-items:start}
+.regime-grid .figure-portrait{justify-self:start}
+.regime-grid ul.tl{margin-top:0}
+.regime-grid .book-note{margin-bottom:0}
+
+/* revelação em cascata dos novos blocos */
+.slide .step-progress,.slide .step-card,.slide .case,.slide .takeaway,.slide .book-note,
+.slide ul.tl,.slide .tl-table,.slide .portrait-trio,.slide ul.mechs{opacity:0;transform:translateY(18px)}
+.slide.active .step-progress{animation:reveal .5s ease .1s forwards}
+.slide.active .step-card{animation:reveal .5s ease forwards}
+.slide.active .step-card:nth-child(2){animation-delay:.1s}
+.slide.active .step-card:nth-child(3){animation-delay:.18s}
+.slide.active .step-card:nth-child(4){animation-delay:.26s}
+.slide.active .step-card:nth-child(5){animation-delay:.34s}
+.slide.active .step-card:nth-child(6){animation-delay:.42s}
+.slide.active .step-card:nth-child(7){animation-delay:.5s}
+.slide.active .case{animation:reveal .55s ease forwards}
+.slide.active .case:nth-child(1){animation-delay:.25s}
+.slide.active .case:nth-child(2){animation-delay:.36s}
+.slide.active .case:nth-child(3){animation-delay:.47s}
+.slide.active ul.mechs{animation:reveal .6s ease .5s forwards}
+.slide.active .portrait-trio{animation:reveal .7s ease .55s forwards}
+.slide.active ul.tl{animation:reveal .7s ease .45s forwards}
+.slide.active .tl-table{animation:reveal .7s ease .4s forwards}
+.slide.active .book-note{animation:reveal .6s ease .65s forwards}
+.slide.active .takeaway{animation:reveal .6s ease .8s forwards}
+
+@media (max-width:1100px){
+  .step-grid{grid-template-columns:repeat(2,1fr)}
+  ul.mechs{grid-template-columns:1fr}
+}
+@media (max-width:980px){
+  .case-grid{grid-template-columns:1fr}
+  .regime-grid{grid-template-columns:1fr;gap:1.5rem}
+  .portrait-trio img{height:170px}
+  .step-grid{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:640px){
+  .step-grid{grid-template-columns:1fr}
+  .tl-table{font-size:.72rem}
+  .portrait-trio img{height:150px}
+}
