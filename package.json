@@ -1,7 +1,7 @@
 {
-  "name": "a-fabrica-do-passado",
+  "name": "o-que-orwell-viu",
   "version": "1.0.0",
-  "description": "Site-documentário interativo: 1984 de Orwell e o contexto histórico real (Revolução Russa, stalinismo, nazifascismo, Maquiavel, pós-Stalin).",
+  "description": "Apresentação interativa sobre 1984, de George Orwell, e os fatos reais que o autor viu acontecer.",
   "private": true,
   "scripts": {
     "start": "http-server . -p 8001 -a 127.0.0.1 -c-1 --silent",

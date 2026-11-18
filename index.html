@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>1984 — A Fábrica do Passado | Orwell e o Século XX</title>
-<meta name="description" content="Apresentação interativa: a relação entre '1984' de George Orwell e a história real — Revolução Russa, stalinismo, nazifascismo, Maquiavel e a filosofia do totalitarismo.">
+<title>1984 — O que Orwell viu | Livro e história real</title>
+<meta name="description" content="Apresentação sobre 1984, de George Orwell, e os fatos reais que aconteceram durante a vida do autor: stalinismo, nazismo, Grande Terror, propaganda e guerra.">
 <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -15,9 +15,9 @@
 
 <header id="topbar" role="banner">
   <button id="menuBtn" aria-label="Abrir índice">☰</button>
-  <div id="deckTitle" class="mono">A FÁBRICA DO PASSADO</div>
+  <div id="deckTitle" class="mono">O QUE ORWELL VIU</div>
   <div class="topbar-right mono">
-    <span id="slideCounter">01 / 16</span>
+    <span id="slideCounter">01 / 12</span>
     <button id="homeBtn" title="Voltar ao início" aria-label="Voltar ao início">INÍCIO</button>
   </div>
   <div id="progress"><div id="progressFill"></div></div>
@@ -25,7 +25,7 @@
 
 <nav id="menuOverlay" aria-hidden="true">
   <button id="menuClose" aria-label="Fechar índice">✕</button>
-  <h2>ÍNDICE DA APRESENTAÇÃO</h2>
+  <h2>ÍNDICE</h2>
   <ol id="menuList"></ol>
 </nav>
 
@@ -36,314 +36,265 @@
   </div>
 </div>
 
+<button id="prevBtn" class="nav-btn nav-prev" aria-label="Slide anterior">
+  <span class="nav-arrow">←</span><span class="nav-label">ANTERIOR</span>
+</button>
+<button id="nextBtn" class="nav-btn nav-next" aria-label="Próximo slide">
+  <span class="nav-label">PRÓXIMO</span><span class="nav-arrow">→</span>
+</button>
+
 <main id="deck">
 
   <!-- 01 — ABERTURA -->
   <section class="slide" data-title="Abertura" data-theme="dark">
-    <div class="slide-inner">
-      <p class="kicker mono">Documentário interativo · História ↔ Literatura</p>
-      <h1 class="display typewriter" data-text="A FÁBRICA DO PASSADO">A FÁBRICA DO PASSADO</h1>
-      <p class="subtitle">Como <em>1984</em>, de George Orwell, converteu o século XX — Lênin, Stalin, Mussolini, Hitler, Teerã e Molotov-Ribbentrop — em um sistema literário de controle.</p>
-      <blockquote class="bigquote">«Cada linha de trabalho sério que escrevi desde 1936 foi escrita, direta ou indiretamente, <strong>contra o totalitarismo</strong>.»<cite>— George Orwell, <span class="mono">"Por Que Escrevo" (1946)</span> — <button class="doclink" data-page="html/fontes.html#orwell-por-que-escrevo-1946">ensaio completo em fontes/</button></cite></blockquote>
-      <div class="hint mono">← → setas, clique ou scroll para avançar · espaço para avançar · ESC abre o índice</div>
-      <button class="cta" data-next>COMEÇAR O PERCURSO →</button>
+    <div class="slide-inner hero-grid">
+      <div>
+        <p class="kicker mono">1984 × História real</p>
+        <h1 class="display typewriter" data-text="O QUE ORWELL VIU">O QUE ORWELL VIU</h1>
+        <p class="subtitle">George Orwell viveu entre 1903 e 1950. Ele viu o stalinismo, o nazismo e a Segunda Guerra — e usou tudo isso para escrever <em>1984</em>.</p>
+        <blockquote class="bigquote">«Cada linha de trabalho sério que escrevi desde 1936 foi escrita, direta ou indiretamente, <strong>contra o totalitarismo</strong>.»<cite>George Orwell, “Por Que Escrevo” (1946)</cite></blockquote>
+        <p class="hint mono">Use os botões nos cantos inferiores da tela para avançar e voltar.</p>
+        <button class="cta" data-next>COMEÇAR →</button>
+      </div>
+      <figure class="figure figure-portrait">
+        <img src="assets/orwell.jpg" alt="Retrato de George Orwell">
+        <figcaption>George Orwell (1903–1950). Foto de divulgação, domínio público.</figcaption>
+      </figure>
     </div>
   </section>
 
-  <!-- 02 — O AUTOR: BIOGRAFIA OPERATIVA -->
-  <section class="slide" data-title="Eric Blair em campo" data-theme="dark">
+  <!-- 02 — QUEM FOI ORWELL -->
+  <section class="slide" data-title="Quem foi Orwell" data-theme="dark">
     <div class="slide-inner two-col">
       <div>
-        <p class="kicker mono">Ato I · o observador</p>
-        <h2>Eric Blair em campo: de Burma à POUM</h2>
-        <p>Orwell não escreveu <em>1984</em> no escritório do terror: escreveu-o como <strong>veterano dos aparatos que o livro denuncia</strong>. Três biografias materiais alimentam o romance:</p>
+        <p class="kicker mono">O autor</p>
+        <h2>Um escritor que viu o totalitarismo de perto</h2>
         <ul class="facts">
-          <li><strong>Policia Imperial Indiana (1922–1927)</strong> — em <em>Burmese Days</em> e no ensaio "Enforcando um Elefante", descreve o homem que serve um sistema por vergonha social, não por convicção: a matéria-prima de Winston Smith, o funcionário que obedece.</li>
-          <li><strong>Ministério da Informação britânico (1941–1943)</strong> — Orwell trabalhou na BBC, no bloco <strong>Senate House</strong> (o prédio mais alto de Londres na época). O <em>Ministério da Verdade</em> é a cópia arquitetônica invertida: 300 m de altura, trezentos cômodos por andar, fachada com três lemas. Ele próprio escreveu na carta de 1948 que o Ministério era "em parte o Senate House" <span class="src-tag mono" data-note="Smithsonian / D. J. Taylor, Ministry of Truth (2023)">[TAYLOR 2023]</span>.</li>
-          <li><strong>POUM, Barcelona, 1936–37</strong> — ferido no pescoço, Orwell testemunha o estalinista GPU perseguir o próprio aliado: <em>Homenagem à Catalunha</em> registra que "a história será escrita pelos vencedores", sentença que o <em>Ministério da Verdade</em> industrializa.</li>
+          <li><strong>1922–1927:</strong> foi policial colonial na Birmânia (atual Mianmar) e viu como um império trata os dominados.</li>
+          <li><strong>1936–1937:</strong> lutou na Guerra Civil Espanhola. Aliados foram presos e a história foi reescrita diante dele.</li>
+          <li><strong>1941–1943:</strong> trabalhou no Ministério da Informação britânico, que fazia propaganda de guerra.</li>
+          <li><strong>1946–1948:</strong> escreveu <em>1984</em>, publicado em 1949, poucos meses antes de morrer.</li>
         </ul>
+        <blockquote class="bigquote">«Vi a história ser reescrita não uma, mas várias vezes.»<cite>Orwell, “Repensando a Guerra da Espanha” (1942)</cite></blockquote>
       </div>
-      <aside class="panel">
-        <h3 class="mono">DOCUMENTO-GUIA</h3>
-        <p class="panel-quote">«Vi com meus próprios olhos feitos sensacionais que <em>nunca aconteceram</em>. Vi, na verdade, a história sendo reescrita não uma, mas várias vezes, e o aceito das versões divergentes divulgadas por instituições responsáveis.»</p>
-        <p class="panel-src mono">Orwell, "Repensando a Guerra da Espanha" (1942) — <button class="doclink" data-page="html/fontes.html#orwell-repensando-a-guerra-civil-espanhola-1942">texto completo em fontes/</button></p>
-        <p class="panel-note">Este ensaio é o <em>esqueleto</em> do Ministério da Verdade: a confirmação de que a falsificação da história não era metáfora — era procedimento.</p>
-      </aside>
+      <figure class="figure">
+        <img src="assets/orwell-espanha.jpg" alt="Orwell e membros da milícia republicana na frente de Aragão, em 1937">
+        <figcaption>Orwell e membros das milícias republicanas na Guerra Civil Espanhola, 1937. Foto de domínio público.</figcaption>
+      </figure>
     </div>
   </section>
 
-  <!-- 03 — ZAMYATIN E A GENEALOGIA LITERÁRIA -->
-  <section class="slide" data-title="Nós (1924)" data-theme="dark">
-    <div class="slide-inner two-col">
-      <div>
-        <p class="kicker mono">Ato I · a genealogia</p>
-        <h2>Não nasceu de Stalin — nasceu de Zamyatin</h2>
-        <p>Em janeiro de 1944, o professor Gleb Struve entrega a Orwell a tradução de <em>Nós</em> (1924), de Yevgeni Zamyatin, banido na URSS em 1929. Orwell escreve a resenha e declara que usará o romance como <strong>modelo</strong> para o seu próximo livro. Em 1948, confirma por carta ter "pensado no livro pela primeira vez em 1943" — e atribui ao romance <em>Nós</em> a "experiência literária crucial" <span class="src-tag mono">[ORWELL 1946 · CLARENCE BROWN 1993 · ALEX SHANE]</span>.</p>
-        <p>A dívida é estrutural: o <em>Estado Único</em> de Zamyatin já contém o <strong>Bem-Feitor</strong> (Grande Irmão), o <strong>Tablet</strong> (telascreen), o <strong>número D-503</strong> (Winston), o <strong>M-112</strong> (Ingsoc), o <strong>Boi-Feitor</strong> (Big Brother), a <strong>Operação Benefactor</strong> (Reconciliação).</p>
-      </div>
-      <aside class="panel">
-        <h3 class="mono">FONTE PRIMÁRIA — ORWELL SOBRE ZAMYATIN</h3>
-        <p class="panel-quote">«[Zamyatin] parece, a um leitor britânico, um produto do <em>espírito irlandês</em>, tais são a natureza impulsiva e a abnegação de todos os convencionalismos.»</p>
-        <p class="panel-src mono">Orwell, resenha de <em>We</em>, Tribune (4 jan. 1946) — <button class="doclink" data-page="html/fontes.html#orwell-resenha-we-zamyatin-1946">texto em fontes/</button></p>
-        <p class="panel-note">Robert Russell, em <em>Zamiatin's We</em>, conclui: «o livro de Orwell é mais sombrio, esquemático e temático que o de Zamyatin». O que Orwell <em>acrescenta</em> a Zamyatin é exatamente o que vem da história real: a burocracia, o arquivo, o pacto, a guerra.</p>
-      </aside>
-    </div>
-  </section>
-
-  <!-- 04 — MAPA-MÚNDI 1984 -->
-  <section class="slide" data-title="O mapa de 1984" data-theme="map" id="mapSlide">
+  <!-- 03 — O MAPA -->
+  <section class="slide" data-title="O mundo de 1984" data-theme="map" id="mapSlide">
     <div class="slide-inner map-slide">
-      <p class="kicker mono">Ato I · a geografia do medo</p>
-      <h2>Três superestados: a Teerã de 1943, petrificada</h2>
-      <div class="map-wrap">
-        <img id="worldMap" src="WORLD_MAP_1984_EURASIA_LESTASIA_WAR_OCEANIA.png" alt="Mapa-múndi de 1984: Oceânia, Eurásia e Lestásia em guerra permanente">
-        <button class="hotspot" style="left:22%; top:55%" data-hot="oceania" aria-label="Oceânia"><span></span></button>
-        <button class="hotspot" style="left:55%; top:30%" data-hot="eurasia" aria-label="Eurásia"><span></span></button>
-        <button class="hotspot" style="left:82%; top:45%" data-hot="lestasia" aria-label="Lestásia"><span></span></button>
-        <div id="hotspotCard" class="hotspot-card" hidden></div>
-      </div>
-      <p class="map-note">Orwell, em carta de 1948: «O que [o livro] pretende é discutir as implicações de dividir o mundo em <strong>Zonas de Influência</strong> — pensei nisso em 1944, como resultado da <strong>Conferência de Teerã</strong>». Em maio de 1945, ele viajou pela Áustria e viu nas manobras militares o desenho futuro das zonas de ocupação soviética e aliada — as fronteiras congeladas que Oceânia, Eurásia e Lestásia eternizam. A guerra permanente dos três superestados é a <em>Segunda Guerra Mundial esticada no tempo</em>: nenhum inimigo é conquistável, porque nenhum é real.</p>
-      <div class="doc-strip mono">
-        <button class="doclink" data-page="html/fontes.html#conf-conferencia-de-teeran-1943">▸ Declaração das Três Potências (Teerã, 1943) — texto baixado</button>
-        <button class="doclink" data-page="html/fontes.html#urss-alemanha-pacto-molotov-ribbentrop-1939">▸ Pacto Molotov-Ribbentrop (1939) — protocolo secreto de divisão da Europa</button>
+      <p class="kicker mono">O mundo do livro</p>
+      <h2>Três blocos em guerra para sempre</h2>
+      <div class="map-grid">
+        <div class="map-wrap">
+          <img id="worldMap" src="WORLD_MAP_1984_EURASIA_LESTASIA_WAR_OCEANIA.png" alt="Mapa-múndi de 1984: Oceânia, Eurásia e Lestásia em guerra permanente">
+          <button class="hotspot" style="left:22%; top:55%" data-hot="oceania" aria-label="Oceânia"><span></span></button>
+          <button class="hotspot" style="left:55%; top:30%" data-hot="eurasia" aria-label="Eurásia"><span></span></button>
+          <button class="hotspot" style="left:82%; top:45%" data-hot="lestasia" aria-label="Lestásia"><span></span></button>
+          <div id="hotspotCard" class="hotspot-card" hidden></div>
+        </div>
+        <div class="map-copy">
+          <p class="lead">Em <em>1984</em>, o mundo está dividido em três superestados: <strong>Oceânia</strong>, <strong>Eurásia</strong> e <strong>Lestásia</strong>. Eles vivem em guerra permanente — não para vencer, mas para manter a população com medo e ocupada.</p>
+          <div class="real-note">
+            <span class="tag-real mono">NA VIDA REAL</span>
+            <p>Orwell se inspirou na <strong>Conferência de Teerã (1943)</strong>, em que os aliados começaram a dividir o mundo em zonas de influência. Também pensou no <strong>Pacto Molotov-Ribbentrop (1939)</strong>, quando inimigos viraram aliados da noite para o dia.</p>
+          </div>
+          <blockquote class="bigquote">«O livro pretende discutir as implicações de dividir o mundo em <strong>zonas de influência</strong>.»<cite>Orwell, carta de 1948</cite></blockquote>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- 05 — REVOLUÇÃO RUSSA -->
-  <section class="slide" data-title="A Revolução Russa" data-theme="dark">
-    <div class="slide-inner two-col">
-      <div>
-        <p class="kicker mono">Ato II · leninismo</p>
-        <h2>1917: a revolução que se refaz sem fim</h2>
-        <p><em>1984</em> afirma que a revolta de Winston nunca existiu; a URSS afirma que a Revolução de 1905 e a de 1917 são a mesma história contínua. Em ambos os casos, <strong>o passado é legislável</strong>. Na prática leninista:</p>
-        <ul class="facts">
-          <li><strong>Cheka (1917)</strong> — a polícia política nasce antes do Exército: 4 dias após o golpe, o Sovnarkom cria o aparato que depois se chama GPU, OGPU, NKVD, MGB, KGB. A série de siglas é o protótipo real da "Polícia do Pensamento".</li>
-          <li><strong>Agitprop e janelas ROSTA (1918–1921)</strong> — o Estado revolucionário inventa a <em>propaganda de memória</em>: cartazes que recontam a guerra civil em tempo real, apagando derrotas. Orwell viu esta maquinaria de perto em Barcelona.</li>
-          <li><strong>NEP (1921)</strong> — a reviravolta que não é admitida como reviravolta: Lênin legaliza o mercado e o chama de "recuo tático". A linguagem que descreve o próprio passado como invariável já está inventada.</li>
-        </ul>
-      </div>
-      <aside class="panel">
-        <h3 class="mono">TEXTO-BASE</h3>
-        <p class="panel-quote">«A burocracia não é apenas um aparato; é um novo <em>grupo social</em>, que já coletou seus privilégios e precisa defendê-los. A revolução foi traída não pelo inimigo, mas pelo próprio Estado operário.»</p>
-        <p class="panel-src mono">Trotsky, <em>A Revolução Traída</em> (1936), cap. IX — <button class="doclink" data-page="html/fontes.html#urss-trotsky-a-revolucao-traida-1936">texto em fontes/</button></p>
-        <p class="panel-note">Este é o texto que Orwell leu como <strong>Goldstein</strong>: <em>Teoria e Prática do Coletivismo Oligárquico</em> no romance é, quase literalmente, a biblioteca proibida de Trotsky. O manual de Emmanuel Goldstein usa a mesma lógica de inimigo-oficial que o regime real precisava de Trotsky para exercer.</p>
-      </aside>
-    </div>
-  </section>
-
-  <!-- 06 — STALINISMO: GRANDE IRMÃO -->
+  <!-- 04 — GRANDE IRMÃO -->
   <section class="slide" data-title="Grande Irmão = Stalin" data-theme="dark">
     <div class="slide-inner two-col">
       <div>
-        <p class="kicker mono">Ato III · stalinismo</p>
-        <h2>Grande Irmão não é uma metáfora: é uma fotografia</h2>
-        <p>O rosto de 45 anos que emana "calma poderosa" e "protege" os cidadãos é a transposição do <strong>culto à personalidade stalinista</strong>. Em 1933, o pintor Alexander Gerasimov é premiado por retratar Stalin sorrindo com Maxim Gorky; em 1936, a <strong>Constituição stalinista</strong> declara no art. 125 que "a liberdade de imprensa... é garantida aos cidadãos" — enquanto os redatores dissidentes são processados. A promessa e o terror coexistem no mesmo documento, como o lema <strong>Guerra é Paz</strong> coexiste com a televigilância.</p>
-        <p>Khrushchev confirma em 1956:</p>
-        <blockquote class="bigquote">«Foi <em>impermissível e estranho ao espírito do marxismo-leninismo</em> elevar uma pessoa e transformá-la em um ser sobrenatural dotado de qualidades sobre-humanas.»<cite>— Relatório Secreto do XX Congresso (1956) — <button class="doclink" data-page="html/fontes.html#urss-khrushchev-relatorio-secreto-1956">documento baixado em fontes/</button></cite></blockquote>
+        <p class="kicker mono">Livro ↔ História</p>
+        <h2>O Grande Irmão se parece com Stalin</h2>
+        <blockquote class="bigquote">«O Grande Irmão está vigiando você.»<cite><em>1984</em>, parte 1, capítulo 1</cite></blockquote>
+        <p>No livro, o Grande Irmão é o líder que tudo vê e que nunca erra. Na URSS, Stalin construiu uma imagem parecida: retratos em prédios, jornais e desfiles, sempre como o “guia infalível” do povo.</p>
+        <div class="pair">
+          <div class="pair-col"><span class="pair-label mono">NO LIVRO</span><p>Um rosto onipresente, protegido por um culto ao líder.</p></div>
+          <div class="pair-col"><span class="pair-label mono">NA VIDA REAL</span><p>Stalin e Hitler usaram retratos, rádio e comícios para criar líderes “acima de todos”.</p></div>
+        </div>
+        <p class="small mono">Fontes: propaganda stalinista dos anos 1930; Constituição soviética de 1936.</p>
       </div>
-      <aside class="panel">
-        <h3 class="mono">PARALELO DOCUMENTAL</h3>
-        <p class="panel-quote">«Crimenoso: o próprio Stalin agiu <em>não por meio de persuasão, mas por meio de imposição</em>; não por meio de um longo trabalho político, mas por meio de uma imposição burocrática de sua vontade.»</p>
-        <p class="panel-src mono">Khrushchev, Relatório Secreto (1956), versão portuguesa — <button class="doclink" data-page="html/fontes.html#urss-khrushchev-relatorio-secreto-1956-pt">texto em fontes/</button></p>
-        <p class="panel-note">Orwell, escrevendo em 1948, não podia ler o Relatório Secreto — mas o descreve com precisão: "a justiça" de O'Brien quando informa Winston que "o delito é o pensamento" é literalmente o tribunal sumário instituído pelo <strong>Decreto Kirov de 1º/12/1934</strong>: sem advogado, sem recurso, sentença em dez dias <span class="src-tag mono">[SOVIET LAWS, arquivada]</span>.</p>
-      </aside>
+      <figure class="figure figure-portrait">
+        <img src="assets/stalin.jpg" alt="Retrato oficial de Josef Stalin">
+        <figcaption>Retrato oficial de Josef Stalin. Domínio público.</figcaption>
+      </figure>
     </div>
   </section>
 
-  <!-- 07 — O COMISSÁRIO DESAPARECE -->
-  <section class="slide" data-title="O Comissário Desaparece" data-theme="dark">
+  <!-- 05 — GOLDSTEIN -->
+  <section class="slide" data-title="Goldstein = Trotsky" data-theme="dark">
     <div class="slide-inner two-col">
       <div>
-        <p class="kicker mono">Ato III · o arquivo do vazio</p>
-        <h2>Winston Smith é um fotógrafo soviético</h2>
-        <p>Orwell inventa a Recolha de Dispersão (Records Department) antes de conhecer a documentação soviética que hoje existe. David King, em <em>O Comissário Desaparece</em> (1997), reuniu as fotos reais:</p>
+        <p class="kicker mono">Livro ↔ História</p>
+        <h2>Goldstein é o inimigo que precisa existir</h2>
+        <blockquote class="bigquote">Em <em>1984</em>, Emmanuel Goldstein é o inimigo público nº 1. Toda falha do Partido é culpa dele.</blockquote>
+        <p>Na URSS, esse papel foi dado a <strong>Leon Trotsky</strong>. Ele havia sido aliado de Lênin, mas perdeu a disputa para Stalin, foi expulso do Partido em 1927 e exilado em 1929.</p>
+        <p>Em 1940, Trotsky foi assassinado no México por um agente soviético. Depois disso, foi apagado de fotos, livros e da história oficial.</p>
+        <div class="pair">
+          <div class="pair-col"><span class="pair-label mono">NO LIVRO</span><p>Goldstein é culpado de tudo e autor de um livro proibido.</p></div>
+          <div class="pair-col"><span class="pair-label mono">NA VIDA REAL</span><p>Trotsky virou o “traidor” oficial e foi eliminado da memória pública.</p></div>
+        </div>
+      </div>
+      <figure class="figure figure-portrait">
+        <img src="assets/trotsky.jpg" alt="Retrato de Leon Trotsky">
+        <figcaption>Leon Trotsky, 1921. Domínio público.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- 06 — MINISTÉRIO DA VERDADE -->
+  <section class="slide" data-title="Ministério da Verdade" data-theme="dark">
+    <div class="slide-inner">
+      <p class="kicker mono">Livro ↔ História</p>
+      <h2>Winston muda o passado. A URSS fazia igual.</h2>
+      <div class="split-head">
+        <blockquote class="bigquote">«Quem controla o passado controla o futuro; quem controla o presente controla o passado.»<cite><em>1984</em>, parte 1, capítulo 3</cite></blockquote>
+        <p class="lead">O trabalho de Winston é <strong>reescrever jornais e fotos</strong> para que o Partido pareça sempre certo. Na URSS, censores faziam o mesmo com fotos e livros: inimigos do regime eram apagados das imagens.</p>
+      </div>
+      <div class="image-duo">
+        <figure class="figure">
+          <img src="assets/yezhov-antes.jpg" alt="Foto original com Stalin, Molotov e Nikolai Yezhov">
+          <figcaption><span class="mono">ANTES</span> — Stalin, Molotov e Nikolai Yezhov no canal Volga-Don.</figcaption>
+        </figure>
+        <figure class="figure">
+          <img src="assets/yezhov-depois.jpg" alt="Foto editada, com Yezhov apagado">
+          <figcaption><span class="mono">DEPOIS</span> — Yezhov foi apagado depois de cair em desgraça, em 1940.</figcaption>
+        </figure>
+      </div>
+      <p class="small mono">Fonte: David King, <em>O Comissário Desaparece</em> (1997). Imagens de domínio público.</p>
+    </div>
+  </section>
+
+  <!-- 07 — POLÍCIA DO PENSAMENTO -->
+  <section class="slide" data-title="Polícia do Pensamento" data-theme="dark">
+    <div class="slide-inner two-col">
+      <div>
+        <p class="kicker mono">Livro ↔ História</p>
+        <h2>Vigiar, denunciar, desaparecer</h2>
+        <blockquote class="bigquote">«O crime é o pensamento.»<cite>O’Brien, em <em>1984</em></cite></blockquote>
+        <p>No livro, a Polícia do Pensamento prende quem pensa diferente. Na URSS, a <strong>NKVD</strong> fazia esse papel durante o <strong>Grande Terror</strong> (1936–1938).</p>
         <ul class="facts">
-          <li><strong>Yezhov, desaparecido da foto ao lado de Stalin (1940)</strong> — apagado com aerógrafo depois de ser Comissário do Povo da Segurança do Estado e dirigir o Grande Terror. A foto editada sobreviveu; o original também. Só Winston Smith não pode guardar o original.</li>
-          <li><strong>Lista de Yezhov de 28/07/1937, 138 nomes</strong> enviada a Stalin — o próprio documento que ordenava o desaparecimento <span class="src-tag mono">[KING 1997; The Photographers' Gallery]</span>.</li>
-          <li><strong>Vinnitsa (1937–38)</strong> — exumação de 1943 sob ocupação alemã: corpos de vítimas da NKVD, tornados "vítimas do nazismo" pela narrativa oficial — inversão idêntica ao anúncio do romance de que Oceânia "sempre" esteve em guerra contra o inimigo real.</li>
+          <li>Vizinhos e até familiares denunciavam uns aos outros.</li>
+          <li>Muitos eram presos sem julgamento justo e enviados para campos de trabalho.</li>
+          <li>Quem caía em desgraça virava um “não-existente”: seu nome era apagado dos registros.</li>
+          <li>Rádios e alto-falantes controlados pelo Estado lembravam o <em>telescreen</em> do livro.</li>
         </ul>
+        <p class="small mono">Fonte: Decreto Kirov (1934); registros do NKVD (1937–38).</p>
       </div>
       <aside class="panel">
-        <h3 class="mono">FONTE — O MÉTODO</h3>
-        <p class="panel-quote">«No 1984, o trabalho de Winston Smith é <em>falsificar registros passados</em> para que o Partido pareça sempre estar certo.»</p>
-        <p class="panel-src mono">Síntese documental — David King, cap. 1 de <em>The Commissar Vanishes</em> (1997) — <button class="doclink" data-page="html/fontes.html#teoria-king-o-comissario-desaparece-1997-cap1">texto em fontes/</button></p>
-        <p class="panel-note">A <em>Não-EXISTÊNCIA</em> ("unperson", no romance) é a palavra técnica soviética <em>né súschchestvovat</em> — "não existir" — usada nos relatórios do NKVD sobre expurgados. O vocabulário é anterior ao livro.</p>
+        <h3 class="mono">NÚMEROS DA ÉPOCA</h3>
+        <p class="stat">681.692</p>
+        <p class="stat-label">execuções registradas pelo NKVD entre 1937 e 1938, segundo o historiador Robert Conquest.</p>
+        <p class="panel-note">O medo não vinha só da polícia: vinha de não saber em quem confiar.</p>
       </aside>
     </div>
   </section>
 
-  <!-- 08 — A NOVILÍNGUA -->
-  <section class="slide" data-title="A Novilíngua" data-theme="dark">
+  <!-- 08 — NOVILÍNGUA -->
+  <section class="slide" data-title="Novilíngua" data-theme="dark">
     <div class="slide-inner two-col">
       <div>
-        <p class="kicker mono">Ato IV · a máquina de sentido</p>
-        <h2>A Novilíngua é linguística real, não fantasia</h2>
-        <p>Orwell formulou a teoria da linguagem do totalitarismo <strong>antes</strong> do romance, no ensaio <em>Política e a Língua Inglesa</em> (1946):</p>
-        <blockquote class="bigquote">«A linguagem política <em>é desenhada para fazer mentiras soar verdadeiras e assassinato soar respeitável</em>, e para dar aparência de solidez ao puramente irreal.»<cite>— "Politics and the English Language" (1946) — <button class="doclink" data-page="html/fontes.html#orwell-politica-e-linguagem-1946">texto em fontes/</button></cite></blockquote>
-        <p>Os exemplos reais de 1946 já estavam no ar: "evacuação", "eliminação", "limpeza étnica" ("Säuberung"), "medidas de suporte à paz" ("Sicherheitsmaßnahmen"). O totalitarismo não mente por exagero: mente por <em>eufemismo administrativo</em>.</p>
+        <p class="kicker mono">Livro ↔ História</p>
+        <h2>Mudar as palavras para mudar o pensamento</h2>
+        <blockquote class="bigquote">«A linguagem política é feita para fazer mentiras parecerem verdade e assassinato parecer respeitável.»<cite>Orwell, “Política e a Língua Inglesa” (1946)</cite></blockquote>
+        <p>No livro, a <strong>Novilíngua</strong> reduz o vocabulário para que certas ideias não possam nem ser pensadas. Na vida real, regimes usavam <strong>eufemismos</strong> para esconder crimes.</p>
       </div>
       <aside class="panel">
-        <h3 class="mono">VOCABULÁRIO CRUZADO — ROMANCE ↔ ARQUIVO</h3>
+        <h3 class="mono">PALAVRA BONITA → O QUE ESCONDIA</h3>
         <table class="cross-table">
-          <tr><th>1984</th><th>Documento histórico</th></tr>
-          <tr><td>duplipensar</td><td>"dupla lealdade" das denúncias ao NKVD — denunciar o vizinho e escrever no relatório que a denúncia era "prova de amor ao povo"</td></tr>
-          <tr><td>desmentir</td><td>apagamento de Yezhov e de Bukharin da foto e dos textos do <em>Curso Curto</em> do PCUS (1938) <span class="src-tag mono">[HISTÓRIA DO PCUS 1938]</span></td></tr>
-          <tr><td>crimenluv / "juventude antissexo"</td><td>Komsomol soviético e Juventude Hitlerista: órgãos juvenis destinados a canalizar afeto exclusivamente para o Estado</td></tr>
-          <tr><td>propugnar / "memória dupla"</td><td>"trotskyismo-fascismo" — a fórmula com que o stalinismo fundia inimigos opostos num único adjetivo</td></tr>
+          <tr><th>Palavra usada</th><th>Significado real</th></tr>
+          <tr><td>“limpeza”</td><td>morte e perseguição de inimigos políticos</td></tr>
+          <tr><td>“evacuação”</td><td>deportação de pessoas para campos</td></tr>
+          <tr><td>“tratamento especial”</td><td>execução, no vocabulário nazista</td></tr>
         </table>
+        <p class="panel-note">Quem controla as palavras consegue fazer a violência parecer normal.</p>
       </aside>
     </div>
   </section>
 
-  <!-- 09 — NAZIFASCISMO: A CHEFIA -->
-  <section class="slide" data-title="Chefia: Hitler e Mussolini" data-theme="dark">
+  <!-- 09 — DOIS MINUTOS DE ÓDIO -->
+  <section class="slide" data-title="Dois Minutos de Ódio" data-theme="dark">
     <div class="slide-inner two-col">
       <div>
-        <p class="kicker mono">Ato V · nazifascismo</p>
-        <h2>O Grande Irmão tem dois rostos além de Stalin</h2>
-        <p>Orwell escreve no prefácio de 1945 (não publicado, <em>A Liberdade da Imprensa</em>): «o <em>pattern</em> do Grande Irmão vale tanto para Hitler quanto para Stalin». O que a Europa ocidental viu ao vivo, entre 1922 e 1945:</p>
-        <ul class="facts">
-          <li><strong>Itália (1922–1943)</strong> — Mussolini marcha sobre Roma e, na <em>Doutrina do Fascismo</em> (1932, com Giovanni Gentile), formula a tese central: «Tudo no Estado, nada fora do Estado, nada contra o Estado». É a versão secular do teologismo de O'Brien.</li>
-          <li><strong>Alemanha (1933)</strong> — o <em>Ermächtigungsgesetz</em> (Lei de Habilitação, 23/03/1933) dissolve o parlamento por voto: a ditadura nasce <strong>legalmente</strong>, assinada por parlamentares. É exatamente o modo de tomar poder que O'Brien descreve a Winston: «o poder está no poder; e o poder é o direito de impor».</li>
-          <li><strong>Nuremberg (1935)</strong> — as Leis de Nuremberg transformam a biologia em decreto: "cidadão do Reich" só é quem "de sangue alemão ou análogo". A Novilíngua racial já está operante antes de 1949.</li>
-        </ul>
+        <p class="kicker mono">Livro ↔ História</p>
+        <h2>Ódio coletivo todos os dias</h2>
+        <p>Em <em>1984</em>, os cidadãos precisam assistir aos <strong>Dois Minutos de Ódio</strong>: um momento diário para gritar contra o inimigo do Partido.</p>
+        <p>Na Alemanha nazista e na Itália fascista, comícios e desfiles cumpriam essa função. Multidões ouviam discursos, cantavam hinos e gritavam contra inimigos escolhidos pelo governo.</p>
+        <div class="pair">
+          <div class="pair-col"><span class="pair-label mono">NO LIVRO</span><p>Emoção em grupo, todos os dias, contra o mesmo inimigo.</p></div>
+          <div class="pair-col"><span class="pair-label mono">NA VIDA REAL</span><p>Comícios de massa e propaganda pelo rádio criavam a mesma emoção coletiva.</p></div>
+        </div>
+        <p class="small mono">Exemplos: comícios de Nuremberg (Alemanha) e discursos de Mussolini (Itália).</p>
       </div>
-      <aside class="panel">
-        <h3 class="mono">FONTE PRIMÁRIA — FASCISMO</h3>
-        <p class="panel-quote">«Para o fascista, tudo está no Estado, e a natureza humana, <em>na medida em que não existe</em>, existe para o Estado... o Estado é a totalidade, dentro da qual todos os movimentos têm a sua razão de ser.»</p>
-        <p class="panel-src mono">Mussolini & Gentile, <em>La dottrina del fascismo</em> (1932) — <button class="doclink" data-page="html/fontes.html#fasc-doutrina-do-fascismo-1932">texto em fontes/</button></p>
-        <p class="panel-note">Compare com O'Brien: «O indivíduo é sempre derrotado. O coletivo, pelo Partido, é sempre vitorioso». A frase do romance é a mesma tese, agora sem a terminologia hegeliana de Gentile.</p>
-      </aside>
+      <figure class="figure">
+        <img src="assets/nuremberg.jpg" alt="Desfile de massa em Nuremberg, 1934">
+        <figcaption>Comício nazista em Nuremberg, 1934. Domínio público.</figcaption>
+      </figure>
     </div>
   </section>
 
-  <!-- 10 — MECÂNICAS COMPARADAS -->
-  <section class="slide" data-title="O mecanismo, peça por peça" data-theme="dark">
-    <div class="slide-inner">
-      <p class="kicker mono">Ato V · anatomia comparada</p>
-      <h2>Cada engrenagem do romance tem um documento</h2>
-      <div class="mech-grid">
-        <article class="mech" data-mech="telescreen"><h3 class="mono">TELESCREEN</h3><p>Decreto de rádio do Reich de 1939: ouvir emissoras estrangeiras (<em>Feindsender</em>) é crime punível com morte; a <em>Volksempfänger</em> ("receptor do povo") era vendida sem faixa de ondas curtas. Ordem soviética equivalente: <em>radiotočka</em> obrigatória nos apartamentos coletivos, sem botão de desligar.</p></article>
-        <article class="mech" data-mech="quarto101"><h3 class="mono">QUARTO 101</h3><p>A câmara do medo absoluto é literal: 101 é o número de um comitê do Ministério da Informação britânico em que Orwell participou de reuniões. O conteúdo (tortura adaptada ao indivíduo) vem do <em>rescaldo</em> da Gestapo e do NKVD: interrogatório personalizado, arquivo previamente montado sobre a vítima.</p></article>
-        <article class="mech" data-mech="dois-minutos"><h3 class="mono">DOIS MINUTOS DE ÓDIO</h3><p>Os <em>Weckspruch</em> ("palavras da semana") afixados em Berlim, e os comícios do <em>Baldur von Schirach</em> na Juventude Hitlerista, instituíram a emoção coletiva diária programada. A denominação "dois minutos" é literária; o mecanismo é o mesmo.</p></article>
-        <article class="mech" data-mech="memoria"><h3 class="mono">BURACOS DA MEMÓRIA</h3><p>A <em>memory hole</em> do romance tem nome real: <em>shredder</em> na Alemanha, "pastilha de sobreviver" no arquivo soviético. Nas duas, o documento é destruído <strong>antes</strong> do registro; a memória institucional nasce já limpa.</p></article>
-        <article class="mech" data-mech="proles"><h3 class="mono">OS PROLES</h3><p>Orwell separa 85% da população em uma massa que "não precisa ser controlada, só entretida". O paralelo econômico é o <em>Carta del Lavoro</em> (1927), que estatiza a organização do trabalho italiano e transforma o sindicato em órgão de Estado — a classe não é oprimida, é <em>institucionalizada</em> <span class="src-tag mono">[CARTA DEL LAVORO 1927]</span>.</p></article>
-        <article class="mech" data-mech="pacto"><h3 class="mono">GUERRA PERMANENTE</h3><p>Em 23/08/1939, o protocolo secreto do pacto Molotov-Ribbentrop divide a Polônia e os Bálticos entre inimigos que "sempre foram amigos". Em 22/06/1941, a amizade vira guerra sem que nenhum documento publique a troca. Winston tem a memória da primeira versão — e é justamente essa memória que o partido punirá.</p></article>
-      </div>
-      <p class="map-note mono">Clique em qualquer bloco acima para o detalhe do documento correspondente.</p>
-    </div>
-  </section>
-
-  <!-- 11 — MAQUIAVEL -->
-  <section class="slide" data-title="O Príncipe" data-theme="dark">
-    <div class="slide-inner two-col">
-      <div>
-        <p class="kicker mono">Ato VI · a teoria do poder</p>
-        <h2>O Príncipe (1513): como se <em>toma</em> o poder que 1984 <em>exerce</em></h2>
-        <p>1984 não cita Maquiavel; cita-o com a mão esquerda. O romance é a ilustração do estado <em>depois</em> da conquista descrita em <em>O Príncipe</em>:</p>
-        <ul class="facts">
-          <li><strong>Cap. VI — novos principados por armas próprias</strong>: quem funda um regime novo precisa de <em>leis próprias</em>. A Novilíngua é exatamente isso: a lei linguística do novo príncipe, que substitui o vocabulário antigo em vez de proibi-lo.</li>
-          <li><strong>Cap. VII — Cesare Borgia</strong>: o agente que "limpa" os obstáculos e depois é sacrificado publicamente pelo patrão para ganhar credibilidade. Este é o papel histórico de <strong>Beria</strong> (fuzilado por ordem de seus próprios colegas, 1953) e de <strong>Yezhov</strong> (executado em 1940) — cada um era "o mais fiel" até a manhã da prisão.</li>
-          <li><strong>Cap. XVII — "é mais seguro ser temido que amado"</strong>: a frase estrutural do Grande Irmão. O romance acrescenta a tese de O'Brien: «o amor e o medo devem convergir na mesma pessoa» — a fusão que nem Maquiavel formulou.</li>
-          <li><strong>Cap. XVIII — raposa e leão</strong>: o príncipe deve quebrar a fé "quando é necessário". O tratado Molotov-Ribbentrop é a leitura em 20 anos de intervalo: quebrar a fé é a política externa.</li>
-        </ul>
-      </div>
-      <aside class="panel">
-        <h3 class="mono">FONTE — MAQUIAVEL</h3>
-        <p class="panel-quote">«Não é necessário que o príncipe <em>tenha</em> todas as boas qualidades, mas é necessário que <em>pareça</em> tê-las.»</p>
-        <p class="panel-src mono">Niccolò Machiavelli, <em>Il Principe</em> (1513/1532), cap. XV — <button class="doclink" data-page="html/fontes.html#maquiavel-o-principe-integral">texto integral em fontes/</button></p>
-        <p class="panel-note">Antonio Gramsci, no <em>Caderno do Cárcere</em>, chama o moderno príncipe de "o partido"; Orwell chama-o de "o Partido". A mesma palavra com dois desfechos opostos: Gramsci espera a conquista, Orwell descreve a administração.</p>
-      </aside>
-    </div>
-  </section>
-
-  <!-- 12 — FILÓSOFOS E HISTORIADORES -->
-  <section class="slide" data-title="Os leitores de 1984" data-theme="dark">
-    <div class="slide-inner">
-      <p class="kicker mono">Ato VII · a literatura crítica</p>
-      <h2>Quatro leituras que o romance não contém, mas confirma</h2>
-      <div class="thinker-grid">
-        <article class="thinker"><h3>Hannah Arendt</h3><p class="year mono">As Origens do Totalitarismo, 1951</p><p>O sujeito ideal do totalitarismo «é aquele para quem a distinção entre fato e ficção... e entre verdadeiro e falso... não existe mais». Arendt lê 1984 como tese, não como ficção: o totalitarismo é organização da mentira, não da violência em si.</p></article>
-        <article class="thinker"><h3>Claude Lefort</h3><p class="year mono">A Imagem do Corpo e o Totalitarismo, 1979</p><p>O poder democrático é <em>vazio</em>; o totalitário reencarna o corpo social num só corpo. O Grande Irmão é a operação de Lefort literalizada: o corpo do Estado precisa de um rosto, porque o "povo" não tem um.</p></article>
-        <article class="thinker"><h3>Jacob Talmon</h3><p class="year mono">Democracia Totalitária, 1952</p><p>O totalitarismo é herdeiro de Rousseau: uma "vontade geral" que se sabe certa e precisa apenas ser <em>executada</em>. A "vontade do Partido" de 1984 é essa vontade, burocratizada.</p></article>
-        <article class="thinker"><h3>Walter Benjamin</h3><p class="year mono">A Obra de Arte..., 1936</p><p>«O fascismo organiza a emancipação de todas as massas... mas lhes mantém a propriedade» — e conclui que o totalitarismo <em>estetiza a política</em>. Os Dois Minutos de Ódio são a estética benjaminiana do corpo coletivo: emoção sem informação.</p></article>
-        <article class="thinker"><h3>Robert Conquest</h3><p class="year mono">O Grande Terror, 1968</p><p>Estimou em <em>pelo menos</em> 681.692 execuções os processos do NKVD de 1937–38 apenas nas estatísticas oficiais — e observou que a versão publicada da história era <em>literalmente</em> a matéria-prima do "Ministério da Verdade" antes de existir o livro.</p></article>
-        <article class="thinker"><h3>Timothy Snyder</h3><p class="year mono">Terras de Sangue, 2010</p><p>Situa 1984 no espaço real: as <em>14 milhões</em> de mortes civis da Polônia, Ucrânia, Bielorrússia e Báltico entre 1933 e 1945 — a faixa exata em que Oceânia, Eurásia e Lestásia "sempre combateram".</p></article>
-        <article class="thinker"><h3>Zygmunt Bauman</h3><p class="year mono">Modernidade e o Holocausto, 1989</p><p>O genocídio não é regresso à barbárie: é <em>produto da racionalidade burocrática</em>. O Minipax, o Miniverdade e o Minisão são essa racionalidade, agora nomeada.</p></article>
-        <article class="thinker"><h3>François Furet</h3><p class="year mono">O Passado de uma Ilusão, 1995</p><p>Explica por que inteligências ocidentais <em>aceitaram</em> a narrativa soviética por décadas: a ilusão é fruto do fascínio pelo poder de reescrever a história — o mesmo fascínio que 1984 satiriza.</p></article>
-      </div>
-    </div>
-  </section>
-
-  <!-- 13 — PÓS-STALIN -->
-  <section class="slide" data-title="Pós-Stalin" data-theme="dark">
-    <div class="slide-inner two-col">
-      <div>
-        <p class="kicker mono">Ato VIII · o desfecho real</p>
-        <h2>1956: o romance já estava escrito, o Estado se redime (ou alega)</h2>
-        <p>Em 25/02/1956, Khrushchev lê a portas fechidas o <strong>Relatório Secreto</strong> e confirma a acusação que Orwell havia transformado em ficção sete anos antes. Mas o mesmo relatório é o documento da <em>continuidade</em>: Khrushchev denuncia Stalin <strong>sem denunciar o sistema</strong> — e a diferença é a mesma que distingue Winston de O'Brien.</p>
-        <ul class="facts">
-          <li><strong>Des-Stalinização limitada</strong>: as fotos mudam (o comissário desaparece do cânon oficial, agora por decreto de reabilitação), os mecanismos permanecem. Lefort chama isso de "totalitarismo sem a figura": o poder continua encarnado no Partido, não mais no corpo de um homem.</li>
-          <li><strong>Hungria, 1956</strong>: três meses após o relatório, o mesmo aparato que confessou os crimes esmaga a revolta de Budapeste — a prova de que o Relatório Secreto era <em>gestão interna</em>, não abertura.</li>
-          <li><strong>1961–64</strong>: o corpo de Stalin é retirado do Mausoléu de Lênin de madrugada, sem anúncio público. A operação é idêntica à que Winston executa no Ministério: uma pessoa é redefinida como inexistente e o registro é apagado — só que, desta vez, com outra narrativa.</li>
-        </ul>
-      </div>
-      <aside class="panel">
-        <h3 class="mono">DOCUMENTO DA VIRADA</h3>
-        <p class="panel-quote">«O culto à personalidade conduz <em>a uma violação da legalidade soviética</em>, a arbitrariedades e a uma repressão de massa... Muitas pessoas honestas e leais ao Partido e à causa do comunismo foram reprimidas.»</p>
-        <p class="panel-src mono">Khrushchev, Relatório Secreto (25/02/1956) — <button class="doclink" data-page="html/fontes.html#urss-khrushchev-relatorio-secreto-1956">texto em fontes/</button></p>
-        <p class="panel-note">A ironia estrutural: o documento que termina o culto é lido em sessão <em>secreta</em> do Partido. O Estado continuava a decidir quais verdades eram publicáveis — exatamente o poder que o romance atribui ao Miniverdade.</p>
-      </aside>
-    </div>
-  </section>
-
-  <!-- 14 — SÍNTESE -->
-  <section class="slide" data-title="Síntese" data-theme="dark">
-    <div class="slide-inner">
-      <p class="kicker mono">Ato IX · conclusão</p>
-      <h2>O que 1984 diz que nenhum documento sozinho diz</h2>
-      <div class="synth-grid">
-        <div class="synth"><h3 class="mono">1 · O passado é uma instituição</h3><p>Cada documento deste dossiê — o Decreto Kirov, o protocolo secreto, a Lei de Habilitação, a Carta del Lavoro, o Curso Curto do PCUS — mostra que a <em>história escrita</em> era um instrumento administrativo do Estado, não um registro.</p></div>
-        <div class="synth"><h3 class="mono">2 · A linguagem é o campo de batalha</h3><p>Orwell formulou a tese em 1946, antes do romance: quem controla os eufemismos controla a percepção da violência. A Novilíngua é a teoria aplicada.</p></div>
-        <div class="synth"><h3 class="mono">3 · O poder quer o poder</h3><p>A resposta de O'Brien a Winston («o poder é um fim em si») é a tradução literária da prática comum de Maquiavel a Stalin: o regime que já venceu continua a produzir inimigos <em>para ter</em> uma função.</p></div>
-        <div class="synth"><h3 class="mono">4 · O romance é documento</h3><p><em>1984</em> é hoje lido junto com os arquivos que ele antecipou: as fotos de David King, o Relatório Secreto, os processos de Nuremberg. A ficção funciona como <em>arquivo especular</em>: fornece o vocabulário com que entendemos os documentos reais.</p></div>
-      </div>
-      <blockquote class="bigquote center">«Quem controla o passado controla o futuro; quem controla o presente controla o passado.»<cite>— <em>1984</em>, pt. 1, cap. III</cite></blockquote>
-    </div>
-  </section>
-
-  <!-- 15 — A TELA FINAL: QUARTO 101 -->
-  <section class="slide" data-title="O quarto" data-theme="room">
+  <!-- 10 — QUARTO 101 -->
+  <section class="slide" data-title="Quarto 101" data-theme="dark">
     <div class="slide-inner room-inner">
-      <p class="kicker mono">Épílogo · o espelho</p>
-      <h2 class="room-title">O quarto 101 não é da Oceânia.</h2>
-      <p class="room-text">É qualquer espaço onde uma autoridade decide que versão do passado pode ser lembrada — e a diferença entre documento e ficção desaparece. O romance termina com Winston aceitando a versão oficial. O usuário desta apresentação pode escolher outra: <strong>ler os documentos originais</strong>.</p>
-      <div class="doc-strip mono center">
-        <button class="doclink" data-page="html/fontes.html">▸ ABRIR O DOSSIÊ DE FONTES BAIXADAS</button>
-        <button class="doclink" data-page="html/glossario.html">▸ GLOSSÁRIO NOVILÍNGUA / HISTÓRICO</button>
-      </div>
-      <button class="cta" data-restart>↺ REINICIAR A APRESENTAÇÃO</button>
-      <p class="hint mono">O loop é deliberado: em <em>1984</em>, a história não termina; ela é reeditada.</p>
+      <p class="kicker mono">Livro ↔ História</p>
+      <h2 class="room-title">O Quarto 101 usa o seu maior medo</h2>
+      <blockquote class="bigquote center">«O que está no Quarto 101 é o pior que existe para você.»<cite><em>1984</em>, parte 3, capítulo 5</cite></blockquote>
+      <p class="room-text">No livro, a tortura é <strong>personalizada</strong>: cada prisioneiro enfrenta aquilo que mais teme. Nos regimes totalitários, interrogadores também montavam dossiês sobre a vida das vítimas para encontrar seu ponto fraco.</p>
+      <p class="room-text">Uma das explicações para o número 101 é que ele vinha de uma sala de reuniões do Ministério da Informação britânico, onde Orwell trabalhou durante a guerra.</p>
+      <p class="small mono">Fonte: D. J. Taylor, <em>Orwell: A Vida</em>; relatos sobre a Gestapo e a NKVD.</p>
     </div>
   </section>
 
-  <!-- 16 — FECHAMENTO -->
-  <section class="slide" data-title="Créditos e aviso" data-theme="dark">
-    <div class="slide-inner credits">
-      <h2>Créditos e aviso de uso</h2>
-      <p>Todos os documentos primários citados estão baixados na pasta <span class="mono">fontes/</span> com rótulo, URL de origem e status de validação no arquivo <span class="mono">fontes/MANIFESTO.md</span>. Obras protegidas por direito autoral (Arendt, Bauman, Snyder, Furet, Conquest, Lefort, Talmon) são citadas por referência e página, não reproduzidas.</p>
-      <p>Subpáginas temáticas: <button class="doclink" data-page="html/revolucao-russa.html">Revolução Russa</button> · <button class="doclink" data-page="html/nazifascismo.html">Nazifascismo</button> · <button class="doclink" data-page="html/urss-stalinista.html">URSS stalinista</button> · <button class="doclink" data-page="html/pos-stalin.html">URSS pós-Stalin</button> · <button class="doclink" data-page="html/maquiavel.html">Maquiavel</button> · <button class="doclink" data-page="html/filosofos.html">Filósofos e historiadores</button>.</p>
-      <p class="mono small">Projeto educacional. Fontes baixadas em domínio público ou arquivos abertos; capturas em 13/11/2026.</p>
-      <button class="cta" data-restart>↺ VOLTAR AO INÍCIO</button>
+  <!-- 11 — GUERRA PERMANENTE -->
+  <section class="slide" data-title="Guerra permanente" data-theme="dark">
+    <div class="slide-inner two-col">
+      <div>
+        <p class="kicker mono">Livro ↔ História</p>
+        <h2>O inimigo de hoje era o aliado de ontem</h2>
+        <p>Em <em>1984</em>, Oceânia muda de inimigo no meio de um discurso, e ninguém pode contestar. O passado é reescrito para combinar com a nova versão.</p>
+        <p>Isso aconteceu de verdade em <strong>23 de agosto de 1939</strong>: Alemanha nazista e União Soviética assinaram o <strong>Pacto Molotov-Ribbentrop</strong> e dividiram parte da Europa. Eram inimigos declarados. Viraram aliados da noite para o dia.</p>
+        <p>Em <strong>22 de junho de 1941</strong>, a Alemanha invadiu a URSS. A propaganda mudou outra vez — e a população teve de aceitar a nova versão.</p>
+      </div>
+      <figure class="figure">
+        <img src="assets/molotov-ribbentrop.jpg" alt="Assinatura do Pacto Molotov-Ribbentrop em Moscou, 1939">
+        <figcaption>Assinatura do Pacto Molotov-Ribbentrop, Moscou, 1939. Arquivo Nacional dos EUA, domínio público.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <!-- 12 — CONCLUSÃO -->
+  <section class="slide" data-title="Conclusão" data-theme="room">
+    <div class="slide-inner">
+      <p class="kicker mono">Conclusão</p>
+      <h2 class="room-title">1984 não inventou o totalitarismo. Deu nome a ele.</h2>
+      <div class="synth-grid">
+        <div class="synth"><h3 class="mono">1 · O passado pode ser reescrito</h3><p>Fotos apagadas, livros corrigidos e inimigos removidos da história oficial.</p></div>
+        <div class="synth"><h3 class="mono">2 · As palavras controlam o pensamento</h3><p>Eufemismos fazem a violência parecer normal e difícil de contestar.</p></div>
+        <div class="synth"><h3 class="mono">3 · O medo mantém o poder</h3><p>Vigilância, denúncias e guerra permanente mantêm todos obedecendo.</p></div>
+        <div class="synth"><h3 class="mono">4 · A ficção ajuda a enxergar</h3><p>Orwell juntou fatos reais em uma história para mostrar como o totalitarismo funciona.</p></div>
+      </div>
+      <blockquote class="bigquote center">«Quem controla o passado controla o futuro; quem controla o presente controla o passado.»<cite><em>1984</em>, parte 1, capítulo 3</cite></blockquote>
+      <div class="final-actions center">
+        <div class="doc-strip mono">
+          <button class="doclink" data-page="html/fontes.html">▸ VER FONTES</button>
+          <button class="doclink" data-page="html/glossario.html">▸ GLOSSÁRIO</button>
+        </div>
+        <button class="cta" data-restart>↺ VOLTAR AO INÍCIO</button>
+        <p class="hint mono">Fotos históricas: Wikimedia Commons, em domínio público. Projeto educacional.</p>
+      </div>
     </div>
   </section>
 
 </main>
-
-<div id="mechModal" hidden>
-  <div id="mechModalInner"><button id="mechClose">✕</button><div id="mechContent"></div></div>
-</div>
 
 <div id="noteTip" hidden></div>
 
